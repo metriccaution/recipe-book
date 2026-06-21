@@ -1,0 +1,24 @@
+---
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+import { recipes, allTags } from '../../data.ts';
+import { slugify } from '../../utils.ts';
+
+export async function getStaticPaths() {
+  return allTags().map((tag) => ({
+    params: { tag: slugify(tag) },
+    props: { tag },
+  }));
+}
+
+const { tag } = Astro.props;
+const tagRecipes = recipes
+  .filter((r) => r.tags.includes(tag))
+  .sort((a, b) => a.title.localeCompare(b.title));
+---
+
+<Base title={`${tag} — Recipes`}>
+  <h1>{tag}</h1>
+  <p>{tagRecipes.length} recipe{tagRecipes.length !== 1 ? 's' : ''}</p>
+  {tagRecipes.map((r) => <RecipeCard recipe={r} />)}
+</Base>

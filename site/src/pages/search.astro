@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import { siteUrl } from '../utils.ts';
+---
+
+<Base title="Search — Recipes">
+  <link slot="head" rel="stylesheet" href={siteUrl('/pagefind/pagefind-ui.css')} />
+  <h1>Search</h1>
+  <div id="search"></div>
+</Base>
+
+<script is:inline>
+  import('/pagefind/pagefind-ui.js').then(() => {
+    new window.PagefindUI({ element: '#search', showSubResults: false });
+  });
+</script>
+
+<style>
+  #search { margin-top: 1rem; }
+</style>

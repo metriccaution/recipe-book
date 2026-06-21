@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import RecipeCard from '../../components/RecipeCard.astro';
+import { recipes, allSections } from '../../data.ts';
+
+export async function getStaticPaths() {
+  return allSections().map((section) => ({
+    params: { section: section.toLowerCase() },
+    props: { section },
+  }));
+}
+
+const { section } = Astro.props;
+const sectionRecipes = recipes
+  .filter((r) => r.section === section)
+  .sort((a, b) => a.title.localeCompare(b.title));
+---
+
+<Base title={`${section} — Recipes`}>
+  <h1>{section}</h1>
+  <p>{sectionRecipes.length} recipe{sectionRecipes.length !== 1 ? 's' : ''}</p>
+  {sectionRecipes.map((r) => <RecipeCard recipe={r} />)}
+</Base>

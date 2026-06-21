@@ -1,0 +1,57 @@
+---
+import type { Recipe } from '../types.ts';
+import { slugify, formatDuration, siteUrl } from '../utils.ts';
+
+interface Props {
+  recipe: Recipe;
+}
+
+const { recipe } = Astro.props;
+const href = siteUrl(`/${recipe.slug}/`);
+const prep = formatDuration(recipe.prepTime);
+const cook = formatDuration(recipe.cookingTime);
+---
+
+<article class="card">
+  <a href={href}><strong>{recipe.title}</strong></a>
+  <div class="meta">
+    <a class="section-link" href={siteUrl(`/section/${recipe.section.toLowerCase()}/`)}>{recipe.section}</a>
+    {prep && <span>{prep} prep</span>}
+    {cook && <span>{cook} cook</span>}
+    {recipe.serves && <span>serves {recipe.serves}</span>}
+  </div>
+  {recipe.tags.length > 0 && (
+    <div class="tags">
+      {recipe.tags.map((tag) => (
+        <a class="tag" href={siteUrl(`/tag/${slugify(tag)}/`)}>{tag}</a>
+      ))}
+    </div>
+  )}
+</article>
+
+<style>
+  .card {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .card a { text-decoration: none; }
+  .card a:hover { text-decoration: underline; }
+  .meta {
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    margin-top: 0.2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .section-link { color: var(--color-accent); }
+  .tags { margin-top: 0.3rem; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .tag {
+    font-size: 0.78rem;
+    background: #f0f0f0;
+    border-radius: 3px;
+    padding: 0.1rem 0.4rem;
+    color: var(--color-muted);
+  }
+  .tag:hover { background: #e0e0e0; }
+</style>

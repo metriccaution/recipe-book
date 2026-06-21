@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import { recipes, allTags } from '../../data.ts';
+import { slugify, siteUrl } from '../../utils.ts';
+
+const tags = allTags();
+---
+
+<Base title="Tags — Recipes">
+  <h1>Tags</h1>
+  <ul class="tag-list">
+    {tags.map((tag) => {
+      const count = recipes.filter((r) => r.tags.includes(tag)).length;
+      return (
+        <li>
+          <a href={siteUrl(`/tag/${slugify(tag)}/`)}>{tag}</a>
+          <span class="count">{count}</span>
+        </li>
+      );
+    })}
+  </ul>
+</Base>
+
+<style>
+  .tag-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.4rem;
+  }
+  .tag-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4rem 0.6rem;
+    background: #f8f8f8;
+    border-radius: 4px;
+    font-size: 0.9rem;
+  }
+  .tag-list a { text-decoration: none; }
+  .tag-list a:hover { text-decoration: underline; }
+  .count { font-size: 0.8rem; color: var(--color-muted); }
+</style>

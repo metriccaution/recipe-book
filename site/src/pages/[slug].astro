@@ -1,0 +1,135 @@
+---
+import Base from '../layouts/Base.astro';
+import StepList from '../components/StepList.astro';
+import { recipes, getJsonLd } from '../data.ts';
+import { slugify, formatDuration, formatDate, siteUrl, md, mdBlock } from '../utils.ts';
+import type { Source } from '../types.ts';
+
+export async function getStaticPaths() {
+  return recipes.map((recipe) => ({
+    params: { slug: recipe.slug },
+    props: { recipe },
+  }));
+}
+
+const { recipe } = Astro.props;
+const jsonLd = getJsonLd(recipe.title);
+
+const prep = formatDuration(recipe.prepTime);
+const cook = formatDuration(recipe.cookingTime);
+
+function sourceText(source: Source): { text: string; url?: string } {
+  if (source.type === 'url') {
+    return { text: source.description ?? source.url, url: source.url };
+  }
+  if (source.type === 'isbn') {
+    const label = [source.description, source.isbn ? `ISBN ${source.isbn}` : null, source.page ? `p. ${source.page}` : null]
+      .filter(Boolean)
+      .join(' · ');
+    return { text: label };
+  }
+  return { text: source.description };
+}
+
+const src = sourceText(recipe.source);
+---
+
+<Base title={`${recipe.title} — Recipes`} description={recipe.description} jsonLd={jsonLd ?? undefined}>
+  <div data-pagefind-body>
+    <div class="breadcrumb" data-pagefind-ignore>
+      <a href={siteUrl(`/section/${recipe.section.toLowerCase()}/`)}>{recipe.section}</a>
+    </div>
+
+    <h1>{recipe.title}</h1>
+
+    {recipe.tags.length > 0 && (
+      <div class="tags" data-pagefind-ignore>
+        {recipe.tags.map((tag) => (
+          <a class="tag" href={siteUrl(`/tag/${slugify(tag)}/`)}>{tag}</a>
+        ))}
+      </div>
+    )}
+
+    {recipe.description && <div class="description" set:html={mdBlock(recipe.description)} />}
+
+    <dl class="meta">
+      {prep && <><dt>Prep</dt><dd>{prep}</dd></>}
+      {cook && <><dt>Cook</dt><dd>{cook}</dd></>}
+      {recipe.serves && <><dt>Serves</dt><dd>{recipe.serves}</dd></>}
+      <dt>Based On</dt>
+      <dd>
+        {src.url ? <a href={src.url} rel="noopener">{src.text}</a> : src.text}
+      </dd>
+      <dt>Added at</dt>
+      <dd>{formatDate(recipe.created_at)}</dd>
+    </dl>
+
+    {recipe.equipment.length > 0 && (
+      <>
+        <h2>Equipment</h2>
+        <ul>
+          {recipe.equipment.map((item) => <li>{item}</li>)}
+        </ul>
+      </>
+    )}
+
+    <h2>Ingredients</h2>
+    {recipe.ingredients.map((group) => (
+      <>
+        {group.group && <h3>{group.group}</h3>}
+        <ul>
+          {group.ingredients.map((ing) => (
+            <li>
+              <span class="qty">{ing.quantity}</span> {ing.ingredient}
+              {ing.notes && <span class="notes"> ({ing.notes})</span>}
+            </li>
+          ))}
+        </ul>
+      </>
+    ))}
+
+    <h2>Method</h2>
+    {recipe.steps.map((group) => (
+      <>
+        {group.title && <h3>{group.title}</h3>}
+        {group.text && <p set:html={md(group.text)} />}
+        <StepList steps={group.steps} />
+      </>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .breadcrumb { font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .breadcrumb a { text-decoration: none; color: var(--color-muted); }
+  .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.5rem 0 1rem; }
+  .tag {
+    font-size: 0.78rem;
+    background: #f0f0f0;
+    border-radius: 3px;
+    padding: 0.1rem 0.4rem;
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+  .tag:hover { background: #e0e0e0; }
+  .description { color: var(--color-muted); margin-bottom: 1rem; }
+  .meta {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.25rem 1rem;
+    font-size: 0.9rem;
+    margin: 1rem 0 1.5rem;
+    border-top: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-border);
+    padding: 0.75rem 0;
+  }
+  dt { color: var(--color-muted); font-weight: normal; }
+  dd { margin: 0; }
+  h2 { border-top: 1px solid var(--color-border); padding-top: 0.5rem; }
+  h3 { font-size: 1rem; margin: 1rem 0 0.4rem; color: var(--color-muted); }
+  ol { padding-left: 1.4rem; margin-bottom: 0.75rem; }
+  ol li { margin-bottom: 0.5rem; }
+  .qty { font-weight: 600; }
+  .notes { color: var(--color-muted); font-size: 0.9rem; }
+  .substeps { margin-top: 0.35rem; }
+</style>

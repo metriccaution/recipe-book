@@ -1,0 +1,23 @@
+---
+import type { InstructionStep } from '../types.ts';
+import { md } from '../utils.ts';
+
+interface Props {
+  steps: InstructionStep[];
+  ordered?: boolean;
+}
+
+const { steps, ordered = true } = Astro.props;
+const Tag = ordered ? 'ol' : 'ul';
+---
+
+<Tag>
+  {steps.map((step) => (
+    <li>
+      <span set:html={md(step.text)} />
+      {step.substeps && step.substeps.length > 0 && (
+        <Astro.self steps={step.substeps} ordered={false} />
+      )}
+    </li>
+  ))}
+</Tag>
