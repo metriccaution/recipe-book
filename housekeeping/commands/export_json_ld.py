@@ -23,7 +23,7 @@ def recipe_to_json_ld(recipe: SourceRecipe) -> JsonLdRecipe:
     ingredients = []
     for ingredient_group in recipe.ingredients:
         for ingredient in ingredient_group.ingredients:
-            text = f"{ingredient.quantity} {ingredient.ingredient}"
+            text = f"{ingredient.quantity} {' or '.join(ingredient.alternate_ingredients())}"
             if ingredient.notes:
                 text += f" ({ingredient.notes})"
             ingredients.append(text)

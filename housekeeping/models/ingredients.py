@@ -41,21 +41,32 @@ class IngredientMetadata(BaseModel):
     tags: list[str] = []
     units: Optional[list[Units]] = None
 
+    @field_validator("name", "synonyms", mode="before")
+    @classmethod
+    def no_slash(cls, v: str | list[str]) -> str | list[str]:
+        values = v if isinstance(v, list) else [v]
+        for value in values:
+            if "/" in value:
+                raise ValueError(
+                    f"Ingredient name must not contain '/': {value!r}, as that's used to indicate alternate ingredients."
+                )
+        return v
+
     @field_validator("tags")
     @classmethod
     def valid_tags(cls, v: list[str]) -> list[str]:
-        v.sort()
+        if len(v) != len(set(v)):
+            raise ValueError("Tags must be unique")
 
-        deduped = list(set(v))
-        deduped.sort()
-        assert v == deduped
+        # Sort it for neatness
+        v.sort()
 
         return v
 
     def matches_ingredient(self, ingredient: Ingredient) -> bool:
         "Does this ingredient match the reference data."
 
-        parts = [part.strip() for part in ingredient.ingredient.split("/")]
+        parts = ingredient.alternate_ingredients()
         matches_name = any(part == self.name or part in self.synonyms for part in parts)
         if not matches_name:
             return False

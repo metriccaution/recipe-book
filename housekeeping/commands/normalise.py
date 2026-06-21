@@ -27,8 +27,8 @@ def normalise(source_dir: Path):
         extra_tags = []
         for ig in r.ingredients:
             for il in ig.ingredients:
-                for i in il.ingredient.split(" / "):
-                    extra_tags += tags_by_ingredient[i]
+                for i in il.alternate_ingredients():
+                    extra_tags += tags_by_ingredient.get(i, [])
 
         r.tags = list(set(tags + extra_tags))
         r.tags.sort()

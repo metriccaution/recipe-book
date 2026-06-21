@@ -23,7 +23,7 @@ def typst_export(source_dir: Path, export_directory: Path):
     repo = RecipeRepository.from_directory(source_dir)
 
     printable_recipes = []
-    tags = set()
+    recipes_by_tag: dict[str, list[dict]] = {}
     for recipe in sorted(repo.recipes, key=lambda r: r.title):
         printable_recipes.append(
             {
@@ -37,8 +37,9 @@ def typst_export(source_dir: Path, export_directory: Path):
             }
         )
 
+        entry = {"label": recipe.identifier, "text": recipe.title}
         for tag in recipe.tags:
-            tags.add(tag)
+            recipes_by_tag.setdefault(tag, []).append(entry)
 
     by_section = []
     for section in Section:
@@ -51,29 +52,16 @@ def typst_export(source_dir: Path, export_directory: Path):
             }
         )
 
-    filter_tags = _overly_general_tags + _internal_tags
+    filter_tags = set(_overly_general_tags + _internal_tags)
 
-    by_tag = []
-    for tag in sorted(tags):
-        if tag in filter_tags:
-            continue
-
-        by_tag.append(
-            {
-                "title": tag,
-                "items": sorted(
-                    [
-                        {
-                            "label": r.identifier,
-                            "text": r.title,
-                        }
-                        for r in repo.recipes
-                        if tag in r.tags
-                    ],
-                    key=lambda r: r["text"],
-                ),
-            }
-        )
+    by_tag = [
+        {
+            "title": tag,
+            "items": sorted(recipes_by_tag[tag], key=lambda r: r["text"]),
+        }
+        for tag in sorted(recipes_by_tag)
+        if tag not in filter_tags
+    ]
 
     export_directory.mkdir(exist_ok=True, parents=True)
 

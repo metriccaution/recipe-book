@@ -1,6 +1,5 @@
 from datetime import date
 from enum import Enum
-from operator import attrgetter
 from re import compile, sub
 from typing import Literal, Optional, Union
 from urllib.parse import urlsplit
@@ -69,6 +68,17 @@ class Ingredient(BaseModel):
     ingredient: str
     notes: Optional[str] = None
 
+    @field_validator("ingredient")
+    @classmethod
+    def valid_ingredient(cls, v: str) -> str:
+        parts = [part.strip() for part in v.split("/")]
+        if any(part == "" for part in parts):
+            raise ValueError(f"Ingredient has empty alternate: {v!r}")
+        return v
+
+    def alternate_ingredients(self) -> list[str]:
+        return [part.strip() for part in self.ingredient.split("/")]
+
 
 class IngredientGroup(BaseModel):
     """A group of ingredients.
@@ -86,7 +96,7 @@ class IngredientGroup(BaseModel):
     @field_validator("ingredients")
     @classmethod
     def unique_ingredients(cls, items: list[Ingredient]) -> list[Ingredient]:
-        names = [attrgetter("ingredient")(item) for item in items]
+        names = [item.ingredient for item in items]
         if len(set(names)) != len(names):
             raise ValueError(f"Ingredients must be unique, but got: {','.join(names)}")
         return items
@@ -101,7 +111,8 @@ class InstructionStep(BaseModel):
     @field_validator("text")
     @classmethod
     def valid_text(cls, v: str) -> str:
-        assert "\n" not in v
+        if "\n" in v:
+            raise ValueError("A recipe step must not include new-lines")
         return _whitespace_regex.sub(" ", v).strip()
 
 
