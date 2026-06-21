@@ -1,0 +1,9 @@
+identifier: bc9e2336-c5af-420e-aa5a-310e8eceae0f
+name: Water
+include_in_shopping: false
+synonyms:
+- Cold Water
+- Hot Water
+- Boiling Water
+measure: volume
+tags: []
