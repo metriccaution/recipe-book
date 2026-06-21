@@ -210,5 +210,4 @@ class Recipe(BaseModel):
                 raise ValueError("Step group titles must be unique")
         return v
 
-    # TODO - To markdown method
     # TODO - Camel case

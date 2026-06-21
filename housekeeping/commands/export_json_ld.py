@@ -20,7 +20,7 @@ def _convert_step(source: InstructionStep) -> HowToStep:
 
 
 def recipe_to_json_ld(recipe: SourceRecipe) -> JsonLdRecipe:
-    ingredients = []
+    ingredients: list[str] = []
     for ingredient_group in recipe.ingredients:
         for ingredient in ingredient_group.ingredients:
             text = f"{ingredient.quantity} {' or '.join(ingredient.alternate_ingredients())}"
@@ -28,19 +28,22 @@ def recipe_to_json_ld(recipe: SourceRecipe) -> JsonLdRecipe:
                 text += f" ({ingredient.notes})"
             ingredients.append(text)
 
-    instructions = []
+    instructions: list[HowToStep] | list[HowToSection]
     if len(recipe.steps) == 1:
-        for step in recipe.steps[0].steps:
-            instructions.append(_convert_step(step))
+        instructions = [_convert_step(step) for step in recipe.steps[0].steps]
     else:
+        section_list: list[HowToSection] = []
         for step_group in recipe.steps:
-            assert len(step_group.title) > 0, "No title on group"
-            instructions.append(
+            title = step_group.title
+            if title is None or len(title) == 0:
+                raise ValueError("No title on group")
+            section_list.append(
                 HowToSection(
-                    name=step_group.title,
+                    name=title,
                     itemListElement=[_convert_step(step) for step in step_group.steps],
                 )
             )
+        instructions = section_list
 
     return JsonLdRecipe(
         name=recipe.title,

@@ -3,7 +3,7 @@ from pathlib import Path
 from housekeeping.models.repository import RecipeRepository
 
 
-def export_json(source_dir: Path, export_path: Path):
+def export_json(source_dir: Path, export_path: Path) -> None:
     """Load the repo, then write out a compiled version of the repository into
     a single JSON file, intended for programmatic consumption.
     """

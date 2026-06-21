@@ -8,7 +8,7 @@ from housekeeping.models.repository import RecipeRepository
 
 _repo = RecipeRepository.from_directory(Path("recipes"))
 
-_ingredients = set()
+_ingredients: set[str] = set()
 for i in _repo.ingredients:
     _ingredients.add(i.name)
     for synonym in i.synonyms:
@@ -45,7 +45,7 @@ def test_ingredients_are_used(ingredient: IngredientMetadata):
 
 
 def test_uuids_unique():
-    uuids = {}
+    uuids: dict[str, list[str]] = {}
 
     for recipe in _repo.recipes:
         if recipe.identifier not in uuids:

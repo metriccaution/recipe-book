@@ -5,6 +5,9 @@ uv run ruff check --select I --fix .
 uv run ruff check --fix
 uv run ruff format
 
+# Type-check
+uv run pyright housekeeping/
+
 # Check the code
 uv run pytest --ignore=housekeeping/recipes_tests
 

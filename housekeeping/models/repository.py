@@ -18,8 +18,8 @@ class RecipeRepository(BaseModel):
     @classmethod
     def from_directory(cls, source_directory: Path) -> "RecipeRepository":
         "Load up a directory to structure data. See also, `to_directory`."
-        ingredients = []
-        recipes = []
+        ingredients: list[IngredientMetadata] = []
+        recipes: list[Recipe] = []
 
         for ingredient_file in Path(source_directory, "ingredients").rglob("*.yaml"):
             with open(ingredient_file) as f:
@@ -35,7 +35,7 @@ class RecipeRepository(BaseModel):
 
         return RecipeRepository(ingredients=ingredients, recipes=recipes)
 
-    def to_directory(self, export_directory: Path):
+    def to_directory(self, export_directory: Path) -> None:
         "Write structured data to a directory. See also, `from_directory`."
 
         export_directory.mkdir(parents=True, exist_ok=True)

@@ -25,6 +25,6 @@ class TestTimeRange:
             ),
         ],
     )
-    def test_parse_success(self, range_string: str, components: dict):
+    def test_parse_success(self, range_string: str, components: dict[str, int]):
         assert TimeRange.parse(range_string) == TimeRange(**components)
         assert TimeRange.parse(range_string).duration_string() == range_string

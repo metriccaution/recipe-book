@@ -45,14 +45,14 @@ class TimeRange(BaseModel):
         return TimeRange(**args)
 
     @staticmethod
-    def extract(section: str, mapping: dict) -> dict:
+    def extract(section: str, mapping: dict[str, str]) -> dict[str, int]:
         found = _range_pattern.findall(section)
 
         consumed = "".join(time + lookup for time, lookup in found)
         if consumed != section:
             raise ValueError(f"Invalid duration component in {section!r}")
 
-        result = {}
+        result: dict[str, int] = {}
         for quantity, letter in found:
             if letter not in mapping:
                 raise ValueError(f"Unexpected component '{letter}' in {section!r}")

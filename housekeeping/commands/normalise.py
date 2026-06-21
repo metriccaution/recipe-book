@@ -4,7 +4,7 @@ from pathlib import Path
 from housekeeping.models.repository import RecipeRepository
 
 
-def normalise(source_dir: Path):
+def normalise(source_dir: Path) -> None:
     """Re-load and re-write the existing sources.
 
     This makes sure all the data is valid, and in the correct format.
@@ -12,9 +12,9 @@ def normalise(source_dir: Path):
 
     repo = RecipeRepository.from_directory(source_dir)
 
-    tags_by_ingredient = {}
+    tags_by_ingredient: dict[str, list[str]] = {}
     # If removing a tag, put it in here to get it removed from recipes
-    ingredient_tags = set()
+    ingredient_tags: set[str] = set()
     for i in repo.ingredients:
         tags_by_ingredient[i.name] = i.tags
         for alias in i.synonyms:
@@ -24,7 +24,7 @@ def normalise(source_dir: Path):
 
     for r in repo.recipes:
         tags = [t for t in r.tags if t not in ingredient_tags]
-        extra_tags = []
+        extra_tags: list[str] = []
         for ig in r.ingredients:
             for il in ig.ingredients:
                 for i in il.alternate_ingredients():

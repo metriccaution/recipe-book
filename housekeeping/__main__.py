@@ -36,3 +36,5 @@ if __name__ == "__main__":
             json_ld_export(source_dir, export_dir / "json_ld")
         case "typst_export":
             typst_export(source_dir, export_dir / "pdf")
+        case _:
+            raise ValueError("Unexpected task argument")

@@ -2,6 +2,7 @@
 
 import json
 from pathlib import Path
+from typing import Any
 
 from housekeeping.models.recipes import Section
 from housekeeping.models.repository import RecipeRepository
@@ -19,11 +20,11 @@ _overly_general_tags = [
 _internal_tags = ["Complex"]
 
 
-def typst_export(source_dir: Path, export_directory: Path):
+def typst_export(source_dir: Path, export_directory: Path) -> None:
     repo = RecipeRepository.from_directory(source_dir)
 
-    printable_recipes = []
-    recipes_by_tag: dict[str, list[dict]] = {}
+    printable_recipes: list[dict[str, Any]] = []
+    recipes_by_tag: dict[str, list[dict[str, str]]] = {}
     for recipe in sorted(repo.recipes, key=lambda r: r.title):
         printable_recipes.append(
             {
@@ -41,7 +42,7 @@ def typst_export(source_dir: Path, export_directory: Path):
         for tag in recipe.tags:
             recipes_by_tag.setdefault(tag, []).append(entry)
 
-    by_section = []
+    by_section: list[dict[str, Any]] = []
     for section in Section:
         by_section.append(
             {

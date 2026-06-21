@@ -1,5 +1,4 @@
 from pathlib import Path
-from typing import Union
 
 import pytest
 
@@ -18,15 +17,15 @@ _converted = _load_converted()
 
 
 def _all_steps(
-    instructions: list[Union[HowToStep, HowToSection]],
+    instructions: list[HowToStep] | list[HowToSection],
 ) -> list[HowToStep]:
-    steps = []
+    steps: list[HowToStep] = []
     for item in instructions:
         if isinstance(item, HowToStep):
             steps.append(item)
             if item.itemListElement:
                 steps.extend(item.itemListElement)
-        elif isinstance(item, HowToSection):
+        else:
             steps.extend(item.itemListElement)
     return steps
 
