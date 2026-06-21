@@ -1,0 +1,55 @@
+identifier: 29efd3f0-32c1-4c52-b1ca-7d13327a677b
+title: Savoury Mix
+section: Component
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Onion
+- Tomato
+equipment: []
+prepTime: PT15M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: 100g
+    ingredient: Yellow Split Peas
+  - quantity: '1'
+    ingredient: Carrots
+    notes: medium-sized
+  - quantity: '1'
+    ingredient: Onions
+    notes: medium-sized
+  - quantity: 450ml
+    ingredient: Water
+  - quantity: 175g
+    ingredient: Oatmeal
+    notes: Coarse
+  - quantity: 1 tbsp
+    ingredient: Sunflower Oil
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Crushed
+  - quantity: 2 tsp
+    ingredient: Yeast Extract
+  - quantity: 1 tbsp
+    ingredient: Tomato Puree
+  - quantity: 1 tsp
+    ingredient: Thyme
+  - quantity: 1 tsp
+    ingredient: Sage
+  - quantity: 2 tbsp
+    ingredient: Parsley
+  - quantity: 100g
+    ingredient: Breadcrumbs
+steps:
+- steps:
+  - text: Soak peas in water overnight
+  - text: Grate the carrot and onion
+  - text: Put the peas and water in a saucepan with the carrot and onion, simmer,
+      covered for 20 minutes
+  - text: Add the oatmeal and cook for 10 minutes
+  - text: Remove from the heat, add the remaining ingredients, and leave to cool

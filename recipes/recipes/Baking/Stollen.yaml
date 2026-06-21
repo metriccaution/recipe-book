@@ -1,0 +1,118 @@
+identifier: 2e2cc2b2-962f-4dc9-8b62-b95d8bfb1f0c
+title: Stollen
+section: Baking
+created_at: '2025-01-29'
+tags:
+- Alcohol
+- Almond
+- Bread
+- Eggs
+- Nuts
+equipment: []
+prepTime: PT30M
+cookingTime: PT40M
+source:
+  type: described
+  description: One of Mum's books
+ingredients:
+- group: Stollen Fruits
+  ingredients:
+  - quantity: 70g
+    ingredient: Sultanas
+  - quantity: 60g
+    ingredient: Raisins
+  - quantity: 50g
+    ingredient: Mixed Peel
+  - quantity: 20g
+    ingredient: Rum
+- group: Basic Festive Bread Dough - Ferment
+  ingredients:
+  - quantity: 5g
+    ingredient: Sugar
+  - quantity: 1.5g
+    ingredient: Yeast
+    notes: Dried
+  - quantity: 60ml
+    ingredient: Water
+    notes: Warm
+  - quantity: 50g
+    ingredient: Plain Flour
+- group: Basic Festive Bread Dough - Dough
+  ingredients:
+  - quantity: 30g
+    ingredient: Sugar
+  - quantity: 70g
+    ingredient: Plain Flour
+  - quantity: 40g
+    ingredient: Wholemeal Flour
+  - quantity: '1'
+    ingredient: Eggs
+  - quantity: 50g
+    ingredient: Salted Butter
+- group: Marzipan
+  ingredients:
+  - quantity: 60g
+    ingredient: Ground Almonds
+  - quantity: 20g
+    ingredient: Caster Sugar
+  - quantity: 20g
+    ingredient: Icing Sugar
+  - quantity: '1'
+    ingredient: Eggs
+- group: To Assemble
+  ingredients:
+  - quantity: '1'
+    ingredient: Eggs
+  - quantity: 25g
+    ingredient: Butter
+    notes: Melted
+steps:
+- title: Preparing the Fruit
+  steps:
+  - text: Place the fruit in a small bowl or strong polythene bag and pour the rum,
+      brandy or juice over it. (It is best to do this a few hours before making the
+      stollen, or even overnight).
+  - text: Stir the fruit through with your fingers or shake the bag periodically to
+      help the liquid to soak in.
+- title: The Ferment
+  steps:
+  - text: Dissolve the sugar and yeast in the milk/water.
+  - text: Beat in the flour to make a soft paste.
+  - text: Leave the ferment covered in a warm place until it has risen to its full
+      extent and dropped. This should take about an hour, depending the temperature.
+- title: The Dough
+  steps:
+  - text: Stir the sugar into the flours.
+  - text: Add the egg and the ferment.
+  - text: Work into a dough, knead for a minute to begin developing the gluten
+  - text: Add the butter, knead energetically for about 10 minutes by hand (5 minutes
+      in a mixer). The dough should be very soft and quite sticky, It will firm up
+      a bit as it ferments.
+  - text: Cover and leave in a warm place to rise for about an hour.
+- title: Marzipan
+  steps:
+  - text: Mix these ingredients together to make a firm paste suitable for rolling
+      on the worktop.
+- title: Assembly
+  steps:
+  - text: Drain any excess liquid from the fruit.
+  - text: Fold the drained fruit gently into the prepared festive bread dough after
+      it has had its hour of bulk fermentation, trying not to break up its structure
+      completely but aiming to distribute the fruit reasonably evenly.
+  - text: Relax the dough for 10 minutes.
+  - text: Using a light dusting of flour on the worktop and your rolling pin, roll
+      the marzipan into a rectangle about 20 x 15cm.
+  - text: Roll or stretch the dough out to make a rectangle very slightly larger than
+      the marzipan.
+  - text: Place marzipan on the dough, press down gently and then roll the whole thing
+      like a Swiss roll, finishing with the seam underneath the log.
+  - text: Transfer to a baking tray lined with baking parchment.
+  - text: Brush the stollen thoroughly with beaten egg, being careful not to leave
+      any tide marks around the edge.
+  - text: Cover loosely and put in a warm place to prove, making sure that the cover
+      cannot come into contact with the dough.
+  - text: "When the stollen is proved, bake in a moderate oven (180\xB0C) for 30-40\
+      \ minutes, until it is golden brown all over."
+  - text: As soon as it is out of the oven, brush it liberally with melted butter.
+  - text: Leave to cool.
+  - text: Sprinkle all over with icing sugar.

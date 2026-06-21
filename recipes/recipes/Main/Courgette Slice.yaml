@@ -1,0 +1,47 @@
+identifier: aaef163d-f540-4af9-926f-8b120791e654
+title: Courgette Slice
+section: Main
+created_at: '2025-09-12'
+tags:
+- Cheese
+- Courgette
+- Eggs
+- Onion
+equipment: []
+serves: 2
+prepTime: PT15M
+cookingTime: PT30M
+source:
+  type: described
+  description: Recipe from Josh
+ingredients:
+- ingredients:
+  - quantity: 1 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: 2 tsp
+    ingredient: Curry Powder
+  - quantity: '4'
+    ingredient: Courgettes
+  - quantity: 80g
+    ingredient: Wholemeal Flour
+  - quantity: 30g
+    ingredient: Cheddar Cheese
+  - quantity: '5'
+    ingredient: Eggs
+  - quantity: 1 tbsp
+    ingredient: Pumpkin Seeds
+steps:
+- steps:
+  - text: Preheat oven to 200C. Grease a 19cm x 29cm slice pan and line with baking
+      paper.
+  - text: Heat the oil in a frying pan over high heat, and cook the onion, stirring,
+      for 3 mins or until softened.
+  - text: Add the curry powder and cook, stirring, for 30 secs or until aromatic.
+  - text: Transfer to a heatproof bowl. Add the courgette, flour, cheddar and egg
+      and stir until well combined.
+  - text: Pour mixture into the prepared pan and sprinkle with pepitas.
+  - text: Bake for 30-35 mins or until golden and firm to the touch.
+  - text: Set aside in the pan to cool.
+  - text: Cut into pieces.

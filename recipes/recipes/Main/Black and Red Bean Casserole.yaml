@@ -1,0 +1,111 @@
+identifier: 4e67ad2b-da66-46eb-be3c-efa3c8563596
+title: Black and Red Bean Casserole
+section: Main
+created_at: '2024-09-27'
+tags:
+- Avocado
+- Carrot
+- Onion
+- Preserved Beans
+- Tomato
+equipment: []
+serves: 3
+prepTime: PT20M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- group: Casserole
+  ingredients:
+  - quantity: 2 400g can
+    ingredient: Kidney Beans
+  - quantity: 100ml
+    ingredient: Olive Oil
+  - quantity: 100g
+    ingredient: Onions
+    notes: Diced
+  - quantity: 4 cloves
+    ingredient: Garlic
+  - quantity: 1 tbsp
+    ingredient: Paprika
+  - quantity: '1'
+    ingredient: Fresh Chilli
+  - quantity: 75g
+    ingredient: Carrots
+    notes: Chopped into 1cm cubes
+  - quantity: 75g
+    ingredient: Sweetcorn
+  - quantity: Dash
+    ingredient: Tabasco
+  - quantity: 1 handful
+    ingredient: Fresh Coriander
+- group: Tomato Sauce
+  ingredients:
+  - quantity: '1'
+    ingredient: Onions
+    notes: Medium, diced
+  - quantity: 25ml
+    ingredient: Olive Oil
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 1 large handful
+    ingredient: Basil
+- group: Lime and Coriander Cream
+  ingredients:
+  - quantity: 200 ml
+    ingredient: Sour Cream / Greek Yoghurt
+  - quantity: 1 handful
+    ingredient: Fresh Coriander
+    notes: roughly chopped
+  - quantity: 30ml
+    ingredient: Lime Juice
+- group: Guacamole
+  ingredients:
+  - quantity: '2'
+    ingredient: Avocados
+    notes: Ripe
+  - quantity: 4 tbsp
+    ingredient: Water
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Crushed
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '3'
+    ingredient: Tomatoes
+    notes: Ripe, deseeded & finely chopped
+steps:
+- title: Tomato Sauce
+  steps:
+  - text: Fry the onions in the oil until transparent.
+  - text: Add the tinned tomatoes, crush with a spoon
+  - text: Add the garlic.
+  - text: Add the basil, salt and pepper, and cook gently for 25 minutes, until the
+      sauce is thick.
+  - text: Remove the basil, replace with fresh, chopped leaves.
+- title: Casserole
+  steps:
+  - text: Heat the oil in a pan and saute the onion until brown
+  - text: Add the garlic about halfway through cooking.
+  - text: Add the salt, pepper, paprika, fresh chilli and the carrots. Cook until
+      _al dente_.
+  - text: Add the drained kidney beans, and tomato sauce.
+  - text: Simmer until reduced.
+  - text: Add in the sweetcorn and cook for a few minutes.
+  - text: Adjust the seasoning with Tabasco, salt, and pepper.
+  - text: Continue to simmer for 6-7 minutes, taking care not to dry it out.
+  - text: Remove from the heat, and add coriander.
+- title: Lime and Coriander Cream
+  steps:
+  - text: Mix the sour cream or yoghurt with the second quantity of coriander, as
+      well as the lime juice and salt to taste.
+- title: Guacamole
+  steps:
+  - text: Peel the avocados, remove the stones and dice the contents.
+  - text: Add the avocado, water, garlic and oil to a food processor, blend smooth.
+  - text: Add to a bowl and add the tomatoes.
+  - text: Grind the pepper over the surface.

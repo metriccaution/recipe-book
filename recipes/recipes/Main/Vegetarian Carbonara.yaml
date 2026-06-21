@@ -1,0 +1,46 @@
+identifier: 9a5ab637-0d1b-44a1-88ce-792878144299
+title: Vegetarian Carbonara
+section: Main
+created_at: '2024-10-15'
+tags:
+- Cheese
+- Eggs
+- Mushroom
+- Pasta
+equipment: []
+serves: 2
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=MbRm5s3i2ik
+  description: Binging With Babbish
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Shiitake Mushrooms
+    notes: Large
+  - quantity: 5 cloves
+    ingredient: Garlic
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: 200g
+    ingredient: Dry Pasta
+  - quantity: 60g
+    ingredient: Parmesan
+  - quantity: 60g
+    ingredient: Smoked Provolone
+  - quantity: '2'
+    ingredient: Eggs
+steps:
+- steps:
+  - text: Slice the mushrooms, remove the stalks
+  - text: Finely chop the garlic
+  - text: Set the pasta to cook
+  - text: Fry the mushrooms until crisp in the olive oil
+  - text: Add the garlic and cook for a few minutes
+  - text: Drain the pasta, retaining some water
+  - text: Add the pasta to the mushrooms, with a splash of water, stir well
+  - text: Beat the eggs, and add to the pan, stirring well
+  - text: Add the cheese, continue to stir until the cheese melts
+  - text: Season to taste, and serve

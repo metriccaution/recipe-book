@@ -1,0 +1,82 @@
+identifier: 203745ae-a7d5-466a-9226-207dc9a76a2b
+title: Cauliflower Pot Pie
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cauliflower
+- Cheese
+- Complex
+- Eggs
+- Pie
+equipment: []
+prepTime: PT30M
+cookingTime: PT1H
+source:
+  type: url
+  url: https://www.abc.net.au/melbourne/programs/drive/cauli-pot-pie-recipe-from-alice-zaslavsky/101132022
+  description: abc.net.au
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Cauliflower
+    notes: Large
+  - quantity: 2 tsp
+    ingredient: Curry Powder
+  - quantity: 60 ml
+    ingredient: Olive Oil
+  - quantity: 100 g
+    ingredient: Salted Butter
+  - quantity: 100 g
+    ingredient: Plain Flour
+  - quantity: 1 l
+    ingredient: Milk
+    notes: Warmed
+  - quantity: 200 g
+    ingredient: Cheddar Cheese
+    notes: Grated
+  - quantity: 50 g
+    ingredient: Parmesan
+    notes: Grated
+  - quantity: 1 tsp
+    ingredient: Paprika
+  - quantity: 1 tbsp
+    ingredient: Mustard
+  - quantity: 2 tsp
+    ingredient: Salt
+  - quantity: 2 tsp
+    ingredient: Black Pepper
+  - quantity: 1 sheet
+    ingredient: Puff Pastry
+  - quantity: '1'
+    ingredient: Eggs
+    notes: Beaten
+steps:
+- title: Cauliflower
+  steps:
+  - text: Preheat oven to 200C (180C fan-forced)
+  - text: 'Cut cauliflower into florets, mix with:'
+    substeps:
+    - text: Oil
+    - text: Curry powder
+    - text: 1 tsp salk
+    - text: 1 tsp pepper
+  - text: Bake cauliflower for 20 minutes, until soft
+- title: Sauce
+  steps:
+  - text: Melt butter in a medium-sized saucepan over a medium heat.
+  - text: Once melted, add in the flour and use a whisk to combine.
+  - text: Cook for 2 minutes, stirring regularly.
+  - text: Slowly add the warmed milk, stirring constantly. Simmer, whisking occasionally
+      until the bechamel thickens (5-10 minutes)
+  - text: Add remaining ingredients
+    substeps:
+    - text: Cheddar
+    - text: Parmesan
+    - text: Paprika
+    - text: Mustard
+- title: Pie
+  steps:
+  - text: Mix cooked cauliflower and bechamel
+  - text: Fill pie tins with mixture, top with pastry (move quickly to avoid pastry
+      melting), add a steam vent, and brush with egg
+  - text: Cook in the oven (200C) for 25 minutes

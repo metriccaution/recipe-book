@@ -1,0 +1,57 @@
+identifier: 1592fb21-58a8-4a41-8eda-df7c0f88f544
+title: Lentil Puree
+section: Side
+created_at: '2024-09-27'
+tags:
+- Curry
+- Lentil
+- Onion
+equipment:
+- Hob
+- Saucepan
+serves: 4
+prepTime: PT5M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9780711202450'
+  page: 99
+  description: The Curry Cook Book
+ingredients:
+- ingredients:
+  - quantity: 250g
+    ingredient: Red Split Lentils
+  - quantity: 2 tablespoons
+    ingredient: Ghee
+    notes: Or oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: Finely sliced
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Sliced
+  - quantity: 1 teaspoon
+    ingredient: Ginger
+    notes: Finely chopped
+  - quantity: 1/4 teaspoon
+    ingredient: Ground Turmeric
+  - quantity: 700ml
+    ingredient: Water
+    notes: Hot
+  - quantity: 1 teaspoon
+    ingredient: Salt
+    notes: To taste
+  - quantity: 1/2 teaspoon
+    ingredient: Garam Masala
+    notes: Optional
+steps:
+- steps:
+  - text: Wash lentils, discarding those that float. Drain well.
+  - text: In a saucepan heat ghee / oil and fry onion, garlic and ginger until golden
+      brown.
+  - text: Add turmeric and stir for a few seconds.
+  - text: Add the drained lentils and fry for a minute.
+  - text: Add hot water and bring to the boil.
+  - text: Reduce heat, cover and simmer until lentils are soft.
+  - text: Add the salt and garam masala.
+  - text: Continue cooking until the consistency of porridge.

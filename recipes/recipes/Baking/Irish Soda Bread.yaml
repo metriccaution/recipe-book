@@ -1,0 +1,43 @@
+identifier: dea2b819-cfe5-4af8-b1c8-9bb6a79bb569
+title: Irish Soda Bread
+section: Baking
+created_at: '2024-09-28'
+tags:
+- Bread
+equipment:
+- Baking tray
+- Mixing bowl
+- Oven
+prepTime: PT30M
+cookingTime: PT40M
+source:
+  type: book
+  isbn: '9780753724903'
+  page: 24
+  description: 100 Great Breads
+ingredients:
+- ingredients:
+  - quantity: 500g
+    ingredient: Plain Flour
+  - quantity: 20g
+    ingredient: Baking Powder
+  - quantity: 1 tsp
+    ingredient: Salt
+  - quantity: 75g
+    ingredient: Butter
+    notes: Softened
+  - quantity: 200ml
+    ingredient: Buttermilk
+  - quantity: 250 ml
+    ingredient: Milk
+steps:
+- steps:
+  - text: Line a baking tray.
+  - text: Put the flour, baking powder and salt into a bowl, and work in the butter.
+  - text: Stir in the remaining ingredients and mix well.
+  - text: Divide the dough into two and shape into balls.
+  - text: Flatten out the balls and cut crosses into the top of each.
+  - text: Leave to rest for 20 minutes.
+  - text: Preheat the oven to 200 C / mark 6.
+  - text: Dust the dough lightly with flour and bake in the oven for 30-40 minutes.
+  - text: Transfer to a rack to cool.

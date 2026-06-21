@@ -1,0 +1,45 @@
+identifier: 7811be9f-346f-4890-9a1b-22116e2d6abd
+title: Beetroot Salad
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Fermented
+- Onion
+- Salad
+equipment: []
+serves: 3
+prepTime: PT45M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: 750g
+    ingredient: Beetroot
+    notes: Cooked
+  - quantity: 1 tbsp
+    ingredient: Sunflower Oil
+  - quantity: 1 tbsp
+    ingredient: Mustard
+  - quantity: 6 tbsp
+    ingredient: Balsamic Vinegar
+  - quantity: '1'
+    ingredient: Tabasco
+  - quantity: 1 tsp
+    ingredient: Caraway Seeds
+    notes: Ground
+  - quantity: 1 small handful
+    ingredient: Parsley
+  - quantity: '2'
+    ingredient: Red Onions
+  - quantity: 75g
+    ingredient: Feta Cheese
+steps:
+- steps:
+  - text: Cut the beetroot into 2.5mm slices
+  - text: Mix the oil, mustard, vinegar, tabasco and caraway seeds into a thin dressing
+  - text: Pour over the beetroot and set aside for at least half an hour
+  - text: At the last moment, mix in the parsley, red onion and salt, and crumble
+      the feta over the top

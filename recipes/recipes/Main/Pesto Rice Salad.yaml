@@ -1,0 +1,49 @@
+identifier: 674cdc2c-b97d-4ec8-8257-3a2896dba36f
+title: Pesto Rice Salad
+section: Main
+created_at: '2026-06-05'
+tags:
+- Cheese
+- Family Classics
+- Nuts
+- Rice
+- Salad
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9780563488187'
+  description: Delia's Vegetarian Collection
+ingredients:
+- group: Pesto Sauce
+  ingredients:
+  - quantity: 50g
+    ingredient: Basil
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: 1 tbsp
+    ingredient: Pine Nuts
+  - quantity: 6 tbsp'
+    ingredient: Olive Oil
+  - quantity: 25g
+    ingredient: Parmesan
+- group: Salad
+  ingredients:
+  - quantity: 225 ml
+    ingredient: Arborio Rice
+  - quantity: 450ml
+    ingredient: Vegetable Stock
+  - quantity: 60 ml
+    ingredient: Lemon
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+steps:
+- steps:
+  - text: Blend the basil, garlic, pine nuts and olive oil with some salt until smooth.
+  - text: Add the parmesan, you now have pesto.
+  - text: Mix the rice with a quarter of the pesto.
+  - text: Add the rice and stock to a large pan.
+  - text: Bring to a boil, then cover, and simmer for 20 minutes.
+  - text: Once the rice is done, mix in the lemon juice, olive oil, and pesto.

@@ -1,0 +1,43 @@
+identifier: f0eb882e-81c8-4a9f-a8ca-803928fda87f
+title: Lentil and Cheese Wedges
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Eggs
+- Lentil
+- Onion
+equipment: []
+prepTime: PT5M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Every Grain of Rice
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Red Lentils
+  - quantity: 450ml
+    ingredient: Water
+  - quantity: '1'
+    ingredient: Onions
+    notes: Large
+  - quantity: 25g
+    ingredient: Butter
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+  - quantity: 1 tsp
+    ingredient: Mixed Herbs
+  - quantity: '1'
+    ingredient: Eggs
+  - quantity: 25g
+    ingredient: Fresh Wholemeal Breadcrumbs
+steps:
+- steps:
+  - text: Oil a 9" Sandwich tin
+  - text: Cook the lentils in the water, until soft.
+  - text: Preheat the oven to 190C.
+  - text: Chop the onions, and fry in the butter, until transparent.
+  - text: Combine all ingredients in the tin.
+  - text: Bake for 30 minutes.

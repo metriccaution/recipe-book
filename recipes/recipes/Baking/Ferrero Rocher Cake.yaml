@@ -1,0 +1,117 @@
+identifier: 2c1c2d85-0e96-4ea7-8bed-88e8da447500
+title: Ferrero Rocher Cake
+section: Baking
+created_at: '2025-10-03'
+tags:
+- Eggs
+- Fermented
+- Nuts
+equipment: []
+prepTime: PT2H
+cookingTime: PT2H
+source:
+  type: url
+  url: https://livforcake.com/ferrero-rocher-cake/
+  description: Liv For Cake
+ingredients:
+- group: Cake
+  ingredients:
+  - quantity: 100g
+    ingredient: Plain Flour
+  - quantity: 85g
+    ingredient: Hazelnut Flour
+  - quantity: 300g
+    ingredient: Sugar
+  - quantity: 65g
+    ingredient: Cocoa Powder
+  - quantity: 7.5g
+    ingredient: Baking Soda
+  - quantity: 5g
+    ingredient: Baking Powder
+  - quantity: 5g
+    ingredient: Salt
+  - quantity: 55g
+    ingredient: Vegetable Oil
+  - quantity: 180g
+    ingredient: Buttermilk / Kefir
+  - quantity: 190g
+    ingredient: Water
+    notes: hot
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 10ml
+    ingredient: Vanilla Extract
+- group: Nutella Buttercream
+  ingredients:
+  - quantity: 340g
+    ingredient: Unsalted Butter
+  - quantity: 175g
+    ingredient: Nutella
+  - quantity: 360g
+    ingredient: Icing Sugar
+  - quantity: 65g
+    ingredient: Cocoa Powder
+- group: Hazelnut Meringue
+  ingredients:
+  - quantity: '2'
+    ingredient: Egg Whites
+  - quantity: 75g
+    ingredient: Sugar
+  - quantity: Pinch
+    ingredient: Cream of Tartar
+  - quantity: 60g
+    ingredient: Hazelnuts
+    notes: chopped
+  - quantity: 25g
+    ingredient: Cocoa Powder
+steps:
+- title: Cake
+  steps:
+  - text: Preheat oven to 180C
+  - text: Grease three 6" round baking pans, dust with cocoa powder, and line their
+      bottoms with parchment.
+  - text: Place all dry ingredients into the bowl of a stand mixer fitted with a paddle
+      attachment. Stir to combine.
+  - text: In a medium bowl whisk all wet ingredients (pour hot water in slowly while
+      whisking as not to cook the eggs).
+  - text: Add wet ingredients to dry and mix on medium for 2-3 mins. Batter will be
+      very thin.
+  - text: Pour evenly into prepared pans. I used a kitchen scale to ensure the batter
+      is evenly distributed.
+  - text: Bake until a cake tester comes out mostly clean, a total of 30-35mins.
+- title: Icing
+  steps:
+  - text: Prepare a stand mixer with a whisk attachment and whip butter until creamy
+      (2 mins).
+  - text: In a medium bowl, whisk together sifted powdered sugar and cocoa powder.
+  - text: Reduce speed to low and add in powdered sugar mixture 1 cup at a time until
+      well blended (Scrape down sides of bowl and whisk as needed to ensure its well
+      mixed).
+  - text: Add in Nutella and whip on high for approximately 5 mins.
+- title: Meringue
+  steps:
+  - text: Preheat oven to 120C
+  - text: line a 10x15" pan with parchment, and trace two 5" circles onto the parchment,
+      flip over so the traced side is down.
+  - text: Combine egg whites, salt, and cream of tartar in the bowl
+  - text: Beat until soft peaks form.
+  - text: Slowly add sugar (1 Tbsp at a time) and beat until stiff peaks.
+  - text: Weigh down the parchment flat (a dab of meringue can work for this).
+  - text: Fold chopped hazelnuts and cocoa powder into the meringue.
+  - text: Pipe into discs using the 5" circles as a guide. Pipe or spread remaining
+      meringue in empty spaces on the parchment (separate to the discs).
+  - text: Bake for 90 mins.
+  - text: Cool on its pan.
+- title: Assembly
+  steps:
+  - text: Place one layer of the cake onto a cake stand or serving plate.
+  - text: Top with 2/3 cup of buttercream and spread evenly.
+  - text: Place one meringue disc on top.
+  - text: Top with additional buttercream if desired (or sprinkle with chopped Ferrero's).
+  - text: Repeat with remaining layers.
+  - text: Crumb coat the cake (apply a thin layer of frosting to the sides).
+  - text: Chill for 20mins.
+  - text: Frost the cake with the remaining buttercream and smooth the sides.
+  - text: Chill again, for 20mins.
+  - text: Press chopped hazelnuts into the sides.
+  - text: Top with rosettes if desired.

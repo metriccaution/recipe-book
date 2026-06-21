@@ -1,0 +1,51 @@
+identifier: 6c248ade-af95-4234-9483-65c0482cc22b
+title: Lentil Soup
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Celery
+- Lentil
+- Onion
+- Soup
+equipment: []
+prepTime: PT15M
+cookingTime: PT1H
+source:
+  type: described
+  description: Kallo stock cube packet
+ingredients:
+- ingredients:
+  - quantity: 1 tbsp
+    ingredient: Sunflower Oil / Butter
+    notes: to fry
+  - quantity: 1 tablespoon
+    ingredient: Coriander Seeds
+    notes: crushed (or use ground spices)
+  - quantity: 1 tablespoon
+    ingredient: Cumin Seeds
+    notes: crushed (or use ground spices)
+  - quantity: '2'
+    ingredient: Onions
+    notes: chopped
+  - quantity: '2'
+    ingredient: Carrots
+    notes: chopped
+  - quantity: 2 sticks
+    ingredient: Celery
+    notes: chopped
+  - quantity: 4 cloves
+    ingredient: Garlic
+  - quantity: 175g
+    ingredient: Red Split Lentils
+  - quantity: 500ml
+    ingredient: Stock
+steps:
+- text: The soup can be eaten as it is or liquidised to make a smoother thicker consistency.
+  steps:
+  - text: Dry fry then grind spices if not using ground spices.
+  - text: Gently soften the onion, garlic, carrots and celery in a little oil or butter.
+  - text: Add the lentils & spices then stir well.
+  - text: Add stock and bring to the boil.
+  - text: Stir well and reduce heat to simmer until the lentils are soft, about 20
+      mins. Stir occasionally to stop it burning.

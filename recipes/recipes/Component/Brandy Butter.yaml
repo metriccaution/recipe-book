@@ -1,0 +1,31 @@
+identifier: 06ee2355-58cc-4222-a6e3-d9e3b47a7799
+title: Brandy Butter
+section: Component
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Christmas
+- Family Classics
+equipment:
+- Bowl
+- Fridge
+prepTime: PT5M
+source:
+  type: url
+  url: https://www.bbc.co.uk/food/recipes/brandybutter_2535
+  description: BBC Website
+ingredients:
+- ingredients:
+  - quantity: 125g
+    ingredient: Unsalted Butter
+    notes: softened
+  - quantity: 125g
+    ingredient: Icing Sugar
+  - quantity: 90ml
+    ingredient: Brandy
+steps:
+- text: Traditionally served with mince pies or Christmas pudding.
+  steps:
+  - text: Cream together the butter and the icing sugar.
+  - text: Beat in the brandy until smooth.
+  - text: Decant into a bowl and chill until needed.

@@ -1,0 +1,83 @@
+identifier: 88c49577-bcfc-4788-bf7d-caa928757a5b
+title: Chocolate Fudge Cake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Cake
+- Chocolate
+- Eggs
+- Family Classics
+equipment:
+- 2x tin
+- Heavy saucepan
+- Hob
+- Large bowl or mixer
+- Oven
+prepTime: PT15M
+cookingTime: PT30M
+source:
+  type: described
+  description: Delia Smith's Book of Cakes
+ingredients:
+- group: Cake
+  ingredients:
+  - quantity: 220g
+    ingredient: Wholemeal Flour
+    notes: minus 1 tablespoon
+  - quantity: 5g
+    ingredient: Cocoa Powder
+    notes: Unsweetened
+  - quantity: 25g
+    ingredient: Baking Powder
+  - quantity: 220g
+    ingredient: Margarine
+    notes: Soft
+  - quantity: 220g
+    ingredient: Brown Sugar
+  - quantity: '4'
+    ingredient: Eggs
+    notes: Large
+- group: Chocolate Fudge
+  ingredients:
+  - quantity: 150g
+    ingredient: Brown Sugar
+  - quantity: 80g
+    ingredient: Butter
+  - quantity: 150g
+    ingredient: Plain Chocolate
+    notes: Broken up
+  - quantity: 200ml
+    ingredient: Evaporated Milk
+  - quantity: 20ml
+    ingredient: Vanilla Essence
+steps:
+- title: Cake
+  steps:
+  - text: Pre-heat the oven to 170C.
+  - text: Take out 1 tablespoon of flour and replace it with the cocoa.
+    substeps:
+    - text: You won't need the tablespoon of flour.
+  - text: Place all the cake ingredients in a bowl and mix them to "a good dropping
+      consistency.
+  - text: Divide the mixture between the tins and bake on the centre shelf of the
+      oven for 30 minutes.
+    substeps:
+    - text: Until springy in the centres.
+  - text: After about 30 seconds, turn the cakes out and leave to cool.
+    substeps:
+    - text: If there's time, leave them a while, or the icing won't set as easily.
+- title: Chocolate Fudge
+  steps:
+  - text: Combine the sugar an evaporated milk in a heavy saucepan.
+  - text: Heat gently to dissolve the sugar, stirring frequently.
+  - text: Bring to the boil.
+  - text: Drop the heat low and simmer for 6 minutes without stirring.
+  - text: Remove the pan from the heat, add the chocolate (broken up) and stir to
+      dissolve.
+  - text: Stir in butter and vanilla essence.
+  - text: Leave to cool.
+- title: Assembly
+  steps:
+  - text: Beat the fudge, spread half on once sponge.
+  - text: Place the other sponge on top.
+  - text: Spread the rest of the fudge on top.

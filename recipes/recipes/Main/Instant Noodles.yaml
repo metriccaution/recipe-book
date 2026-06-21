@@ -1,0 +1,49 @@
+identifier: e60178cb-07ea-4ec1-8e68-6d000b78f1a0
+title: Instant Noodles
+section: Main
+created_at: '2024-10-19'
+tags:
+- Carrot
+- Fermented
+- Peppers
+equipment: []
+serves: 1
+prepTime: PT15M
+cookingTime: PT5M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+description: This is quite an adaptable recipe, treat this as more of an example than
+  the only way to do it.
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Carrots
+  - quantity: '1'
+    ingredient: Red Pepper
+  - quantity: '3'
+    ingredient: Radishes
+  - quantity: '2'
+    ingredient: Spring Onions
+  - quantity: 2.5 cm
+    ingredient: Ginger
+  - quantity: 1 tbsp
+    ingredient: Miso Paste
+  - quantity: 1 tbsp
+    ingredient: Soy Sauce
+  - quantity: 2 tbsp
+    ingredient: Kimchi
+  - quantity: 20g
+    ingredient: Brown Rice Noodles
+steps:
+- steps:
+  - text: Thinly slice the carrot, pepper, radishes and spring onions.
+  - text: Spoon the ginger, miso, soy sauce, kimchi and its brine into a 500ml preserving
+      jar or lidded plastic container.
+  - text: Put the sliced veg on top of the soup base, followed by the noodles.
+  - text: Store in the fridge until needed.
+  - text: When you're ready to eat, pour over 350ml boiling water from the kettle,
+      making sure everything is submerged.
+  - text: Place a lid on top and leave for 5 minutes.
+  - text: When ready, pour out into a large bowl and serve.

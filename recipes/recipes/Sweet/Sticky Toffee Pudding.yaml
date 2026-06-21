@@ -1,0 +1,60 @@
+identifier: 214dda99-3a1d-4fe0-8d05-0ebed0d6dc3e
+title: Sticky Toffee Pudding
+section: Sweet
+created_at: '2026-05-18'
+tags:
+- Eggs
+- Family Classics
+equipment: []
+serves: 4
+prepTime: PT3H
+cookingTime: PT45M
+source:
+  type: described
+  description: Lakeland Plastics 32 Recipes
+description: The original recipe came from the inimitable Sharrow Bay Hotel, in the
+  Lake District.
+ingredients:
+- group: Pudding
+  ingredients:
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: 15g
+    ingredient: Caster Sugar
+  - quantity: '1'
+    ingredient: Egg
+  - quantity: 225g
+    ingredient: Self Raising Flour
+  - quantity: 175g
+    ingredient: Dried Dates
+    notes: Chopped
+  - quantity: 275ml
+    ingredient: Water
+    notes: Boiling
+- group: Topping
+  ingredients:
+  - quantity: 75g
+    ingredient: Soft Brown Sugar
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: 6 tbsp
+    ingredient: Double Cream
+steps:
+- steps:
+  - text: Pour the boiling water over the dates and allow to soak for at least 3 hours
+      before you make your pudding.
+  - text: "Pre-heat the oven to 350\xB0F, 180\xB0C or gas 4"
+  - text: Soften the butter and cream with the sugar. When light and fluffy, beat
+      in the egg.
+  - text: Add the flour and ALL the dates and their soaking liquor, mix thoroughly.
+  - text: Transfer immediately to your baking dish, smooth the surface and bake in
+      the pre-heated oven for approximately 45 minutes.
+  - text: Test to see if it is cooked with light fingertip pressure, as if testing
+      a sponge cake.
+  - text: Make topping by melting together the butter and sugar, ensure it is properly
+      dissolved.
+  - text: Add the cream, mix well and allow the sauce to bubble for just 30 seconds.
+  - text: Pour over your cooked pudding, then place under a hot grill. **Don't** leave
+      it, it will begin to brown and bubble very quickly.
+  - text: When it is sufficiently brown and bubbling serve immediately with softly
+      whipped cream or vanilla ice cream - or both!

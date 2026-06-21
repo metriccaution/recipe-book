@@ -1,0 +1,54 @@
+identifier: 88209384-709a-476a-98a3-5bf478c6fc4e
+title: Oven-baked Chickpea Ratatouille
+section: Main
+created_at: '2024-09-27'
+tags:
+- Aubergine
+- Chickpea
+- Courgette
+- Peppers
+- Preserved Beans
+- Tomato
+equipment: []
+serves: 3
+prepTime: PT15M
+cookingTime: PT1H30M
+source:
+  type: book
+  isbn: '9781909881839'
+  description: Veggie Comfort Food (National Trust)
+ingredients:
+- ingredients:
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: '1'
+    ingredient: Aubergine
+    notes: Quartered and cut into 5mm slices
+  - quantity: '3'
+    ingredient: Courgettes
+    notes: Sliced
+  - quantity: '2'
+    ingredient: Red Pepper
+    notes: Deseeded, sliced into strips
+  - quantity: 4 tbsp
+    ingredient: Olive Oil
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 2 400g can
+    ingredient: Chickpeas
+  - quantity: 1 tbsp
+    ingredient: Thyme
+    notes: Stemmed and chopped
+  - quantity: 1 handful
+    ingredient: Basil
+steps:
+- steps:
+  - text: Preheat the oven to 220 C
+  - text: Put the garlic, aubergines, courgettes and peppers in an ovenproof dish,
+      drizzle with olive oil, mix well
+  - text: Roast in the oven for 30 minutes
+  - text: Turn down the oven to 170 C
+  - text: Remove the dish from the oven, add the tomatoes, chickpeas, thyme, salt
+      and pepper
+  - text: Cover and cook for 40-60 minutes
+  - text: Tear in the basil before serving

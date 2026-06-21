@@ -1,0 +1,60 @@
+identifier: dea23d00-5333-489b-bb23-7758aaaf09cf
+title: Butter Bean Caesar
+section: Main
+created_at: '2024-10-19'
+tags:
+- Artichoke
+- Nuts
+- Preserved Beans
+- Salad
+equipment: []
+serves: 2
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+ingredients:
+- group: Dressing
+  ingredients:
+  - quantity: 35g
+    ingredient: Cashew Nuts
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: 1 tbsp
+    ingredient: Capers
+    notes: Plus a bit of brine
+  - quantity: 2 tsp
+    ingredient: Dijon Mustard
+  - quantity: 1 tbsp
+    ingredient: Nutritional Yeast
+  - quantity: 1/2
+    ingredient: Lemon
+    notes: Zest and juice
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+- group: Salad
+  ingredients:
+  - quantity: 400g can
+    ingredient: Butter Beans
+  - quantity: 1 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Baby Gem Lettuce
+  - quantity: 20g
+    ingredient: Rocket Leaves
+  - quantity: 285g Jar
+    ingredient: Artichokes
+steps:
+- steps:
+  - text: "Preheat the oven to 220\xB0C / 200\xB0C fan / 425\xB0F / gas 7 and line\
+      \ a baking tray with baking parchment."
+  - text: Put the dressing ingredients into a blender with 3 tablespoons of water,
+      a pinch of salt and pepper and blitz until smooth.
+  - text: Put the butter beans onto the tray, toss with the olive oil, season with
+      salt and pepper and spread out in a single layer. Roast for 15 minutes.
+  - text: Place the baby gem, rocket and artichokes in a large bowl with a pinch of
+      salt and pepper and toss with half the dressing.
+  - text: Divide between two plates and top with the butter beans.
+  - text: Drizzle with a little extra dressing to taste.

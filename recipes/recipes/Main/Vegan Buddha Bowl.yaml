@@ -1,0 +1,81 @@
+identifier: 23e4c005-ef4c-49bd-af27-dcecb5f380c8
+title: Vegan Buddha Bowl
+section: Main
+created_at: '2024-09-27'
+tags:
+- Avocado
+- Chickpea
+- Peppers
+- Preserved Beans
+equipment:
+- Baking tray with parchment paper
+- Blender
+- Hob
+- Oven
+- Pan
+serves: 2
+prepTime: PT15M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://wellandfull.com/2016/02/the-vegan-buddha-bowl/
+  description: wellandfull.com
+ingredients:
+- group: Quinoa
+  ingredients:
+  - quantity: 1 cup
+    ingredient: Quinoa
+  - quantity: 500ml
+    ingredient: Water
+- group: Chickpeas
+  ingredients:
+  - quantity: 400g can
+    ingredient: Chickpeas
+    notes: Cooked
+  - quantity: 2 tablespoons
+    ingredient: Olive Oil
+  - quantity: 1/2 teaspoon
+    ingredient: Salt
+  - quantity: 1/2 teaspoon
+    ingredient: Smoked Paprika
+  - quantity: 1 teaspoon
+    ingredient: Chilli Powder
+  - quantity: 1/8 teaspoon
+    ingredient: Ground Turmeric
+  - quantity: 1/2 teaspoon
+    ingredient: Oregano
+- group: Red Pepper Sauce
+  ingredients:
+  - quantity: '1'
+    ingredient: Red Pepper
+  - quantity: 2 tablespoons
+    ingredient: Olive Oil
+  - quantity: 15ml
+    ingredient: Lemon Juice
+  - quantity: 1/2 teaspoon
+    ingredient: Black Pepper
+  - quantity: 1/2 teaspoon
+    ingredient: Salt
+  - quantity: 1/2 teaspoon
+    ingredient: Paprika
+  - quantity: Handful
+    ingredient: Fresh Coriander
+- group: Others
+  ingredients:
+  - quantity: 50g
+    ingredient: Salad Leaves
+  - quantity: '1'
+    ingredient: Avocados
+  - quantity: 10g
+    ingredient: Sesame Seeds
+steps:
+- steps:
+  - text: Preheat the oven to 220C,
+  - text: Boil water and add the quinoa, then simmer for 15 minutes, then keep covered,
+  - text: Toss the chickpeas oil and spices until the chickpeas are evenly coated,
+  - text: Line a baking tray with parchment paper and bake the chickpeas for 15-20
+      minutes,
+  - text: Remove from the oven and allow to cool,
+  - text: To make the red pepper sauce, add all of the sauce to a blender and blend
+      until smooth,
+  - text: Assemble all ingredients into the bowls (slice the avocados),

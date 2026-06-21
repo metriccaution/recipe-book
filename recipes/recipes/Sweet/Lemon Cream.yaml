@@ -1,0 +1,43 @@
+identifier: 87924a13-081f-48c4-9f96-d98081636a52
+title: Lemon Cream
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Eggs
+equipment:
+- 8 ramekins (pots) to serve in
+- Fridge
+- Kettle
+- Roasting tin
+serves: 6
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9780701169114'
+  description: How to Eat
+ingredients:
+- ingredients:
+  - quantity: '3'
+    ingredient: Lemon
+    notes: Ideally unwaxed
+  - quantity: 275g
+    ingredient: Caster Sugar
+  - quantity: '6'
+    ingredient: Eggs
+  - quantity: 300ml
+    ingredient: Double Cream
+steps:
+- title: Preparation
+  steps:
+  - text: Zest the lemons into a bowl,
+  - text: Add the lemon juice, sugar and eggs, whisk well together,
+  - text: Add the cream and pour into a jug,
+  - text: Cover and leave (ideally >2 days),
+- title: Cooking
+  steps:
+  - text: Pre-heat the oven to 150C & boil a kettle,
+  - text: Place the 8 ramekins into a roasting tin and fill with lemon cream mixture,
+  - text: Pour boiling water into the tray, about halfway up the ramekins,
+  - text: Bake for 20-30 minutes, until set with a little wobble,
+  - text: Let them cool.

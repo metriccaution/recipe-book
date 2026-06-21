@@ -1,0 +1,55 @@
+identifier: 1cf04f4c-54ee-423b-bc0a-0b0cf91bc822
+title: Borscht
+section: Main
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Carrot
+- Onion
+- Potato
+- Soup
+equipment: []
+serves: 6
+prepTime: PT20M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: 1kg
+    ingredient: Beetroot
+    notes: Fresh
+  - quantity: 50ml
+    ingredient: Sunflower Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: Large, peeled and diced
+  - quantity: 500g
+    ingredient: Potatoes
+  - quantity: 75g
+    ingredient: Carrots
+  - quantity: A dash
+    ingredient: Tabasco
+  - quantity: 3 cloves
+    ingredient: Garlic
+    notes: Freshly chopped
+  - quantity: 100ml
+    ingredient: Vodka
+  - quantity: 30ml
+    ingredient: Lemon Juice / Lime Juice
+steps:
+- steps:
+  - text: Wash and trim the beetroot, bring to the boil in a pan of salted water.
+      Cook for about 45 minutes until tender, but still firm.
+  - text: Remove from the cooking liquid, keeping the liquid for later.
+  - text: Slip off the beetroot skins, and chop into quarters.
+  - text: Hat the oil and fry the onion until transparent
+  - text: Add the diced potatoes, carrots, salt, pepper, Tabasco, and chopped garlic.
+      Saute for about 5 minutes.
+  - text: Add the beetroot and cook for 2 minutes.
+  - text: Add the reserved beetroot liquid and continue to simmer gently for 10 minutes.
+  - text: Add the vodka and lemon or lime juice.
+  - text: Remove from the heat.
+  - text: Blend until smooth with a hand blender.

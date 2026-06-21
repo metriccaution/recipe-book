@@ -1,0 +1,53 @@
+identifier: 038cc59a-5776-4850-ac9f-dd15fd0280b2
+title: Chickpea Salad
+section: Main
+created_at: '2024-09-27'
+tags:
+- Chickpea
+- Onion
+- Preserved Beans
+- Salad
+equipment: []
+serves: 3
+prepTime: PT10M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: 2 400g can
+    ingredient: Chickpeas
+  - quantity: 100g
+    ingredient: Onions
+  - quantity: '2'
+    ingredient: Spring Onions
+  - quantity: Small Handful
+    ingredient: Parsley
+  - quantity: Handful
+    ingredient: Fresh Coriander
+  - quantity: 1 tbsp
+    ingredient: Paprika
+  - quantity: 1 tbsp
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 200ml
+    ingredient: Olive Oil
+  - quantity: 2 tbsp
+    ingredient: Tamari
+  - quantity: 500g
+    ingredient: Baby Spinach
+  - quantity: 500ml
+    ingredient: Greek Yoghurt
+steps:
+- steps:
+  - text: 'Mix all the ingredients except for: ,Half the coriander, Spinach, 1 garlic
+      clove, 2 tbsp of the olive oil, and 1 tbsp of tamari'
+  - text: Allow the mixture to marinate for a few hours
+  - text: Mix the yoghurt with the remaining coriander and garlic for the sauce
+  - text: At the last moment, toss the baby spinach with the reserved oil and tamari,
+      along with a squeeze of lemon juice
+  - text: To serve, heap the spinach on a plate, spoon the chickpeas on top, and serve
+      alongside the yoghurt sauce

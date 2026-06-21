@@ -1,0 +1,43 @@
+identifier: 257f428f-f0f3-479e-9e88-c91b9099deec
+title: Yorkshire Pudding
+section: Side
+created_at: '2024-09-27'
+tags:
+- Eggs
+- Family Classics
+equipment:
+- Baking tray (muffin tray for individual ones)
+- Bowl
+- Oven
+- Whisk (ideally)
+serves: 4
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9780852231371'
+  description: Good Housekeeping Cookery Book
+description: This recipe makes about 12 individual puddings.
+ingredients:
+- ingredients:
+  - quantity: 50g
+    ingredient: Plain Flour
+  - quantity: pinch
+    ingredient: Salt
+  - quantity: '1'
+    ingredient: Eggs
+  - quantity: 150ml
+    ingredient: Milk
+  - quantity: 2 tbsp
+    ingredient: Oil
+    notes: To line the tray.
+steps:
+- steps:
+  - text: Preheat the oven to 220C. Oil the baking tray and let it heat.
+  - text: Mix the flour and salt, make a well in the centre.
+  - text: Break the egg into the mixture and add half the milk.
+  - text: Mix the liquid in, gradually adding more.
+  - text: Beat until it's well mixed and the surface is covered in tiny bubbles.
+  - text: Ideally, leave the mix for a few hours.
+  - text: Once the oil in the tray is really hot, pour in the batter.
+  - text: Cook for 15-20 minutes.

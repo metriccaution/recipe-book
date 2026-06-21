@@ -1,0 +1,40 @@
+identifier: 458d2942-4e79-4f29-a8ba-b2f063492e0c
+title: Flapjacks
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Nuts
+equipment:
+- 20cm x 30cm (8in x 12in) cake tin
+- Oven
+serves: 20
+prepTime: PT20M
+cookingTime: PT20M
+source:
+  type: described
+  description: Naturally good food website
+ingredients:
+- ingredients:
+  - quantity: 200g
+    ingredient: Unsalted Butter
+  - quantity: 200g
+    ingredient: Brown Sugar
+  - quantity: 200g
+    ingredient: Honey
+  - quantity: 400g
+    ingredient: Porridge Oats
+  - quantity: 50g
+    ingredient: Mixed Nuts / Dried Fruit / Mixed Seeds
+  - quantity: 3 tbsp
+    ingredient: Oil
+    notes: Applied to cake tin.
+steps:
+- steps:
+  - text: Put the butter, sugar and honey in a saucepan and heat, stirring occasionally
+      until the butter has melted and the sugar has dissolved.
+  - text: Add the oats and nuts, fruit, ginger or coconut, if using, and mix well.
+  - text: Transfer the oat mixture to the prepared cake tin and spread to about 2cm
+      (3/4in) thick. Smooth the surface with the back of a spoon.
+  - text: Bake in a preheated oven at 180C/350F/Gas 4 for 15-20 minutes, until lightly
+      golden around the edges, but still slightly soft in the middle.
+  - text: Let cool in the tin, then turn out and cut into squares.

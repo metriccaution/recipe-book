@@ -1,0 +1,64 @@
+identifier: 5424e6f0-4aca-447a-8fc1-330558ad1f36
+title: The Soup of Ezo the Bride
+section: Main
+created_at: '2024-09-27'
+tags:
+- Bulgar Wheat
+- Lentil
+- Onion
+- Rice
+- Soup
+- Tomato
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9781862058842'
+  page: 96
+  description: Veggiestan
+ingredients:
+- ingredients:
+  - quantity: 50g
+    ingredient: Butter
+    notes: For frying
+  - quantity: '1'
+    ingredient: Onions
+    notes: Large, finely chopped
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 3 tbsp
+    ingredient: Paprika
+  - quantity: 1 tbsp
+    ingredient: Tomato Puree
+  - quantity: 300g
+    ingredient: Red Split Lentils
+  - quantity: 50g
+    ingredient: Brown Basmati Rice
+  - quantity: 100g
+    ingredient: Bulgar Wheat
+  - quantity: 2 litres
+    ingredient: Vegetable Stock
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+  - quantity: 2 tbsp
+    ingredient: Dried Mint
+  - quantity: 1 tbsp
+    ingredient: "Biber Sal\xE7as\u0131 / Pepper Paste"
+steps:
+- title: To Make the Soup
+  steps:
+  - text: Melt the butter in a soup pan
+  - text: Fry the onion until soft
+  - text: Add the garlic, fry for a minute
+  - text: Add the tomatoes, cumin and half the paprika
+  - text: "Stir for a minute, and then add the tomato and Biber Sal\xE7as\u0131"
+  - text: Add the lentils, rice and bulgar wheat
+  - text: Stir in the stock, and bring to the boil
+  - text: Reduce to a simmer, cook for 40 minutes, stirring occasionally
+  - text: Season to taste, add water as required
+  - text: Heat a little butter in a pan, add the paprika and the mint
+  - text: Serve the soup with the minty paprika as a garnish

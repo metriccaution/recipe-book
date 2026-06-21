@@ -1,0 +1,97 @@
+identifier: 73e58ca3-d644-408b-a1be-392f451a564a
+title: Stilton, Leek and Hazelnut Lattice
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Complex
+- Eggs
+- Leek
+- Nuts
+- Rice
+equipment:
+- Grill
+- Hob
+- Knife
+- Oven
+- Pan
+serves: 6
+prepTime: PT35M
+cookingTime: PT1H10M
+source:
+  type: described
+  description: Waitrose 2020 calendar
+ingredients:
+- group: Filling
+  ingredients:
+  - quantity: 120g
+    ingredient: Brown Basmati Rice
+  - quantity: 100g
+    ingredient: Hazelnuts
+    notes: blanched
+  - quantity: 20g
+    ingredient: Unsalted Butter
+  - quantity: 1 tablespoon
+    ingredient: Olive Oil
+  - quantity: '4'
+    ingredient: Leeks
+    notes: medium-sized, thinly sliced
+  - quantity: 180g
+    ingredient: Stilton
+    notes: crumbled
+  - quantity: 5 leaves
+    ingredient: Sage
+    notes: finely chopped
+  - quantity: Small Handful
+    ingredient: Parsley
+    notes: chopped
+- group: Casing
+  ingredients:
+  - quantity: '1'
+    ingredient: Eggs
+    notes: Just the yolk
+  - quantity: 2 tablespoons
+    ingredient: Milk
+  - quantity: 500g
+    ingredient: Puff Pastry
+- group: Optional Accompaniments
+  ingredients:
+  - quantity: '1'
+    ingredient: Cranberry Sauce
+    notes: Jar
+  - quantity: '12'
+    ingredient: Carrots
+  - quantity: 600g
+    ingredient: Winter Greens
+steps:
+- title: Filling
+  steps:
+  - text: Preheat the oven to 200C/Mark6,
+  - text: Cook the rice as normal,
+  - text: Put the hazelnuts in in a roasting tin and roast for 7-8 minutes until golden.
+  - text: Set the nuts aside to cool
+  - text: Once cooled, chop the nuts,
+  - text: Melt the butter and oil in a large pan over a low heat then add the leeks,
+  - text: Cover and cook for 10 minutes,
+  - text: Uncover, turn the leeks over and cook for 5 minutes until golden brown in
+      places, soft and any liquid has evaporated,
+  - text: Tip into a large mixing bowl and allow to cool (can leave up to 2 days),
+- title: Assembly
+  steps:
+  - text: Add the rice, nuts stilton, sage and parsley to the leek mixture and season,
+  - text: Mix the egg yolk and milk in a bowl to make an egg wash,
+  - text: "Roll out the pastry to a rectangle around 30cm x 40cm and the thickness\
+      \ of a \xA31 coin,"
+  - text: Line a large baking tray with parchment and lay the pastry on top,
+  - text: Chill for 10 minutes.
+  - text: Spoon the filling along one long side leaving a 6cm border along the edge
+      and a 3cm border at the short ends.
+  - text: Brush the borders with egg wash.
+  - text: Shape the filling into a firm, flat sausage,
+  - text: Bring the long pastry edge over to meet and under-lap the bottom edge, rolling
+      the full log forwards to join onto the underside,
+  - text: Seal the ends firmly and score the edges to make a lattice pattern,
+  - text: Brush the egg wash over the surface of the pastry lattice,
+  - text: Bake in the centre of the oven for 40-45 minutes until risen, crisp and
+      golden,
+  - text: Allow to rest for 15 minutes before slicing,

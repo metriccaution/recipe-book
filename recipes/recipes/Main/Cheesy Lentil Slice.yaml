@@ -1,0 +1,53 @@
+identifier: fbc10864-e2ef-4d6c-ba58-e97a3180c93e
+title: Cheesy Lentil Slice
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Eggs
+- Lentil
+- Onion
+equipment: []
+serves: 3
+prepTime: PT10M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9781909881839'
+  description: Veggie Comfort Food (National Trust)
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Red Split Lentils
+  - quantity: 450ml
+    ingredient: Water
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: Finely chopped
+  - quantity: 0.5 tsp
+    ingredient: Cayenne Pepper
+  - quantity: 110g
+    ingredient: Cheddar Cheese
+    notes: Grated
+  - quantity: 1 tsp
+    ingredient: Mixed Herbs
+  - quantity: '1'
+    ingredient: Eggs
+    notes: Beaten
+  - quantity: 3 tbsp
+    ingredient: Breadcrumbs
+steps:
+- steps:
+  - text: Preheat the oven to 190 C
+  - text: Grease an ovenproof dish
+  - text: Put the **lentils** in a pan with the water, bring to the boil
+  - text: Skim off any scum that rises to the surface
+  - text: Turn down the heat, simmer for 25 minutes
+  - text: Heat the **oil** in a saucepan, and fry the **onion** until soft
+  - text: Add the **cayenne**
+  - text: Combine the **onions, lentils, cheese, herbs, egg and breadcrumbs**
+  - text: Season well
+  - text: Put in the greased dish, put in the oven
+  - text: Cook for 30 minutes until set

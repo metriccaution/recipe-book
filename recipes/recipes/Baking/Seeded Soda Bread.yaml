@@ -1,0 +1,55 @@
+identifier: 466f9372-b6ef-4188-afe6-e8ac4c0de7dd
+title: Seeded Soda Bread
+section: Baking
+created_at: '2025-10-03'
+tags:
+- Bread
+- Fermented
+- Nuts
+equipment: []
+prepTime: PT10M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: 70g
+    ingredient: Prunes
+    notes: Pitted
+  - quantity: 150g
+    ingredient: Wholemeal Rye Flour
+  - quantity: 85g
+    ingredient: Flax seeds
+  - quantity: 1 1/2 tsp
+    ingredient: Bicarbonate of Soda
+  - quantity: 1 1/2 tsp
+    ingredient: Salt
+  - quantity: 230g
+    ingredient: Mixed Nuts / Mixed Seeds
+  - quantity: 35g
+    ingredient: Jumbo Oats
+  - quantity: 300ml
+    ingredient: Kefir
+steps:
+- steps:
+  - text: "Preheat the oven to 180\xB0C/160\xB0C fan /350\xB0F/gas 4 and line a 2lb\
+      \ loaf tin with baking parchment. (If you don't have a loaf tin, line a baking\
+      \ tray with Parchment.)"
+  - text: Soak the prunes in 80ml boiling water,
+  - text: Put the flour, ground flaxseed, bicarbonate of soda, sea salt, seeds and
+      nuts and all but 1 tablespoon of the oats into a bowl and mix well.
+  - text: If making a round, free-form loaf rather than using a loaf tin, add 30g
+      extra flour to make the dough easier to handle.
+  - text: Add the kefir to the prunes and their soaking liquid and blitz with a hand-blender
+      until smooth. Pour this into the bowl of dry ingredients, mixing very gently
+      until you have a wet dough.
+  - text: Transfer the mixture to the prepared loaf tin or tray, sprinkle with the
+      reserved oats, and flatten down slightly.
+  - text: Score a 1/2 cm-deep line down the middle of the loaf.
+  - text: Bake for 45 minutes, turning upside down in the tin for the last 5 minutes
+      to get a nice even crust.
+  - text: Transfer to a wire rack to cool. This will keep for 5 days at room temperature
+      and freezes well too; slice the loaf first so you can grab a slice or two from
+      the freezer whenever you need it.

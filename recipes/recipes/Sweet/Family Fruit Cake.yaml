@@ -1,0 +1,154 @@
+identifier: 427f79a1-6983-41e5-bf53-def48be482d1
+title: Family Fruit Cake
+section: Sweet
+created_at: '2024-09-28'
+tags:
+- Alcohol
+- Almond
+- Cake
+- Eggs
+- Family Classics
+- Nuts
+equipment:
+- Cake tin
+- Grater & Juicer
+- Greaseproof paper
+- Large bowl
+- Oven
+prepTime: PT30M
+cookingTime: PT4H
+source:
+  type: described
+  description: Photocopy from "Family Circle"
+description: 'This recipe is easily resized to make different sized cakes. The ingredients
+  list is for a 15cm cake.
+
+
+
+  The ingredients vary with the size of the tin being used:
+
+
+
+  | Ingredient       | 15cm round | 18cm round | 20.5cm round | 23cm round | 25.5cm
+  round | 28cm round | 30.5cm round | 33cm round |
+
+  | ---------------- | ---------- | ---------- | ------------ | ---------- | ------------
+  | ---------- | ------------ | ---------- |
+
+  | Currants         | 225g       | 300g       | 400g         | 525g       | 625g         |
+  750g       | 900g         | 1150g      |
+
+  | Sultanas         | 100g       | 125g       | 200g         | 250g       | 300g         |
+  375g       | 450g         | 575g       |
+
+  | Rasins           | 100g       | 125g       | 200g         | 250g       | 300g         |
+  375g       | 450g         | 575g       |
+
+  | Blanched Almonds | 25g        | 25g        | 50g          | 75g        | 75g          |
+  75g        | 125g         | 125g       |
+
+  | Citrus Peel      | 25g        | 25g        | 50g          | 75g        | 75g          |
+  75g        | 125g         | 125g       |
+
+  | Glace Cherries   | 50g        | 50g        | 75g          | 100g       | 125g         |
+  150g       | 175g         | 175g       |
+
+  | Plain Flour      | 125g       | 150g       | 200g         | 250g       | 325g         |
+  375g       | 450g         | 550g       |
+
+  | Mixed Spice      | 1/4 tsp    | 1/4 tsp    | 1/2 tsp      | 3/4 tsp    | 3/4 tsp      |
+  1 tsp      | 1 tsp        | 1 tsp      |
+
+  | Butter           | 125g       | 150g       | 200g         | 250g       | 325g         |
+  375g       | 450g         | 550g       |
+
+  | Brown Sugar      | 125g       | 150g       | 200g         | 250g       | 325g         |
+  375g       | 450g         | 550g       |
+
+  | Lemon            | 1/2        | 1/2        | 1            | 1          | 1 1/2        |
+  1 1/2      | 2            | 2          |
+
+  | Eggs             | 2          | 3          | 3            | 5          | 6            |
+  7          | 8            | 10         |
+
+  | Brandy           | 1 tbsp     | 1 1/2 tbsp | 2 tbsp       | 2 1/2 tbsp | 3 tbsp       |
+  3 1/s tbsp | 4            | 6          |'
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Currants
+  - quantity: 100g
+    ingredient: Sultanas
+  - quantity: 100g
+    ingredient: Rasins
+  - quantity: 25g
+    ingredient: Blanched Almonds
+  - quantity: 25g
+    ingredient: Citrus Peel
+  - quantity: 50g
+    ingredient: Glace Cherries
+  - quantity: 125g
+    ingredient: Plain Flour
+  - quantity: 1/4 tsp
+    ingredient: Mixed Spice
+  - quantity: 125g
+    ingredient: Butter
+  - quantity: 125g
+    ingredient: Brown Sugar
+  - quantity: 1/2
+    ingredient: Lemon
+  - quantity: '2'
+    ingredient: Eggs
+    notes: Medium sized
+  - quantity: 1 tbsp
+    ingredient: Brandy / Sherry
+steps:
+- title: Prepare the Tin
+  steps:
+  - text: Line the tin with double greaseproof paper.
+    substeps:
+    - text: Draw around base of tin.
+    - text: Cut out 2 circles.
+    - text: Roll tin on a strip of greaseproof paper, marking seam to exact size of
+        tin (joins spoil the shape of the cake).
+    - text: Cut the strip 2 inches higher than the depth of the cake tin.
+    - text: Fold the paper down 1 inch along the bottom and snip at intervals up to
+        the fold.
+    - text: Brush the tin with oil.
+    - text: Place the strip to the side of the tin and fit the circles to the base
+        (pressing out any air bubbles.
+  - text: Cut a double strip of brown paper / newspaper 1 inch higher than the depth
+      of the tin, wrap the tin & secure with string (prevents over-browning).
+- title: Preparing Ingredients
+  steps:
+  - text: Sift flour and mixed spice together.
+  - text: Grate rind of lemon (avoiding white pith) & squeeze juice.
+  - text: Beat eggs.
+  - text: Pre-heat oven to 200 C (Gas Mark 6).
+  - text: Line cake tin.
+- title: Cake Mix
+  steps:
+  - text: Cream butter & sugar together until light & fluffy.
+  - text: Beat in eggs (add a little at a time).
+  - text: Add lemon rind.
+  - text: Add fruit, peel & nuts - mix thoroughly.
+  - text: Stir in flour, mixed spice & lemon juice.
+  - text: Mix well and place in tin, pressing mixture down sides.
+  - text: Smooth the top with a spoon.
+- title: Baking
+  steps:
+  - text: Place cake on a double sheet of brown paper on a baking sheet.
+  - text: Reduce heat to 170 C (Gas Mark 3).
+  - text: Place the cake in the center of the oven.
+  - text: 'Reduce the heat during cooking:'
+    substeps:
+    - text: 1st hour - 170 C (Gas Mark 3).
+    - text: 2nd hour - 150 C (Gas Mark 2).
+    - text: 3rd hour - 140 C (Gas Mark 1). After three hours test to see if it's cooked
+        by pressing with fingers. If it's cooked the cake should spring back. Also
+        should have stopped bubbling and started to shrink back from the sides.
+    - text: 4th hour - 120 C (Gas Mark 1/2). If the cake is sufficiently brown put
+        a sheet of brown paper over the top to stop it browning further.
+  - text: Remove cake from tin & paper.
+  - text: Prick cake and spoon over a little brandy.
+  - text: Flip cake, and treat base similarly.

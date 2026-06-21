@@ -1,0 +1,62 @@
+identifier: c1ab830e-f30d-4c45-8d62-0dd849092023
+title: Almond Biscotti
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Almond
+- Biscuit
+- Eggs
+- Family Classics
+- Nuts
+equipment:
+- Baking tray (lined)
+- Large bowl
+- Oven
+- Serrated knife
+prepTime: PT30M
+cookingTime: PT1H
+source:
+  type: url
+  url: https://www.deliaonline.com/recipes/international/european/italian/almond-biscotti
+  description: Delia Online
+description: Makes approximately 16 biscotti.
+ingredients:
+- ingredients:
+  - quantity: 110g
+    ingredient: Plain Flour
+    notes: Extra for rolling surface
+  - quantity: 3.5g
+    ingredient: Baking Powder
+  - quantity: a pinch
+    ingredient: Salt
+  - quantity: 25g
+    ingredient: Ground Almonds
+  - quantity: 50g
+    ingredient: Whole Almonds
+    notes: with skins
+  - quantity: 75g
+    ingredient: Caster Sugar
+  - quantity: '1'
+    ingredient: Eggs
+    notes: large
+  - quantity: 10ml
+    ingredient: Almond Extract
+steps:
+- title: First Cooking
+  steps:
+  - text: Pre-heat the oven to 170C / gas mark 3,
+  - text: Sift the flour, baking powder and salt into a large bowl,
+  - text: Add the ground and whole almonds and the sugar and five the dry ingredients
+      a good mix,
+  - text: Add the egg and almond extract and give it a another mix (with a wooden
+      spoon),
+  - text: On a lightly floured surface, roll the rough into a log about 30cm long,
+  - text: Put the log onto a lined baking tray and bake it in the centre of the oven
+      for 30 minutes,
+  - text: Leave the log to cool until it's completely cold,
+- title: Second Cooking
+  steps:
+  - text: Pre-heat the oven to 150C / gas mark 2
+  - text: With a serrated knife, cut the biscotti into slightly diagonal slices ~1cm
+      wide,
+  - text: Place the slices back on the baking tray and cook for another 30 minutes,

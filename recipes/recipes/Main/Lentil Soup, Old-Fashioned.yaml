@@ -1,0 +1,51 @@
+identifier: f0b9f38d-0c53-4d51-b184-bce234843726
+title: Lentil Soup, Old-Fashioned
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Lentil
+- Onion
+- Potato
+- Soup
+equipment: []
+prepTime: PT10M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Onions
+    notes: Large
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+  - quantity: '3'
+    ingredient: Carrots
+  - quantity: '1'
+    ingredient: Potato
+  - quantity: 500g
+    ingredient: Brown Lentils
+  - quantity: 4 cloves
+    ingredient: Garlic
+  - quantity: 2.5 litres
+    ingredient: Vegetable Stock
+  - quantity: 2 tbsp
+    ingredient: Tamari
+  - quantity: 1 tsp
+    ingredient: Tabasco
+  - quantity: 1 handful
+    ingredient: Parsley
+    notes: Small
+  - quantity: '2'
+    ingredient: Spring Onions
+steps:
+- steps:
+  - text: Heat 1 tbsp oil in a large saucepan, and saute the onion & cumin until transparent
+  - text: Add chopped carrots & potatoes, saute for a couple of minutes
+  - text: Add the lentils, garlic (whole) and half the stock
+  - text: Bring to the boil, then simmer for 20 minutes, stirring occasionally
+  - text: Add the remaining stock, continue to simmer for 20-25 minutes
+  - text: Add the remaining seasoning

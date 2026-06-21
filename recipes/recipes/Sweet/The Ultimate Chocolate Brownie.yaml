@@ -1,0 +1,51 @@
+identifier: 1675d918-b6ab-482a-83ca-4f17a342e138
+title: The Ultimate Chocolate Brownie
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Chocolate
+- Eggs
+- Family Classics
+equipment:
+- Bowl that sits in the pan
+- Oven
+- Pan
+- Tray
+serves: 40
+prepTime: PT15M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9781853753145'
+  description: Lunchbox
+ingredients:
+- ingredients:
+  - quantity: 300g
+    ingredient: Cooking Chocolate
+    notes: or chocolate chips. can freeze to keep them more solid
+  - quantity: 250g
+    ingredient: Butter
+  - quantity: '8'
+    ingredient: Eggs
+  - quantity: 650g
+    ingredient: Sugar
+  - quantity: 300g
+    ingredient: Self Raising Flour
+  - quantity: 1 teaspoon
+    ingredient: Vanilla Essence
+steps:
+- title: Preparation
+  steps:
+  - text: "Pre-heat the oven to 180\xB0C."
+  - text: Grease a regular cake tin.
+- title: Cooking
+  steps:
+  - text: Melt butter & 150g of the chocolate in a bowl over a pan of simmering water.
+  - text: Add the sugar, stirring until smooth.
+  - text: Allow to cool slightly.
+  - text: Whisk in the eggs.
+  - text: Chop the remaining chocolate.
+  - text: Stir all ingredients together into the melted chocolate (possibly in a larger
+      bowl),
+  - text: Pour into the cake tin and cook for 30 minutes (should still be soft in
+      the middle).

@@ -1,0 +1,43 @@
+identifier: bce117d9-96a1-4580-901f-077545828239
+title: Pita
+section: Baking
+created_at: '2024-10-15'
+tags:
+- Bread
+equipment: []
+prepTime: PT30M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=iErqWGwso7o
+  description: Binging With Babbish
+description: This recipe makes 6 pita.
+ingredients:
+- ingredients:
+  - quantity: 375g
+    ingredient: Plain Flour
+  - quantity: 250ml
+    ingredient: Water
+  - quantity: 7g
+    ingredient: Yeast
+  - quantity: 25ml
+    ingredient: Olive Oil
+  - quantity: Pinch
+    ingredient: Salt
+steps:
+- steps:
+  - text: Add 150g of the flour, water and yeast to a mixing bowl, and mix well.
+  - text: Allow to sit for 20 minutes, until the mixture stats to bubble.
+  - text: Add the olive oil, salt, and the rest of the flour.
+  - text: Kneed well.
+  - text: Put into a lightly oiled bowl, and leave to rise for 2 hours, until doubled
+      in size.
+  - text: Turn the dough out onto a covered surface, and cut into 6 even pieces.
+  - text: Form each 6th into a ball, and allow to rise, covered for 30 minutes.
+  - text: Heat a frying pan.
+  - text: One by one, roll out and cook the dough balls.
+    substeps:
+    - text: Roll out the ball into a very thin circle.
+    - text: Transfer to the pan, it should bubble up.
+    - text: Turn once the underside starts to brown.
+    - text: Remove once both sides are cooked.

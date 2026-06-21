@@ -1,0 +1,89 @@
+identifier: 4e28bb6b-7998-41db-b7b2-e3ce4e1d3715
+title: Strawberry, Rose And Pistachio Cake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Cake
+- Cheese
+- Eggs
+- Family Classics
+equipment:
+- 4x 18cm cake tin
+- Baking paper
+- Electric mixer (optional)
+- Hand whisk (electric if possible)
+- Large bowl
+- Oven
+serves: 12
+prepTime: PT20M
+cookingTime: PT30M
+source:
+  type: described
+  description: The Time Magazine
+ingredients:
+- group: The Cakes
+  ingredients:
+  - quantity: '5'
+    ingredient: Eggs
+    notes: large 2 eggs for a smaller cake
+  - quantity: 320g
+    ingredient: Butter
+    notes: 100g for a smaller cake
+  - quantity: 320g
+    ingredient: Caster Sugar
+    notes: 100g for a smaller cake
+  - quantity: 320g
+    ingredient: Self Raising Flour
+    notes: 100g for a smaller cake
+  - quantity: 100g
+    ingredient: Shelled Pistachios
+    notes: roughly chopped, 35g for a smaller cake
+  - quantity: 7.5g
+    ingredient: Baking Powder
+  - quantity: 6 teaspoons
+    ingredient: Rose Water
+- group: Cream Cheese Frosting
+  ingredients:
+  - quantity: 300g
+    ingredient: Mascarpone
+  - quantity: 600ml
+    ingredient: Double Cream
+  - quantity: 100g
+    ingredient: Icing Sugar
+  - quantity: 8 teaspoons
+    ingredient: Rose Water
+- group: Decoration
+  ingredients:
+  - quantity: 250g
+    ingredient: Strawberry Jam
+  - quantity: '30'
+    ingredient: Strawberries
+    notes: halved
+  - quantity: 50g
+    ingredient: Shelled Pistachios
+    notes: thinly sliced
+steps:
+- title: The Cakes
+  steps:
+  - text: Preheat the oven to 160C
+  - text: Grease and line four 18cm cake tins with butter and baking paper
+  - text: Mix all of the cake ingredients in a bowl with an electric mixer for 30
+      seconds to a minute until combined well
+  - text: Bake for 25-30 minutes
+  - text: Take out of the oven and let cool in the tins for 10-15 minutes
+  - text: Turn out onto a wire rack and cool for a further 30 minutes
+- title: Frosting
+  steps:
+  - text: Place the mascarpone, double cream and icing sugar in a mixing bowl and
+      whisk until stiff using an electric hand whisk
+  - text: Add the rose water to taste (check after 3 teaspoons)
+- title: Decoration
+  text: The original recipe makes a single three-tier cake, but our method makes a
+    pair of two-tier cakes with jam & frosting in the middle topped with frosting,
+    pistachios and strawberries.
+  steps:
+  - text: If making a 3-tier cake, spread the bottom layer with frosting, the layer
+      above with jam, and then the top with frosting
+  - text: If making a 3-tier cake, spread the middle with jam and frosting, then top
+      with frosting
+  - text: Decorate with chopped pistachios and strawberries

@@ -1,0 +1,85 @@
+identifier: 16cceb4a-a8ff-4987-b565-d7b7c08d4580
+title: Oat and Pecan Brittle Cookies
+section: Sweet
+created_at: '2026-05-18'
+tags:
+- Almond
+- Biscuit
+- Eggs
+- Nuts
+equipment: []
+prepTime: PT1H
+cookingTime: PT40M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=gGBC4-CsXOM
+  description: Claire Saffitz
+ingredients:
+- group: Brittle
+  ingredients:
+  - quantity: 140g
+    ingredient: Pecans
+  - quantity: 0.5 tsp
+    ingredient: Salt
+  - quantity: 0.5 tsp
+    ingredient: Bicarbonate of Soda
+  - quantity: 150g
+    ingredient: Sugar
+  - quantity: 50g
+    ingredient: Whole Almonds
+  - quantity: 60g
+    ingredient: Butter
+- group: Brown Butter
+  ingredients:
+  - quantity: 115g
+    ingredient: Butter
+- group: Cookies
+  ingredients:
+  - quantity: 115g
+    ingredient: Butter
+    notes: Not the browned butter
+  - quantity: 200g
+    ingredient: Porridge Oats
+  - quantity: 150g
+    ingredient: Soft Brown Sugar
+  - quantity: 100g
+    ingredient: Caster Sugar
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 1 tbsp
+    ingredient: Vanilla Extract
+  - quantity: 175g
+    ingredient: Plain Flour
+steps:
+- title: Pecan Brittle
+  steps:
+  - text: Pre-heat the oven to 180c
+  - text: Toast pecans for 8-10 minutes
+  - text: Line a tray with greased baking parchment
+  - text: Put the butter, sugar, and a little water in a saucepan, and heat
+  - text: Heat, and stir, until it becomes caramel, about 10 minutes, and a deep amber
+      colour (110C-118C)
+  - text: Stir in pecans
+  - text: Stir in bicarbonate of soda
+  - text: Turn out onto the lined tray immediately, and allow to set
+- title: Brown Butter
+  steps:
+  - text: Heat the butter over a medium to high heat, stirring and scraping constantly
+  - text: Heat until its dark brown and foamy, then take off the heat
+- title: Cookies
+  steps:
+  - text: Add the brown butter and the cold butter to the mixing bowl - it shouldn't
+      be hot when you come to add more ingredients
+  - text: Add the eggs and the vanilla to the mixing bowl, and mix thoroughly
+  - text: Process / grind half the oats, and half the brittle, we don't want big pieces
+      of either
+  - text: Add the flour / ground oats & brittle
+  - text: Add the sugar, and mix well
+  - text: Mix in the rest of the oats
+  - text: Break up the remaining brittle into small chunks
+  - text: Mix well
+  - text: Form into lumps on a lined baking tray
+  - text: Chill the dough for at least an hour, up to 24 (you can freeze them at this
+      point)
+  - text: Pre-heat the oven to 180c
+  - text: Bake cookies for 18 minutes

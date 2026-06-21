@@ -1,0 +1,42 @@
+identifier: e6a363e2-970b-4fa3-a725-ce6d92da4e43
+title: Bread Sauce
+section: Side
+created_at: '2025-10-03'
+tags:
+- Family Classics
+- Onion
+- Sauce
+equipment: []
+serves: 4
+prepTime: PT15M
+cookingTime: PT20M
+source:
+  type: described
+  description: One of Mum's cookbooks.
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: '2'
+    ingredient: Cloves
+  - quantity: 400ml
+    ingredient: Milk
+  - quantity: A few whole corns
+    ingredient: Black Pepper
+  - quantity: 1/2
+    ingredient: Bay Leaves
+  - quantity: 1 knob
+    ingredient: Butter
+  - quantity: 75g
+    ingredient: Breadcrumbs
+steps:
+- steps:
+  - text: Skin the onion, and stick the cloves into it.
+  - text: Put the whole onion in a saucepan with the milk, peppercorns, bayleaf, and
+      a pinch of salt.
+  - text: Bring almost to the boil, then remove from the heat.
+  - text: Allow to cool for 20 minutes.
+  - text: Remove the peppercorns and bayleaf.
+  - text: Add the breadcrumbs and butter.
+  - text: Mix well, and cook slowly for 15 minutes.
+  - text: Remove the onion before serving.

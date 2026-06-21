@@ -1,0 +1,40 @@
+identifier: ec691171-f028-4039-b592-cda099c3c4cd
+title: Red Lentil Dhal
+section: Main
+created_at: '2024-09-27'
+tags:
+- Curry
+- Lentil
+equipment:
+- Hob
+- Large pan
+serves: 4
+prepTime: PT20M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9780857230003'
+  description: The Three Ingredient Cookbook
+ingredients:
+- ingredients:
+  - quantity: 150g
+    ingredient: Red Split Lentils
+  - quantity: 1 tablespoon
+    ingredient: Curry Paste
+    notes: Hot
+  - quantity: 1 tablespoon
+    ingredient: Sunflower Oil
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+  - quantity: 600ml
+    ingredient: Water
+    notes: Boiling
+steps:
+- steps:
+  - text: Heat oil in a large pan and add lentils.
+  - text: Fry for 1-2 minutes.
+  - text: Add 600ml of boiling water.
+  - text: Bring the mixture to the boil, then reduce the heat and gently simmer for
+      15 minutes until lentils are tender.
+  - text: Season with salt and pepper.
+  - text: Serve piping hot.

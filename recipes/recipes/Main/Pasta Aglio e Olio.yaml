@@ -1,0 +1,41 @@
+identifier: ce4b486f-bfb6-4e05-98ca-29395396b097
+title: Pasta Aglio e Olio
+section: Main
+created_at: '2024-10-15'
+tags:
+- Pasta
+equipment: []
+serves: 2
+prepTime: PT10M
+cookingTime: PT10M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=bJUiWdM__Qw
+  description: Binging With Babbish
+ingredients:
+- ingredients:
+  - quantity: 200g
+    ingredient: Spaghetti
+  - quantity: Half a head
+    ingredient: Garlic
+  - quantity: '1'
+    ingredient: Lemon
+  - quantity: Large bunch
+    ingredient: Parsley
+  - quantity: 100ml
+    ingredient: Olive Oil
+  - quantity: 1 tsp
+    ingredient: Chilli Flakes
+steps:
+- steps:
+  - text: Put a large pot of salted water on to boil.
+  - text: Once boiling add the pasta.
+  - text: When the pasta's cooked, drain, retaining some water.
+  - text: Peel and finely slice the garlic.
+  - text: Pick large stems out of parsley, & cut it very finely.
+  - text: Add oil to a large frying pan and heat.
+  - text: Cook garlic until it starts to brown.
+  - text: Add chilli flakes.
+  - text: Remove from heat.
+  - text: Add the pasta and retained water. Stir.
+  - text: Add the parsley and lemon juice. Stir.

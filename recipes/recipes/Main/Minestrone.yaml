@@ -1,0 +1,78 @@
+identifier: f57d3b02-c248-41fc-b721-2d7175869b10
+title: Minestrone
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cauliflower
+- Cheese
+- Courgette
+- Mushroom
+- Onion
+- Pasta
+- Potato
+- Preserved Beans
+- Soup
+- Tomato
+equipment: []
+serves: 4
+prepTime: PT15M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: 3 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: Peeled and diced
+  - quantity: '3'
+    ingredient: Tomatoes
+    notes: Peeled and chopped
+  - quantity: '2'
+    ingredient: Potatoes
+    notes: Medium sized
+  - quantity: 0.5 litre
+    ingredient: Stock
+  - quantity: 100g
+    ingredient: Broad Beans
+    notes: Shelled, fresh or frozen
+  - quantity: 75g
+    ingredient: Peas
+  - quantity: 50g
+    ingredient: Mushrooms
+    notes: Roughly chopped
+  - quantity: 100g
+    ingredient: Green Beans
+  - quantity: 100g
+    ingredient: Courgettes
+    notes: Diced
+  - quantity: '1'
+    ingredient: Cauliflower
+    notes: Small, broken into florets
+  - quantity: 400g can
+    ingredient: Cannellini Beans
+    notes: Drained
+  - quantity: 3 tbsp
+    ingredient: Parsley
+    notes: Finely chopped
+  - quantity: 100g
+    ingredient: Dry Pasta
+  - quantity: 75g
+    ingredient: Parmesan
+steps:
+- steps:
+  - text: Heat the oil in a pan and fry the onion until transparent.
+  - text: Add the tomatoes, salt and pepper, and fry for another 5 minutes.
+  - text: Add the potatoes and half the stock.
+  - text: Bring to the boil, and simmer until the potatoes are tender.
+  - text: Add the broad beans, peas, mushrooms, green bean, courgettes, cauliflower,
+      and the remaining stock.
+  - text: Simmer for about 25 minutes until the vegetables are very tender.
+  - text: Add the cannellini beans and heat through.
+  - text: Add the parsley
+  - text: Simmer for 3-4 minutes, stirring (add more stock or water if its too thick).
+  - text: Bring to the boil, add the pasta, and boil for 10 minutes.
+  - text: Serve with freshly grated parmesan.

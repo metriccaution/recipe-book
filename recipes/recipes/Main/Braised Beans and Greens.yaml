@@ -1,0 +1,49 @@
+identifier: b3e330d6-73a0-43ae-a603-a6496ea6c06d
+title: Braised Beans and Greens
+section: Main
+created_at: '2025-10-03'
+tags:
+- Cheese
+- Onion
+- Preserved Beans
+equipment: []
+serves: 3
+prepTime: PT5M
+cookingTime: PT10M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 1/2 tsp
+    ingredient: Chilli Flakes
+  - quantity: 400g can
+    ingredient: Cannellini Beans
+  - quantity: 400g can
+    ingredient: Butter Beans
+  - quantity: 400g can
+    ingredient: Haricot Beans
+  - quantity: 1 tbsp
+    ingredient: Miso Paste
+  - quantity: 500g
+    ingredient: Frozen Greens
+  - quantity: 30g
+    ingredient: Parmesan
+steps:
+- steps:
+  - text: "Heat the olive oil in a large casserole dish and saut\xE9 the onion over\
+      \ a medium heat for 3 minutes, stirring occasionally."
+  - text: Add the garlic and chilli flakes and cook for 30 seconds more.
+  - text: Pour in all the beans with their liquid and add the miso and frozen spinach.
+      Mix everything together and simmer for 3-4 minutes.
+  - text: Add the remaining veg and simmer for 3-4 minutes, until the greens are just
+      cooked.
+  - text: Stir in almost all the Parmesan and season with a pinch of salt and pepper.
+      Serve topped with the remaining Parmesan and a drizzle of olive oil.

@@ -1,0 +1,40 @@
+identifier: 17e0d0aa-1078-48fc-a49c-c3ef67c9231c
+title: Broad Bean Burgers
+section: Main
+created_at: '2024-09-27'
+tags:
+- Eggs
+- Onion
+equipment:
+- Blender
+- Frying Pan
+serves: 2
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9780954317973'
+  description: Vegetarian Nosh For Students
+ingredients:
+- ingredients:
+  - quantity: 750g
+    ingredient: Broad Beans
+    notes: Frozen
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 1 slice
+    ingredient: Bread
+    notes: As breadcrumbs
+  - quantity: '1'
+    ingredient: Onions
+    notes: Small
+  - quantity: 25g
+    ingredient: Crisps
+steps:
+- steps:
+  - text: Defrost beans
+  - text: Roughly blend beans
+  - text: Roughly blend onion
+  - text: Mix breadcrumbs, eggs, beans and onion
+  - text: Shape into burgers
+  - text: Fry, leaving the burgers to brown underneath before attempting to flip

@@ -1,0 +1,101 @@
+identifier: e454fb57-ab4d-4f4b-9ecb-917b04a3b439
+title: Cauliflower and Broccoli Gratin with Blue Cheese
+section: Main
+created_at: '2024-09-27'
+tags:
+- Broccoli
+- Cauliflower
+- Cheese
+- Family Classics
+- Onion
+- Rice
+equipment:
+- Baking tray (approx 20 x 15 x 5cm)
+- Balloon whisk
+- Frying pan with lid
+- Hob
+- Oven
+serves: 2
+prepTime: PT15M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780563488187'
+  description: Delia's Vegetarian Collection
+ingredients:
+- group: Vegetables
+  ingredients:
+  - quantity: 275g
+    ingredient: Cauliflower
+  - quantity: 275g
+    ingredient: Broccoli
+  - quantity: 1 tablespoon
+    ingredient: Olive Oil
+  - quantity: '2'
+    ingredient: Onions
+    notes: Peeled & sliced into 8 through the root.
+  - quantity: 225g
+    ingredient: Brown Basmati Rice
+  - quantity: 570ml
+    ingredient: Stock
+    notes: Ideally Marigold Swiss vegetable bouillon powder. Boiling hot.
+  - quantity: 1 rounded teaspoon
+    ingredient: Salt
+- group: Blue Cheese Sauce
+  ingredients:
+  - quantity: 110g
+    ingredient: Roquefort / Gorgonzola / Dolcelatte
+    notes: Cubed
+  - quantity: 570ml
+    ingredient: Milk
+  - quantity: 40g
+    ingredient: Butter
+  - quantity: 40g
+    ingredient: Plain Flour
+  - quantity: 1 pinch
+    ingredient: Cayenne Pepper
+  - quantity: 1 Pinch
+    ingredient: Nutmeg
+    notes: Freshly grated
+  - quantity: 1 Pinch
+    ingredient: Salt / Black Pepper
+- group: Topping
+  ingredients:
+  - quantity: 25g
+    ingredient: Parmesan
+    notes: Finely grated
+  - quantity: 10g
+    ingredient: Breadcrumbs
+  - quantity: 1 tablespoon
+    ingredient: Parsley
+    notes: Finely chopped
+steps:
+- title: Rice
+  steps:
+  - text: Heat the oil in a frying pan (medium hear) and fry the onions for 3-4 minutes
+      until lightly tinged brown,
+  - text: Stir in the rice and turn the grains over sot that they become lightly coated
+      with oil,
+  - text: Add the hot stock along with the salt,
+  - text: Stir once and cover on a very low setting for 40-45 minutes (don't take
+      the lid off or stir).
+- title: Cheese Sauce
+  steps:
+  - text: Place the butter, flour and cayenne pepper in a saucepan on a medium heat
+      and mix into a paste on a low heat,
+  - text: Add the milk and stir with a balloon whisk until the sauce becomes thick,
+      smooth and glossy,
+  - text: Turn the heat down to its lowest setting and cook for 5 minutes,,
+  - text: Whisk in the cheese until it's melted,
+- title: Vegetables
+  steps:
+  - text: Preheat the grill on a high setting,
+  - text: Steam the cauliflower for 4 minutes,
+  - text: Add the broccoli and steam for a further 4 minutes,
+- title: Combine
+  steps:
+  - text: Fill the bottom of the backing dish with the rice,
+  - text: Then the cauliflower and broccoli,
+  - text: Pour the sauce over the top,
+  - text: Mix the parmesan, breadcrumbs and parsley,
+  - text: Grill for 2-3 minutes until the sauce is bubbling and golden brown,

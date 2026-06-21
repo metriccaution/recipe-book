@@ -1,0 +1,61 @@
+identifier: 27e9da9c-0780-49e6-9bfb-3c1d0fe6ac0c
+title: Chocolate Courgette Cake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Cake
+- Chocolate
+- Courgette
+- Eggs
+- Family Classics
+- Nuts
+equipment:
+- 2lb loaf tin
+- Grater
+- Large bowl
+- Oven
+- Wire cooling rack
+prepTime: PT15M
+cookingTime: PT1H
+source:
+  type: described
+  description: Handwritten recipe in Mum's collection.
+description: Makes 2lb loaf tin.
+ingredients:
+- ingredients:
+  - quantity: 170g
+    ingredient: Plain Chocolate
+  - quantity: 1 teaspoon
+    ingredient: Baking Powder
+  - quantity: 1/2 teaspoon
+    ingredient: Salt
+  - quantity: '2'
+    ingredient: Eggs
+    notes: large, beaten
+  - quantity: 225g
+    ingredient: Courgettes
+  - quantity: 200g
+    ingredient: Plain Flour
+  - quantity: 1/2 tablespoon
+    ingredient: Bicarbonate of Soda
+  - quantity: 115g
+    ingredient: Caster Sugar
+  - quantity: 180ml
+    ingredient: Vegetable Oil
+  - quantity: 55g
+    ingredient: Walnuts
+    notes: Chopped
+steps:
+- steps:
+  - text: Grease tins & preheat oven to 360 F (Gas mark 4),
+  - text: Silt all dry ingredients into a large bowl,
+  - text: Beat oil into eggs,
+  - text: Finely grate courgettes, collecting any juice,
+  - text: Melt chocolate,
+  - text: Mix eggs & oil into the dry ingredients,
+  - text: Add chocolate and courgettes, stir well.
+  - text: Mix in nuts,
+  - text: Bake for 50-55 minutes,
+  - text: Remove from oven and leave for 5 minutes before turning onto a wire rack
+      to cool,
+  - text: Eat!

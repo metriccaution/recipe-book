@@ -1,0 +1,115 @@
+identifier: f87418ed-bb31-49f4-908c-f4efb95e4630
+title: Roast Vegetable and Brown Rice Gratin
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Cheese
+- Family Classics
+- Onion
+- Rice
+equipment:
+- Lidded frying pan (at least 25cm diameter)
+- Ovenproof dish (at least 20cm x 15cm)
+- Pre-heated oven
+- Roasting dish
+serves: 3
+prepTime: PT30M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780563488187'
+  description: Delia's Vegetarian Collection
+ingredients:
+- group: Roast Vegetables
+  ingredients:
+  - quantity: 275g
+    ingredient: Squash
+    notes: peeled weight
+  - quantity: 150g
+    ingredient: Celeriac
+  - quantity: 150g
+    ingredient: Swede
+  - quantity: 150g
+    ingredient: Carrots
+  - quantity: 150g
+    ingredient: Parsnips
+  - quantity: '2'
+    ingredient: Red Onions
+    notes: medium sized, cut into sixths vertically
+  - quantity: 1 heaped tablespoon
+    ingredient: Mixed Herbs
+    notes: e.g. parsley, thyme, tarragon
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+- group: Rice
+  ingredients:
+  - quantity: 250g
+    ingredient: Brown Basmati Rice
+  - quantity: 1 tablespoon
+    ingredient: Olive Oil
+  - quantity: '2'
+    ingredient: Onions
+    notes: medium sized, peeled and finely chopped
+  - quantity: 500ml
+    ingredient: Vegetable Stock
+    notes: hot
+  - quantity: 1 rounded teaspoon
+    ingredient: Salt
+- group: Cheese Sauce
+  ingredients:
+  - quantity: 500ml
+    ingredient: Milk
+    notes: or 1/2 pint milk with 1/2 pint stock
+  - quantity: 40g
+    ingredient: Plain Flour
+  - quantity: 40g
+    ingredient: Butter
+  - quantity: A little
+    ingredient: Cayenne Pepper
+  - quantity: 50g
+    ingredient: Cheddar Cheese
+    notes: Mature grated
+  - quantity: 25g
+    ingredient: Parmesan
+    notes: grated
+  - quantity: A little
+    ingredient: Nutmeg
+    notes: grated
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+steps:
+- title: Roast Vegetables
+  steps:
+  - text: "Pre-heat the oven to 230\xB0C."
+  - text: Cut the vegetables (squash, celeriac, swede, carrots and parsnips) into
+      approximately 2cm cubes.
+  - text: Place them and the red onions (cut into sixths vertically) in a large bowl
+      along with the herbs, garlic a good seasoning of salt and pepper and olive oil,
+      then toss them around so they get a good coating of the herbs.
+  - text: Arrange them evenly in a baking tray and place on the highest shelf of the
+      oven for about 30 minutes (until they're brown at the edges).
+  - text: "Once they're out reduce the temperature to 200\xB0C."
+- title: Rice
+  steps:
+  - text: Begin by warming the frying pan over a medium heat, then add the oil and
+      the onions and let them cook for 3-4 minutes (until lightly tinged brown).
+  - text: Stir the rice in dry to coat the grains with the oil.
+  - text: Add the boiling stock with the salt. Stir once only and cover with the lid
+      for 20-25 minutes. Don't remove the lid or stir the rice while it's cooking
+      (this causes the rice to go sticky as it breaks up the starches).
+- title: Cheese Sauce
+  steps:
+  - text: Place the milk, flour, butter and a pinch of pepper into a medium saucepan
+      and whisk it all together on a gentle heat until smooth.
+  - text: Cook on the lowest available heat for 5 minutes.
+  - text: Add the cheese and whisk until smooth again. Season with salt, pepper and
+      nutmeg.
+- title: Combining Everything
+  steps:
+  - text: When the vegetables are cooked arrange the rice in an ovenproof dish,
+  - text: Add the vegetables on top,
+  - text: Cover in cheese sauce (try to get it around the vegetables evenly and down
+      into the rice).
+  - text: Scatter over the remaining cheese.
+  - text: "Cook in the oven at 200\xB0C for 20 minutes."

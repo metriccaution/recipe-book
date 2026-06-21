@@ -1,0 +1,72 @@
+identifier: 63a332aa-2fa5-4a5f-b954-2117f8ec500a
+title: Eggs Florentine
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Eggs
+- Onion
+- Rice
+equipment:
+- 2 Saucepans
+- Hob
+- Serving dish
+serves: 2
+prepTime: PT10M
+cookingTime: PT25M
+source:
+  type: book
+  isbn: '9781409145714'
+  description: 'Cranks Recipe Book: The Vegetarian Classics'
+ingredients:
+- ingredients:
+  - quantity: 450g
+    ingredient: Spinach
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: Pinch
+    ingredient: Nutmeg
+    notes: Ground, To taste
+  - quantity: '1'
+    ingredient: Onions
+    notes: Small
+  - quantity: 25g
+    ingredient: Wholemeal Flour
+  - quantity: 1 tsp
+    ingredient: Mustard Powder
+  - quantity: 300ml
+    ingredient: Milk
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+  - quantity: '4'
+    ingredient: Eggs
+  - quantity: 100g
+    ingredient: Brown Basmati Rice
+  - quantity: 1 tbsp
+    ingredient: Breadcrumbs
+    notes: Toasted
+steps:
+- title: Preparation
+  steps:
+  - text: Cook the rice
+  - text: Hard boil the eggs & shell them
+- title: Spinach
+  steps:
+  - text: Shred the spinach
+  - text: Melt half the butter in a saucepan, add the spinach and cook over a medium
+      heat for a few minutes, until just tender
+  - text: Season spinach with salt, pepper and nutmeg
+- title: Sauce
+  steps:
+  - text: Chop the onion finely
+  - text: Melt the remaining butter, and saute the onion, until transparent
+  - text: Stir in the flour and mustard, cook for 1 minute
+  - text: Add the milk, stirring, bring to the boil and simmer for a few minutes
+  - text: Remove from the heat, and add the cheese
+- title: Serving
+  steps:
+  - text: Arrange the rice in a warmed serving dish
+  - text: Spoon on the spinach in the center
+  - text: Arrange halved eggs on top and pour sauce on top
+  - text: Sprinkle with breadcrumbs
+  - text: Serve immediately

@@ -1,0 +1,48 @@
+identifier: 2a3a4f81-d126-4359-a1cd-5a03236aea31
+title: Tabouli Salad
+section: Side
+created_at: '2024-10-15'
+tags:
+- Bulgar Wheat
+- Cucumber
+- Salad
+equipment: []
+serves: 2
+prepTime: PT1H
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=iErqWGwso7o
+  description: Binging With Babbish
+ingredients:
+- ingredients:
+  - quantity: 350g
+    ingredient: Cherry Tomatoes
+  - quantity: Bunch
+    ingredient: Parsley
+  - quantity: Bunch
+    ingredient: Fresh Mint
+  - quantity: '1'
+    ingredient: Cucumbers
+  - quantity: '2'
+    ingredient: Spring Onions
+  - quantity: 45g
+    ingredient: Bulgar Wheat
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Allspice
+steps:
+- steps:
+  - text: In a jug, pour 60ml of boiling water over the bulgar wheat, and let sit
+      for 1 hour.
+  - text: Finely chop the tomatoes, salt, and place into a sieve, over a jug for 20
+      minutes, to allow the water to drain out.
+  - text: Finely chop the parsley.
+  - text: Finely chop the cucumber, spring onions, and mint.
+  - text: Mix the vegetables in a bowl.
+  - text: Mix bulgar wheat, and vegetables, season with the spices, salt, pepper and
+      olive oil.

@@ -1,0 +1,67 @@
+identifier: 93abe360-027c-435e-95fd-f67ee597173c
+title: Dan Dan Noodles
+section: Main
+created_at: '2024-09-27'
+tags:
+- Beef
+- Chinese
+- Meat
+equipment:
+- Hob
+- Wok
+serves: 2
+prepTime: PT10M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781408802526'
+  description: Every Grain of Rice
+ingredients:
+- group: Noodles
+  ingredients:
+  - quantity: '3'
+    ingredient: Sichuanese Dried Chillis
+    notes: Halved, seeds removed
+  - quantity: 0.5 tsp
+    ingredient: Sichuan Pepper
+  - quantity: 25g
+    ingredient: Sichuan Yai Cai / Tianjin Preserved Vegetable
+  - quantity: 100g
+    ingredient: Minced Beef
+  - quantity: 2 tsp
+    ingredient: Soy Sauce
+  - quantity: 200g
+    ingredient: Wheat Noodles
+- group: Sauce
+  ingredients:
+  - quantity: 0.25tsp
+    ingredient: Sichuan Pepper
+    notes: Roasted ground
+  - quantity: 2 tbsp
+    ingredient: Sesame Paste
+  - quantity: 3 tbsp
+    ingredient: Light Soy Sauce
+  - quantity: 2 tbsp
+    ingredient: Dark Soy Sauce
+  - quantity: 4 tbsp
+    ingredient: Chilli Oil
+    notes: With chilli oil
+steps:
+- steps:
+  - text: Add the oil to a seasoned wok over a medium flame and swirl it around.
+  - text: Immediately add the chillis and Sichuan pepper and stir-fry briefly until
+      the oil is spicy and fragrant. Take care not to burn the spices.
+  - text: Add the ya cai and continue to stir-fry until hot and fragrant.
+  - text: Add the meat and increase the heat to high
+  - text: Splash in the soy sauce and stir-fry until the beef is brown and a little
+      crisp, but not too dry.
+    substeps:
+    - text: Press the beef against the wok with your scoop or ladle as you go, to
+        encourage it to separate out into little morsels.
+  - text: Season with salt to taste.
+  - text: When the meat is cooked (it should only take a couple of minutes), remove
+      the mixture from the wok and set aside.
+  - text: Place the sauce ingredients in a serving bowl and mix well.
+  - text: Cook the noodles, then drain and place in the serving bowl.
+  - text: Sprinkle over the meat mixture, give the noodles a good stir until the sauce
+      and meat are evenly distributed.

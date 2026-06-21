@@ -1,0 +1,42 @@
+identifier: e12dcb19-1632-4e9c-9deb-22fcd29ed539
+title: Potato & Mushroom Persillade with Poached Eggs
+section: Main
+created_at: '2025-10-03'
+tags:
+- Eggs
+- Mushroom
+- Potato
+equipment: []
+serves: 2
+prepTime: PT10M
+cookingTime: PT25M
+source:
+  type: described
+  description: Riverford
+ingredients:
+- ingredients:
+  - quantity: 1 tbsp
+    ingredient: White Wine Vinegar
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: Handful
+    ingredient: Parsley
+  - quantity: '2'
+    ingredient: Potatoes
+  - quantity: 200g
+    ingredient: Mushrooms
+  - quantity: '2'
+    ingredient: Eggs
+steps:
+- steps:
+  - text: Put a pan of salted water on to boil, with the vinegar added.
+  - text: Peel & finely chop both the garlic, and the parsley, mixing them together.
+  - text: Peel the potatoes, then grate them, and rinse until the water runs clear.
+      Press down to remove any excess water.
+  - text: Slice the mushrooms (not too thinly).
+  - text: Saute the mushrooms until starting to brown.
+  - text: Saute the potato, with a little salt and pepper, until starting to brown.
+  - text: Add the garlic, parsley, and mushrooms to the pan, toss for a few minutes.
+  - text: Season to taste.
+  - text: Poach the eggs in the vinegar-water for3 minutes.
+  - text: Serve the eggs on the potato.

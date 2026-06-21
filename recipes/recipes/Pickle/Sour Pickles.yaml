@@ -1,0 +1,41 @@
+identifier: 52707eb9-40cf-4ef4-842e-198b390ab23f
+title: Sour Pickles
+section: Pickle
+created_at: '2024-09-27'
+tags:
+- Cucumber
+- Fermented
+equipment:
+- Pan
+- Pickle Jars
+prepTime: PT15M
+cookingTime: PT10M
+source:
+  type: book
+  isbn: '9781445499611'
+  description: Pickles & Preserves
+description: This recipe makes 5 litres.
+ingredients:
+- ingredients:
+  - quantity: 2 litres
+    ingredient: Cider Vinegar
+  - quantity: 85 g
+    ingredient: Rock Salt
+  - quantity: 100g
+    ingredient: Granulated Sugar
+  - quantity: 100g
+    ingredient: Mustard Seeds
+  - quantity: 450ml
+    ingredient: Water
+  - quantity: '24'
+    ingredient: Kirby Cucumbers
+    notes: Sliced Length-ways
+steps:
+- steps:
+  - text: Pour the vinegar into a saucepan, add the salt, sugar, mustard seeds and
+      the water and bring to the boil
+  - text: Meanwhile, pack the cucumber slices into sterilized jars
+  - text: Remove the pan from the heat and pour the mixture into the jars, leaving
+      a 1cm gap at the top of the jar. Cover with non-metallic lids and leave to cool,
+      then label and store in a cool, dark place for 1 month before using.
+  - text: Once opened, store in the refrigerator.

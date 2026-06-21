@@ -1,0 +1,41 @@
+identifier: 39cc778b-3127-46cf-b3bf-7f9bc6747bb8
+title: Roast Chickpeas
+section: Snack
+created_at: '2025-09-12'
+tags:
+- Chickpea
+- Preserved Beans
+equipment:
+- Baking tray with parchment paper
+- Oven
+serves: 1
+prepTime: PT5M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://wellandfull.com/2016/02/the-vegan-buddha-bowl/
+  description: wellandfull.com
+ingredients:
+- ingredients:
+  - quantity: 1/2 can
+    ingredient: Chickpeas
+    notes: Cooked, or canned
+  - quantity: 2 tablespoons
+    ingredient: Olive Oil
+  - quantity: 1/2 teaspoon
+    ingredient: Salt
+  - quantity: 1/2 teaspoon
+    ingredient: Smoked Paprika
+  - quantity: 1 teaspoon
+    ingredient: Chilli Powder
+  - quantity: 1/8 teaspoon
+    ingredient: Ground Turmeric
+  - quantity: 1/2 teaspoon
+    ingredient: Oregano
+steps:
+- steps:
+  - text: Preheat the oven to 220C,
+  - text: Toss the chickpeas oil and spices until the chickpeas are evenly coated,
+  - text: Line a baking tray with parchment paper and bake the chickpeas for 15-20
+      minutes,
+  - text: Remove from the oven and allow to cool,

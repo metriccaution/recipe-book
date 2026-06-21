@@ -1,0 +1,56 @@
+identifier: 58330107-0b17-46af-bced-0f4e06640228
+title: Pide
+section: Baking
+created_at: '2024-09-27'
+tags:
+- Bread
+equipment:
+- Baking tray
+- Mixing bowl
+- Oven
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: url
+  url: https://www.lazycatkitchen.com/no-knead-turkish-bread/
+  description: Lazy Cat Kitchen
+ingredients:
+- ingredients:
+  - quantity: 250g
+    ingredient: Plain Flour
+  - quantity: 7g
+    ingredient: Yeast
+  - quantity: 200ml
+    ingredient: Water
+    notes: Warm
+  - quantity: 2 tbsp
+    ingredient: Caster Sugar
+  - quantity: 1 tsp
+    ingredient: Salt
+  - quantity: 15 ml
+    ingredient: Olive Oil
+  - quantity: 1 tsp
+    ingredient: Sesame Seeds
+steps:
+- steps:
+  - text: Mix the flour, sugar and salt in a large mixing bowl.
+  - text: Create a small well in the middle of the flour and add the yeast. Pour the
+      water into the well and mix everything well. The dough should be wet at this
+      point.
+  - text: Cover the mixing bowl, and to prove for about one hour (or until it has
+      doubled in size).
+  - text: Flour a work surface and tip the proven dough out on to the work surface
+      making sure to add lots of flour to avoid sticking.
+  - text: Place the dough on a olive oil-greased baking tray. Shape the dough into
+      a flat circle (about 2-3 cm high).
+  - text: Cover the dough with a tea towel and leave to prove for another 45 minutes.
+  - text: "Preheat the oven to 250\xB0 C."
+  - text: Mark the dough for shape. Dent the top of the dough by first drawing a rough
+      inner circle, about 3 cm from the edge of the bread. Fill in the centre of the
+      inner circle with crisscrossed diagonal lines about 2-3 cm apart.
+  - text: Using a pastry brush, coat the top of the bread with olive oil.
+  - text: Sprinkle with black and white sesame seeds and press the seeds in as far
+      as you can to make sure that they stay in the bread.
+  - text: Bake the bread for 8 minutes.
+  - text: "Turn the oven down to 200\xB0 C and bake for another 5 minutes (or until\
+      \ golden brown)."

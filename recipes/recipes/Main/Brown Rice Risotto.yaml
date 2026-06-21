@@ -1,0 +1,59 @@
+identifier: 6f79e739-7f98-4a88-8c8d-0289a034e17d
+title: Brown Rice Risotto
+section: Main
+created_at: '2024-09-27'
+tags:
+- Nuts
+- Onion
+- Peppers
+- Rice
+- Risotto
+- Tomato
+equipment:
+- Hob
+- Large Pan
+serves: 2
+prepTime: PT5M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781409145714'
+  description: 'Cranks Recipe Book: The Vegetarian Classics'
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Brown Basmati Rice
+  - quantity: '1'
+    ingredient: Onions
+    notes: medium
+  - quantity: '1'
+    ingredient: Green Pepper
+    notes: medium
+  - quantity: 25g
+    ingredient: Butter
+    notes: for frying
+  - quantity: 3 tablespoons
+    ingredient: Oil
+  - quantity: 50g
+    ingredient: Cashew Nuts
+    notes: broken
+  - quantity: '4'
+    ingredient: Tomatoes
+    notes: medium
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: crushed
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+steps:
+- title: Preparations
+  steps:
+  - text: Cook rice,
+  - text: Chop onions & slice pepper,
+  - text: Chop the tomatoes (just before cooking, they need their juice),
+- title: Cooking
+  steps:
+  - text: Heat butter & oil in a large pan. Add the pepper, onion & cashews and saute
+      until the vegetables are just tender,
+  - text: Add the tomatoes, rice and garlic to the pan,
+  - text: Continue stirring over a gentle heat until the rice is heated through,

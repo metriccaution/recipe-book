@@ -1,0 +1,98 @@
+identifier: 1774a897-0af0-410e-9fc7-1473fd9d5bc0
+title: Saag Aloo Shepherds Pie
+section: Main
+created_at: '2025-03-01'
+tags:
+- Cauliflower
+- Coconut
+- Curry
+- Onion
+- Potato
+- Preserved Beans
+- Tomato
+equipment:
+- 1 for 1kg of potatoes + 500g cauliflower
+- 1 for the base (3+ cans worth)
+- 2x pans
+- Hob
+- Oven
+prepTime: PT20M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780008172480'
+  description: One Pot, Pan, Planet
+ingredients:
+- group: Rajma Masala Base
+  ingredients:
+  - quantity: 1 cup
+    ingredient: Ghee / Coconut Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: Peeled and finely chopped
+  - quantity: 4 cloves
+    ingredient: Garlic
+    notes: Chopped
+  - quantity: 1 small piece
+    ingredient: Ginger
+    notes: Peeled and finely chopped
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: Finely chopped
+  - quantity: 1/2 tsp
+    ingredient: Ground Turmeric
+  - quantity: 1/2 tsp
+    ingredient: Chilli Powder
+  - quantity: 1 tsp
+    ingredient: Garam Masala
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+  - quantity: 2 x 400g can
+    ingredient: Borlotti Beans
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 400 ml
+    ingredient: Water
+- group: Saag Aloo Top
+  ingredients:
+  - quantity: 1 kg
+    ingredient: Potatoes
+    notes: Cut into roughly similar sizes
+  - quantity: 500g
+    ingredient: Cauliflower
+    notes: Broken into small florets, stalk roughly chopped
+  - quantity: 50g
+    ingredient: Unsalted Butter
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+  - quantity: 1 tsp
+    ingredient: Ground Turmeric
+  - quantity: 500g
+    ingredient: Spinach
+    notes: Washed
+steps:
+- title: Preparation
+  steps:
+  - text: Preheat the oven to 200C and prepare the top.
+- title: Rajma Masala Base
+  steps:
+  - text: Fry the onion for 10 minutes on a medium heat.
+  - text: Add the garlic, ginger and chilli. Cook for 5 minutes.
+  - text: Add the spices and cook for a few minutes.
+  - text: Add the beans, tomatoes and 400ml of water (a can's worth).
+  - text: Simmer for 25 minutes.
+- title: Saag Aloo Top
+  steps:
+  - text: Cook the potatoes in a pan, for 10-15 minutes.
+  - text: Add the cauliflower and cook for 6 minutes.
+  - text: Drain the vegetables.
+  - text: Put some ghee/butter in the empty pan and cook the cumin and turmeric for
+      about a minute.
+  - text: Add 100ml water, the potatoes, cauliflower and half the spinach.
+  - text: Stir until the spinach is wilted and to crush the potatoes slightly.
+- title: Putting it Together
+  steps:
+  - text: Put the other half of the spinach into the base.
+  - text: Spoon the base into the dish.
+  - text: Top with the potato mixture.
+  - text: Cook in the oven for 30-40 minutes.

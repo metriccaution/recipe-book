@@ -1,0 +1,64 @@
+identifier: 4bc57aab-c8b5-47bc-a3ab-0d533a0f2e0f
+title: Beetroot Shakshuka
+section: Main
+created_at: '2025-01-29'
+tags:
+- Cheese
+- Eggs
+- Onion
+- Tomato
+equipment: []
+serves: 2
+prepTime: PT15M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://www.coles.com.au/recipes-inspiration/recipes/beetroot-shakshuka
+  description: Coles
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Red Onions
+    notes: Thinly sliced
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 1 tsp
+    ingredient: Paprika
+  - quantity: 1/4 tsp
+    ingredient: Cayenne Pepper
+  - quantity: 500g
+    ingredient: Beetroot
+    notes: Peeled, coarsely grated
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 125ml
+    ingredient: Vegetable Stock
+  - quantity: 1 tbsp
+    ingredient: Red Wine Vinegar
+  - quantity: '4'
+    ingredient: Eggs
+  - quantity: 1 tbsp
+    ingredient: Parsley
+    notes: Chopped
+  - quantity: 80g
+    ingredient: Feta Cheese
+    notes: Crumbled
+steps:
+- steps:
+  - text: Heat oil in a 26cm (top measurement) frying pan over medium heat.
+  - text: Add the onion and cook, stirring occasionally, for 5 mins or until soft
+      and light golden.
+  - text: Add the garlic, cumin, paprika and cayenne pepper. Stir for 30 secs or until
+      aromatic.
+  - text: Add the beetroot and cook, stirring, for 3 mins or until beetroot softens
+      slightly.
+  - text: Add the tomato, stock and vinegar to the pan and stir to combine.
+  - text: Cover and cook for 5 mins or until beetroot is tender.
+  - text: Season.
+  - text: Use a spoon to make 4 indents in the mixture. Crack 1 egg into each indent.
+      Cook for 4 mins.
+  - text: Cover and cook for a further 1 min or until the egg white is just set.
+  - text: Sprinkle the shakshuka with parsley. Season with pepper and serve with feta
+      and pita bread.

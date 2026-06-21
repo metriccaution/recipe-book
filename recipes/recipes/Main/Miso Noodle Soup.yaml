@@ -1,0 +1,54 @@
+identifier: f83cd1ce-3e28-474b-a463-a260e61b233c
+title: Miso Noodle Soup
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Mushroom
+- Soup
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9781909881839'
+  page: 55
+  description: Veggie Comfort Food (National Trust)
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '4'
+    ingredient: Spring Onions
+    notes: Sliced
+  - quantity: 1 tsp
+    ingredient: Ginger
+  - quantity: 1.5 litres
+    ingredient: Water
+  - quantity: 300g
+    ingredient: Buckwheat Noodles
+  - quantity: '6'
+    ingredient: Shiitake Mushrooms
+    notes: Sliced
+  - quantity: '2'
+    ingredient: Carrots
+    notes: Cut into batons
+  - quantity: '2'
+    ingredient: Pak Choi
+    notes: Stems separated from leaves, and sliced
+  - quantity: 2 tbsp
+    ingredient: Miso Paste
+  - quantity: 2 tbsp
+    ingredient: Fresh Coriander
+steps:
+- steps:
+  - text: Put the spring onions, chilli, and ginger into a pan with the water, boil,
+      and simmer for a few minutes
+  - text: Add the noodles, mushrooms, carrots, and white stems of pak choi
+  - text: Simmer until the noodles are just cooked
+  - text: Add the green leaves of the pak choi
+  - text: Use a few spoonfuls of water from the pan to thin down the miso paste, the
+      mix it into the pan
+  - text: Simmer until the green pak choi wilts
+  - text: Garnish with coriander

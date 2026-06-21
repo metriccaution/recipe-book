@@ -1,0 +1,49 @@
+identifier: 1daf74a6-366a-4297-bb2a-0b8c9558fa60
+title: Air-Fryer Falafel
+section: Main
+created_at: '2025-09-27'
+tags:
+- Chickpea
+- Eggs
+- Preserved Beans
+equipment:
+- Air Fryer
+- Food Processor
+serves: 2
+prepTime: PT10M
+cookingTime: PT15M
+source:
+  type: url
+  url: https://www.bbcgoodfood.com/recipes/air-fryer-falafel
+  description: BBC
+ingredients:
+- ingredients:
+  - quantity: 400g can
+    ingredient: Chickpeas
+    notes: Drained
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+  - quantity: 10g
+    ingredient: Parsley
+  - quantity: 10g
+    ingredient: Mint
+  - quantity: '1'
+    ingredient: Eggs
+  - quantity: 3tbsp
+    ingredient: Plain Flour
+steps:
+- steps:
+  - text: "Put all the ingredients except the egg, flour and oil into a food processor\
+      \ and blitz until finely chopped and beginning to come together (not becoming\
+      \ a pur\xE9e)."
+  - text: Tip into a bowl, then mix in the egg and some salt and pepper. If the mixture
+      is too wet to handle or to form into balls, add 1-3 tbsp plain flour to thicken
+      the mixture slightly. The mix should be quite wet but easy enough to handle.
+  - text: Chill for 20 mins.
+  - text: Form into eight balls and flatten them lightly.
+  - text: Heat the air fryer to 200C, then spray each falafel with oil and bake for
+      10-15 mins until cooked through and golden.

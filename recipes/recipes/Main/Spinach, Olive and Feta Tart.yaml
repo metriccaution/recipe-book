@@ -1,0 +1,110 @@
+identifier: 96a09c44-8535-4960-ab39-4197e1f374ce
+title: Spinach, Olive and Feta Tart
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Complex
+- Eggs
+- Olive
+- Onion
+- Pie
+equipment:
+- 23cm tart tin
+- Food processor (for pastry)
+- Fridge (for pastry)
+- Frying pan
+- Hob
+serves: 6
+prepTime: PT1H30M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780993215513'
+  description: Riverford Spring and Summer
+ingredients:
+- group: Pastry
+  ingredients:
+  - quantity: 250g
+    ingredient: Plain Flour
+  - quantity: 150g
+    ingredient: Unsalted Butter
+    notes: Cold
+  - quantity: 1/4 teaspoon
+    ingredient: Salt
+    notes: Fine
+  - quantity: '1'
+    ingredient: Eggs
+    notes: Large, Separated
+- group: Filling
+  ingredients:
+  - quantity: 10g
+    ingredient: Butter
+    notes: For frying
+  - quantity: 1 tbsp
+    ingredient: Oil
+    notes: For frying
+  - quantity: '1'
+    ingredient: Onions
+    notes: Large, Finely diced
+  - quantity: 300g
+    ingredient: Spinach
+    notes: Leaves stripped from stalk
+  - quantity: '3'
+    ingredient: Eggs
+    notes: Large
+  - quantity: 200ml
+    ingredient: "Cr\xE8me Fra\xEEche"
+  - quantity: 200g
+    ingredient: Feta Cheese
+  - quantity: 100g
+    ingredient: Black Olives
+    notes: pitted
+  - quantity: 1 teaspoon
+    ingredient: Dried Dill
+    notes: Or a small bunch fresh
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+steps:
+- title: Pastry
+  steps:
+  - text: Put the flour, butter and salt into a food processor and run until it looks
+      like breadcrumbs,
+  - text: Add the egg yolk and pulse, adding _just_ enough water so the pastry comes
+      together into a ball,
+  - text: Roll the pastry into a smooth ball, wrap in cling film and chill in the
+      fridge for at least an hour,
+- title: Filling
+  steps:
+  - text: Melt a knob of butter with the olive oil in a small frying pan,
+  - text: Add the onions and fry gently for 10 minutes until soft & translucent, then
+      remove from the heat and let cool,
+  - text: Boil / steam the spinach leaves for 2-3 minutes until wilted,
+  - text: Drain the leaves and refresh in a bowl of ice-cold water,
+  - text: Drain again and roughly chop the leaves,
+  - text: Heat the oven to 180C,
+  - text: Lightly flour a work surface & rolling pin & lightly grease a 23cm tart
+      tin,
+  - text: Roll out the pastry into a circle a little bigger than needed to line the
+      tin,
+  - text: Lay the pastry onto the tin, then press it into all the crevices and trim
+      off any overhands,
+  - text: Chill the pastry in the fridge for another 5 minutes,
+- title: Cooking
+  steps:
+  - text: Line the pastry case with baking parchment and fill with ballast (e.g. dried
+      uncooked pulses / rice),
+  - text: Bake for 15 minutes,
+  - text: Lift out the paper & beans & cook for 10 minutes,
+  - text: Remove from the oven, brush with just enough egg white to coat & seal the
+      base and allow to cool completely,
+- title: Combining
+  steps:
+  - text: Once the pastry has cooled, beat the eggs for the filling in a large bowl,
+  - text: "Stir in the cr\xE8me fra\xEEche and crumble in the feta,"
+  - text: Add the spinach, onion, dill and half the olives,
+  - text: Season with salt & pepper,
+  - text: Gently mix, then pour into the case,
+  - text: Press the rest of the olives into the top,
+  - text: Cook for 30 minutes,
+  - text: Let it cool down to near room temperature and serve,

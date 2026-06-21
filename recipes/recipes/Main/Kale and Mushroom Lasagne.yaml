@@ -1,0 +1,105 @@
+identifier: 6ef6cd55-c51f-4538-b621-996f702c7c91
+title: Kale and Mushroom Lasagne
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Mushroom
+- Onion
+equipment:
+- Baking dish
+- Food processor (optional)
+- Heatproof bowl
+- Hob
+- Oven
+- Saucepans
+serves: 4
+prepTime: PT20M
+cookingTime: PT40M
+source:
+  type: book
+  isbn: '9780993215506'
+  page: 139
+  description: Riverford Autumn and Winter Veg
+ingredients:
+- group: Filling
+  ingredients:
+  - quantity: 10g
+    ingredient: Dried Mushrooms
+  - quantity: 2 tablespoons
+    ingredient: Sunflower Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: large, finely chopped
+  - quantity: 4 cloves
+    ingredient: Garlic
+    notes: finely chopped
+  - quantity: 4-6 leaves
+    ingredient: Sage
+    notes: sage is quite strong so add sparingly
+  - quantity: Leaves from 2 sprigs or 1 teaspoon
+    ingredient: Thyme
+    notes: dried
+  - quantity: 400g
+    ingredient: Chestnut Mushrooms
+    notes: wiped clean and finely chopped (this works well in a food processor)
+  - quantity: 400g
+    ingredient: Kale
+    notes: leaves stripped from their stalks
+  - quantity: '10'
+    ingredient: Lasagne Sheets
+    notes: pre-cooked, about 200g
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+- group: Bechamel Sauce
+  ingredients:
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: 50g
+    ingredient: Plain Flour
+  - quantity: 700ml
+    ingredient: Milk
+  - quantity: 50g
+    ingredient: Parmesan
+    notes: finely grated
+  - quantity: 1 tablespoon
+    ingredient: Dijon Mustard
+steps:
+- steps:
+  - text: Heat the oven to 200C / Gas 6,
+  - text: Put the dried mushrooms in a heatproof bowl and pour over 100ml of hot water
+      and leave to stand (the water's used later so the quantity is important),
+  - text: Heat the oil in a large frying pan. Add the onion and fry on a low heat,
+      stirring occasionally for 10 minutes until very soft,
+  - text: Add the garlic, sage, thyme and fresh mushrooms. Fry, stirring for 3 minutes
+      more. Season with salt and pepper and set aside,
+  - text: For the bechamel sauce, melt the butter in a pan and stir in the flour,
+    substeps:
+    - text: Cook on a low heat, stirring constantly for 2 minutes,
+    - text: Remove from the heat and add about a quarter of the milk and whisk into
+        a smooth paste,
+    - text: Gradually add the rest of the milk, whisking all the time to avoid lumpiness,
+    - text: Return to the heat, add half the parmesan and stir until the sauce starts
+        to thicken,
+    - text: Let it bubble and cook for a further 5 minutes, still stirring,
+    - text: Remove from the heat and stir in the mustard and some salt and pepper,
+  - text: Blanch and squeeze the kale (see below), then finely chop,
+    substeps:
+    - text: Bring a large pan of salted water to the boil,
+    - text: Drop the kale in small batches and cook (1-2 minutes for curly kale, 2-3
+        minutes for cavolo nero),
+    - text: Remove the blanched kale with a slotted spoon and plunge it straight into
+        a bowl of cold water to stop the cooking and lock in the colour,
+    - text: When cooled, squeeze well to get rid of the water,
+  - text: Drain and finely chop the dried mushrooms, keeping the liquid,
+  - text: Stir in the dried mushrooms and liquid into the cooked mushrooms,
+  - text: Add the kale, mix and check the seasoning,
+  - text: Spread a thin layer of bechamel on the bottom of a baking dish,
+  - text: Assemble the lasagne
+    substeps:
+    - text: Add a layer of lasagne and then half the mushroom mixture
+    - text: Add another layer of lasagne, half the bechamel
+    - text: Repeat using up the rest of the mushroom mixture and lasagne
+    - text: Finish with the rest of the bechamel
+  - text: Sprinkle over the remaining cheese,
+  - text: Bake for 30-40 minutes until the top is golden and the pasta is tender,

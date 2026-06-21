@@ -1,0 +1,76 @@
+identifier: 83a1f24e-6675-4531-8e9d-91c310df1f41
+title: Caramelised Onion, Watercress & Goat's Cheese Galette
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Complex
+- Nuts
+- Onion
+equipment: []
+prepTime: PT1H
+cookingTime: PT1H30M
+source:
+  type: described
+  description: Abel & Cole
+ingredients:
+- ingredients:
+  - quantity: '6'
+    ingredient: Onions
+  - quantity: 150 g
+    ingredient: Butter
+  - quantity: Handful
+    ingredient: Thyme
+  - quantity: 200g
+    ingredient: Watercress
+  - quantity: 200g
+    ingredient: Soft Goat's Cheese
+  - quantity: 600g
+    ingredient: Shortcrust Pastry
+  - quantity: 25g
+    ingredient: Pine Nuts
+steps:
+- title: Filling
+  steps:
+  - text: "Heat the oven to 200\xB0C/Fan 180\xB0C/Gas 6."
+  - text: Peel and thinly slice the onions.
+  - text: Set a large pan on a low heat. Add 150g butter and melt it.
+  - text: Add the onions. Season with salt and pepper.
+  - text: Fry gently for 30 mins, stirring occasionally till the onions have softened.
+  - text: Meanwhile, pick the leaves off the thyme sprigs.
+  - text: Chop, and add the thyme to the onions.
+  - text: Fry for 30-40 mins more, stirring occasionally, till the onions are a deep.
+      dark brown and have reduced in volume to about of what you started with.
+  - text: Meanwhile, pick any really thick stalks out of the watercress.
+  - text: Roughly chop half of the watercress, keeping the rest back to serve alongside
+      the galette.
+  - text: When the onions have finished cooking. add the thyme, chopped watercress
+      and 100g goat's cheese (keep one cheese whole).
+  - text: Stir to mix.
+  - text: Season to taste.
+- title: Assembly
+  steps:
+  - text: Take the pastry out of the fridge and let it warm for 5-10 mins.
+  - text: Gently knead the two blocks of pastry into a ball.
+  - text: Roll out the pastry to make a round about the size of a dinner plate. (If
+      you have flour you can dust your work surface with that, or roll the pastry
+      out between two sheets of baking paper).
+  - text: Line a baking tray with baking paper.
+  - text: Transfer the pastry circle to the lined tray.
+  - text: Assemble
+    substeps:
+    - text: Spoon the onions onto the pastry circle, leaving an 3cm-wide gap at the
+        end.
+    - text: Fold up the pastry edges to create free standing sides.
+    - text: Brush the pastry with a little milk to glaze it.
+    - text: Place the remaining whole goat's cheese in the middle of the galette.
+  - text: Slide into the oven and bake for 25-30 mins till golden brown.
+- title: Finishing Up
+  steps:
+  - text: While the galette bakes, toast the pine nuts in a dry frying pan over a
+      medium heat for 1-2 mins, shaking the pan, till golden brown.
+  - text: Tip the pine nuts into a bowl.
+  - text: Take the galette out of the oven. Let it sit for a few mins.
+  - text: Transfer to a serving dish and top with a handful of the reserved watercress
+      and the pine nuts.
+  - text: Serve with the watercress on the side.

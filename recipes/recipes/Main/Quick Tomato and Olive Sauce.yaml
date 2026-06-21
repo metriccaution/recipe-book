@@ -1,0 +1,42 @@
+identifier: 2114b1ef-1493-4671-8ba0-1f54fe23556d
+title: Quick Tomato and Olive Sauce
+section: Main
+created_at: '2024-09-27'
+tags:
+- Olive
+- Onion
+- Sauce
+- Tomato
+equipment:
+- Hob
+- Saucepan
+serves: 2
+prepTime: PT5M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9780751300888'
+  page: 144
+  description: Superfast Foods
+ingredients:
+- ingredients:
+  - quantity: 2 tablespoons
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+    notes: chopped
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 3 tablespoons
+    ingredient: Black Olive Tapanade
+  - quantity: 2 tablespoons
+    ingredient: Sun-dried Tomatoes
+    notes: cut into strips
+  - quantity: Pinch
+    ingredient: Black Pepper
+steps:
+- steps:
+  - text: Heat the oil & fry the onion until it is gilded,
+  - text: Add the tomatoes, stir & heat through for a few minutes,
+  - text: Stir in the tapanade and the sun-dried tomatoes, heat for a minute or two,
+  - text: Season to taste with pepper,

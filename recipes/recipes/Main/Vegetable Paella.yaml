@@ -1,0 +1,52 @@
+identifier: c13944c9-997f-4f11-a9d9-eb4c989313c3
+title: Vegetable Paella
+section: Main
+created_at: '2026-05-18'
+tags:
+- Leek
+- Mushroom
+- Onion
+- Rice
+equipment:
+- Large frying pan
+serves: 2
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=av9-hCe7Wy4
+  description: Alex
+ingredients:
+- ingredients:
+  - quantity: 150g
+    ingredient: Paella Rice
+  - quantity: 500 ml
+    ingredient: Vegetable Stock
+  - quantity: Handful
+    ingredient: Shiitake Mushrooms
+  - quantity: '1'
+    ingredient: Onion
+  - quantity: '1'
+    ingredient: Leeks
+  - quantity: 100g
+    ingredient: Sweetcorn
+  - quantity: 1 tsp
+    ingredient: Smoked Paprika
+  - quantity: A pinch
+    ingredient: Saffron
+  - quantity: 2 cloves
+    ingredient: Garlic
+steps:
+- steps:
+  - text: Fry the fillings - this will be almost the only cooking they get. Its ok
+      if they stick a bit, as the flavour will get into the rice.
+  - text: Remove fillings from the pan
+  - text: Add the garlic, paprika and tomato the the pan
+  - text: Cook until reduced
+  - text: Add a thin layer of rice across the pan
+  - text: Add the saffron, and the stock
+  - text: Bring to a boil, and cook for 10 minutes
+  - text: Bring down to a low simmer, and cook for 10 minutes
+  - text: Re-add the fillings
+  - text: Bring the heat up to high, and cook for a minute
+  - text: Serve

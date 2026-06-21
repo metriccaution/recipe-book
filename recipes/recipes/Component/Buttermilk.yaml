@@ -1,0 +1,20 @@
+identifier: 7ac1b5cc-c5ba-4af1-8e7e-d50c905d2ce7
+title: Buttermilk
+section: Component
+created_at: '2024-09-28'
+tags: []
+equipment: []
+prepTime: PT10M
+source:
+  type: described
+  description: Combined from a couple of recipes.
+ingredients:
+- ingredients:
+  - quantity: 250ml
+    ingredient: Milk
+  - quantity: 1 tbsp
+    ingredient: Lemon Juice
+steps:
+- steps:
+  - text: Mix the milk and juice.
+  - text: Leave to rest for 5-10 minutes.

@@ -1,0 +1,66 @@
+identifier: 50e07668-ea4b-4731-9714-12f6704cedac
+title: Vegetarian Fish and Chips
+section: Main
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Cheese
+- Deep Fried
+- Halloumi
+- Potato
+equipment:
+- Hob
+- Large, stout pan
+prepTime: PT15M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=CYEFR_kg6Us
+  description: Based off a Basics with Babish episode
+description: 'With the oil
+
+  - Don''t fill the pan above 1/3 full
+
+  - If you''re using a gas burner, don''t let the flames extend past the base of the
+  pan
+
+  - If it looks like its going to overflow, ladle hot oil out into a spare saucepan'
+ingredients:
+- group: Frying
+  ingredients:
+  - quantity: 250g
+    ingredient: Potato
+  - quantity: 200g
+    ingredient: Halloumi
+- group: Batter
+  ingredients:
+  - quantity: 60g
+    ingredient: Cornflour
+  - quantity: 100g
+    ingredient: Plain Flour
+  - quantity: 1 tsp
+    ingredient: Baking Powder
+  - quantity: 1 tsp
+    ingredient: Paprika
+  - quantity: 240ml
+    ingredient: Beer
+steps:
+- title: Preparing
+  steps:
+  - text: Chop the potato into chips
+  - text: Boil a pan of water, then add the chips
+  - text: Boil for 8-12 minutes until cooked, but retaining their structure
+  - text: Cut the halloumi into manageable chunks
+  - text: Mix 1 tbsp of flour with the cornstarch in a bowl for the dredge
+  - text: Mix 90g of flour, the baking powder and paprika in a large bowl
+  - text: Add the beer to the large bowl, whisk until the consistency of paint
+- title: Frying
+  steps:
+  - text: Preheat the oven to 200C
+  - text: Heat the oil to 190C in a large, heavy pan
+  - text: Roll the halloumi in the dredge, then dip it into the batter
+  - text: Gently lower the halloumi into the hot oil for about 5 minutes, until the
+      batter browns
+  - text: Remove the halloumi from the oil, salt and place in the oven
+  - text: Lower the oil to 175C
+  - text: Fry the chips until brown (2-4 minutes), salt when removing them

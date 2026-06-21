@@ -1,0 +1,82 @@
+identifier: e83b2f4f-dfed-4b87-ade1-efbd6dc040ce
+title: Christmas Pudding
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Almond
+- Christmas
+- Eggs
+- Family Classics
+- Nuts
+equipment:
+- Large bowl
+- Pan & veg steamer
+prepTime: PT8H
+cookingTime: PT8H
+source:
+  type: described
+  description: Naturally Good Food website
+description: Makes 4x 1lb pudding or 2x 2lb pudding.
+ingredients:
+- ingredients:
+  - quantity: 100g
+    ingredient: Wholemeal Flour
+  - quantity: 200g
+    ingredient: Fresh Wholemeal Breadcrumbs
+  - quantity: 200g
+    ingredient: Currants
+  - quantity: 200g
+    ingredient: Raisins
+  - quantity: 200g
+    ingredient: Sultanas
+  - quantity: 100g
+    ingredient: Mixed Peel
+  - quantity: 25g
+    ingredient: Ground Almonds
+  - quantity: '4'
+    ingredient: Eggs
+    notes: optional - gives a more solid pudding
+  - quantity: '1'
+    ingredient: Lemon
+    notes: The Rind
+  - quantity: 1/2 teaspoon
+    ingredient: Ground Ginger
+  - quantity: 1/2 teaspoon
+    ingredient: Mixed Spice
+  - quantity: 1/2 teaspoon
+    ingredient: Ground Cinnamon
+  - quantity: Pinch
+    ingredient: Nutmeg
+    notes: Grated
+  - quantity: 5 tablespoons
+    ingredient: Oil
+    notes: cold pressed is good
+  - quantity: 250ml
+    ingredient: Ale
+    notes: e.g. Guinness
+steps:
+- steps:
+  - text: Mix all ingredients together (except eggs),
+  - text: Cover and leave for 8 hours,
+  - text: Add eggs and mix again,
+  - text: Put into greased basins,
+    substeps:
+    - text: Firm down - no air pockets,
+  - text: Cover with greased greaseproof paper and wrap in foil (or cloth), do not
+      allow foil to be direct contact with the pudding,
+  - text: Wrap for steaming
+    substeps:
+    - text: Or pot with covering circle,
+      substeps:
+      - text: Lid / sheet around the top,
+    - text: Need a handle (if tying with string)
+  - text: 'Steam:'
+    substeps:
+    - text: Use vegetable steamer with plenty of water,
+    - text: For 1lb size - 4 hours,
+    - text: For 2lb size - 8 hours,
+  - text: 'To reheat steam again:'
+    substeps:
+    - text: For 1lb size - 2 hours,
+    - text: For 2lb size - 3 hours,

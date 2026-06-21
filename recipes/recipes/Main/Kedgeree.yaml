@@ -1,0 +1,51 @@
+identifier: 6a7c756a-5228-465e-89e0-68bba3c91435
+title: Kedgeree
+section: Main
+created_at: '2024-09-27'
+tags:
+- Eggs
+- Rice
+- Tofu
+- Tomato
+equipment:
+- Frying pan
+- Saucepan
+- Saucepan (or rice cooker)
+serves: 2
+prepTime: PT5M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9780904230185'
+  description: The St Michael All Colour Cookery Book
+ingredients:
+- ingredients:
+  - quantity: 250g
+    ingredient: Tofu / Quorn
+    notes: subbing for smoked haddock
+  - quantity: 2 tablespoons
+    ingredient: Butter
+  - quantity: 225g
+    ingredient: Brown Basmati Rice
+  - quantity: Pinch
+    ingredient: Black Pepper
+  - quantity: 1 teaspoon
+    ingredient: Garam Masala
+  - quantity: '2'
+    ingredient: Eggs
+    notes: hard boiled, quartered
+  - quantity: '2'
+    ingredient: Tomatoes
+    notes: quartered
+  - quantity: Small handful
+    ingredient: Parsley
+    notes: Chopped
+steps:
+- steps:
+  - text: Cook the rice.
+  - text: Cook the protein.
+  - text: Boil the eggs.
+  - text: Melt the butter in a frying pan.
+  - text: Add rice & protein and heat through.
+  - text: Season with black pepper and garam masala.
+  - text: Put into a serving platter and garnish with parsley eggs and tomatoes.

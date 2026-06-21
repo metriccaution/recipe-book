@@ -1,0 +1,57 @@
+identifier: e460e70e-d1e2-411d-ab16-86b24f2ad267
+title: Pizza Base
+section: Baking
+created_at: '2024-10-12'
+tags: []
+equipment: []
+prepTime: PT2H
+cookingTime: PT12M
+source:
+  type: url
+  url: https://www.youtube.com/watch?v=KUu2gJn1dzc
+  description: Binging With Babbish
+description: 'This recipe makes 2 pizzas, and, ideally, needs to rest overnight.
+
+  Toppings aren''t included here, left up to the cook''s preference (and conscience).'
+ingredients:
+- ingredients:
+  - quantity: 460g
+    ingredient: Plain Flour
+  - quantity: 30g
+    ingredient: Sugar
+  - quantity: 7g
+    ingredient: Yeast
+  - quantity: 10g
+    ingredient: Salt
+  - quantity: 315ml
+    ingredient: Water
+    notes: Cold
+  - quantity: 15ml
+    ingredient: Vegetable Oil
+  - quantity: 10g
+    ingredient: Semolina Flour
+    notes: To keep things moving on the pizza peel
+steps:
+- steps:
+  - text: Mix the flour, sugar and yeast. Mix well.
+  - text: Add in water while mixing to combine - This should form a sticky mixture.
+  - text: Leave for 10 minutes to rest.
+  - text: Add salt and oil.
+  - text: Oil the counter, and tip out the dough.
+  - text: Kneed for 5 minutes.
+  - text: Oil a container, put the dough in, and cover well.
+  - text: Allow to rise.
+    substeps:
+    - text: If doing an overnight rise, put in the fridge overnight, up to 24 hours.
+    - text: If doing a regular rise, leave in a warm spot until doubled in size.
+  - text: Turn out the dough, and split in half.
+  - text: Form each half into a ball, and leave to rest for at least 30 minutes (this
+      is a good chance to prepare toppings).
+  - text: Pre-heat the oven to its highest temperature.
+  - text: On a well-floured surface, pat the dough out into a pizza shape (round,
+      with a rise around the edges), aiming for about 30cm across. Flour liberally,
+      as it should be sticky.
+  - text: Put onto a floured pizza peel.
+  - text: Top as desired.
+  - text: Cook for 12 minutes.
+  - text: Allow to rest for 5 minutes before cutting.

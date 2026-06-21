@@ -1,0 +1,65 @@
+identifier: 0e1ef219-9c27-4774-9761-589260c86235
+title: Quinoa and Vegetable Soup
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Celery
+- Courgette
+- Soup
+- Tomato
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9781909881839'
+  page: 52
+  description: Veggie Comfort Food (National Trust)
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: 2 tbsp
+    ingredient: Ginger
+    notes: Chopped
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Diced
+  - quantity: 2 sticks
+    ingredient: Celery
+    notes: Diced
+  - quantity: '2'
+    ingredient: Carrots
+    notes: Diced
+  - quantity: '2'
+    ingredient: Courgettes
+    notes: Diced
+  - quantity: 200g
+    ingredient: Green Beans
+    notes: Sliced
+  - quantity: 110g
+    ingredient: Quinoa
+  - quantity: 1.5l
+    ingredient: Vegetable Stock
+    notes: Hot
+  - quantity: 2 tsp
+    ingredient: Thyme
+  - quantity: 400g can
+    ingredient: Chopped Tomatoes
+  - quantity: 200g
+    ingredient: Kale
+    notes: Ribs removed, chopped
+  - quantity: Handful
+    ingredient: Basil
+steps:
+- steps:
+  - text: Heat the oil in a saucepan.
+  - text: Saute the ginger for 2 minutes.
+  - text: Add the garlic, and cook for another minute.
+  - text: Add the celery, carrots, courgettes, green beans, and quinoa, stir.
+  - text: Add the stock, thyme, tomatoes, and bring to the boil.
+  - text: Reduce heat, cover, and simmer for 15 minutes.
+  - text: Add the kale, cover until the kale wilts.
+  - text: Add the basil.

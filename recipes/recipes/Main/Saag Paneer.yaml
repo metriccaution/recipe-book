@@ -1,0 +1,66 @@
+identifier: 42b86262-7ab6-4f3d-8684-d3f392072b7d
+title: Saag Paneer
+section: Main
+created_at: '2025-03-01'
+tags:
+- Cheese
+- Curry
+- Onion
+equipment: []
+serves: 2
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: url
+  url: https://www.bbcgoodfood.com/recipes/saag-paneer
+  description: BBC Good Food
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Flavourless Oil
+  - quantity: 1 tsp
+    ingredient: Ground Turmeric
+  - quantity: 1 tsp
+    ingredient: Chilli Powder
+  - quantity: 450g
+    ingredient: Paneer
+  - quantity: 500g
+    ingredient: Spinach
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 2 tbsp
+    ingredient: Ginger
+  - quantity: '1'
+    ingredient: Fresh Chilli
+  - quantity: 1 tbsp
+    ingredient: Garam Masala
+  - quantity: 1/2
+    ingredient: Lemon
+steps:
+- steps:
+  - text: Melt the butter / ghee
+  - text: Whisk in with the turmeric and chilli powder.
+  - text: Add the cubed paneer and toss well.
+  - text: Set aside.
+  - text: Prepare the spinach
+    substeps:
+    - text: If using frozen spinach, microwave for 3-5 mins, then place in a sieve
+        and squeeze out most of the water.
+    - text: If using fresh spinach, place in a colander, pour over boiling water,
+        drain and cool, then put in a tea towel and squeeze out most of the water.
+    - text: Roughly chop the spinach.
+  - text: Blitz the onion with the garlic, ginger and green chilli.
+  - text: Cook the paneer in a large non-stick frying pan over medium heat for around
+      8 mins, tossing the pan so they become golden all over.
+  - text: Remove and set aside on a plate, leaving spices behind in the pan.
+  - text: Tip the onion mix into the pan, add a pinch of salt and turn the heat down.
+  - text: Fry until caramel coloured, around 10 mins (adding a splash of water if
+      it looks a little dry).
+  - text: Add the garam masala, stir to coat the onion mix, fry for 2 mins.
+  - text: Add the spinach and cook for a further 2-3 mins, adding 100ml water to release
+      all the flavours from the bottom of the pan.
+  - text: Season to taste.
+  - text: Add the paneer and cook for 2-3 mins to heat through.
+  - text: Spoon into bowls and squeeze over a little lemon juice.

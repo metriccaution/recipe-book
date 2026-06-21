@@ -1,0 +1,78 @@
+identifier: 33d3a30f-74b0-4829-824d-e37d6ab8c566
+title: Vegetable and Nut Risotto
+section: Main
+created_at: '2024-09-27'
+tags:
+- Courgette
+- Leek
+- Nuts
+- Onion
+- Peppers
+- Rice
+- Risotto
+equipment:
+- Pan
+- Spoon to stir
+serves: 1
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9780954317973'
+  description: Vegetarian Nosh For Students
+ingredients:
+- group: Core
+  ingredients:
+  - quantity: 125g
+    ingredient: Risotto Rice
+  - quantity: 600ml
+    ingredient: Vegetable Stock
+    notes: with hot water
+  - quantity: 300ml
+    ingredient: White Wine
+  - quantity: 1 tbsp
+    ingredient: Butter / Oil
+    notes: to fry
+  - quantity: '1'
+    ingredient: Onions
+    notes: small, chopped
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: chopped
+  - quantity: Pinch
+    ingredient: Black Pepper
+    notes: Seasoning
+  - quantity: 1 teaspoon
+    ingredient: Chilli Powder
+    notes: Seasoning
+  - quantity: 2 leaves
+    ingredient: Sage
+    notes: Seasoning
+  - quantity: 1 tablespoon
+    ingredient: Pine Nuts
+  - quantity: 1 tablespoon
+    ingredient: Mixed Nuts
+- group: Options
+  ingredients:
+  - quantity: '1'
+    ingredient: Leeks
+    notes: sliced
+  - quantity: 1/2
+    ingredient: Courgettes
+    notes: small pieces
+  - quantity: '2'
+    ingredient: Green Beans
+    notes: e.g. french beans
+  - quantity: '1'
+    ingredient: Red Pepper
+steps:
+- steps:
+  - text: Fry the onions and garlic for 2 minutes, add the rice and fry for another
+      minute,
+  - text: Add about half of the water with stock and wine with the other vegetables,
+  - text: Bring to the boil and season well,
+  - text: Simmer for about 25-30 minutes,
+    substeps:
+    - text: The risotto should be kept wet, keep adding stock / wine,
+    - text: Regularly stir to break the grains and keep it from sticking,
+  - text: Add nuts when serving,

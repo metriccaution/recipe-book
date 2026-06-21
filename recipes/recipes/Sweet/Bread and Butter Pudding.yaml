@@ -1,0 +1,35 @@
+identifier: b691a263-b8c8-4e32-bce1-666c473e2e71
+title: Bread and Butter Pudding
+section: Sweet
+created_at: '2026-05-17'
+tags:
+- Eggs
+- Family Classics
+equipment:
+- Casserole dish
+- Oven
+serves: 4
+prepTime: PT5M
+cookingTime: PT25M
+source:
+  type: described
+  description: One of Mum's cookbooks.
+ingredients:
+- ingredients:
+  - quantity: 8 slices
+    ingredient: Bread
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 500ml
+    ingredient: Milk
+  - quantity: 25g
+    ingredient: Sugar
+steps:
+- steps:
+  - text: Pre-heat oven to 180C
+  - text: Grease a casserole dish
+  - text: Cut bread into slices, arrange to lay flat in the dish
+  - text: Whisk together eggs, milk and sugar
+  - text: Pour mix over bread - ensure a good coverage, anything left dry will be
+      unappetising
+  - text: Cook for 25 minutes

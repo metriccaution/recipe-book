@@ -1,0 +1,85 @@
+identifier: c3eb2584-2ae4-493a-832a-53aed62abbeb
+title: Creamy Leek Croustade
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Family Classics
+- Leek
+- Nuts
+- Tomato
+equipment:
+- Hob
+- Large bowl
+- Large tin / casserole dish
+- Oven
+- Saucepan
+serves: 6
+prepTime: PT15M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781857971408'
+  description: The Cranks Recipe Book
+ingredients:
+- group: Base
+  ingredients:
+  - quantity: 175g
+    ingredient: Fresh Wholemeal Breadcrumbs
+  - quantity: 50g
+    ingredient: Butter / Margarine
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+    notes: grated
+  - quantity: 100g
+    ingredient: Mixed Nuts
+  - quantity: 1/2 teaspoon
+    ingredient: Mixed Herbs
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: crushed
+  - quantity: 1 tsp
+    ingredient: Chilli Flakes
+    notes: Optional
+- group: Sauce
+  ingredients:
+  - quantity: '3'
+    ingredient: Leeks
+    notes: medium-sized
+  - quantity: '4'
+    ingredient: Tomatoes
+    notes: or 1 can
+  - quantity: 50g
+    ingredient: Butter / Margarine
+  - quantity: 25g
+    ingredient: Wholemeal Flour
+  - quantity: 500ml
+    ingredient: Milk
+  - quantity: 4 tablespoons
+    ingredient: Fresh Wholemeal Breadcrumbs
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: Optional
+steps:
+- title: Base
+  steps:
+  - text: Put the breadcrumbs in a bowl (other than the allowance for topping).
+  - text: Rub in butter
+  - text: add remaining ingredients.
+  - text: Press the mixture into a 28cm x 18cm tin/dish.
+  - text: Bake in oven at 220C / Mark7 for 15-20 minutes until golden brown.
+- title: Sauce
+  steps:
+  - text: Slice the leeks and chop the tomatoes.
+  - text: "Melt the butter in a saucepan and saut\xE9 leeks for 5 minutes."
+  - text: Stir in the flour.
+  - text: Add the milk, stirring constantly.
+  - text: Bring to a boil.
+  - text: Reduce to a simmer.
+  - text: Add the tomatoes.
+  - text: Simmer for a few minutes to soften the tomatoes.
+  - text: Check seasoning.
+  - text: Spoon the mixture over the base.
+  - text: Sprinkle with breadcrumbs.
+  - text: Heat through at 180C/mark4 for 20 minutes,
+  - text: Serve at once.

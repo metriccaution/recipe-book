@@ -1,0 +1,57 @@
+identifier: ce782f5f-bda4-4c10-b41a-cee104e1e434
+title: Kale Hash
+section: Main
+created_at: '2024-09-27'
+tags:
+- Meat
+- Onion
+- Potato
+equipment:
+- Frying pan
+- Hob
+- Saucepan
+serves: 4
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9780993215506'
+  description: Riverford Autumn and Winter Veg
+ingredients:
+- ingredients:
+  - quantity: 300g
+    ingredient: Kale
+    notes: stripped from its stems (cavolo nero / curly are best)
+  - quantity: 1 tablespoon
+    ingredient: Olive Oil
+  - quantity: 300g
+    ingredient: Chorizo
+    notes: chopped
+  - quantity: '1'
+    ingredient: Onions
+    notes: chopped
+  - quantity: 600g
+    ingredient: Potatoes
+    notes: cooked, cut into 2cm dice
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: crushed
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+    notes: to season
+steps:
+- steps:
+  - text: Blanch the kale in a large saucepan of boiling water (1-2 minutes for curly
+      kale, 2-3 minutes for cavolo nero, 30 seconds for Red Russian).
+  - text: Drain well, refresh in cold water and drain again, squeeze out excess water
+      and chop roughly,
+  - text: Heat the oil in a large frying pan, add the chorizo and cook over a medium
+      heat for 5 minutes until just starting to brown,
+  - text: Remove the chorizo with a slotted spoon and set aside,
+  - text: Add the onions to the chorizo fat in the pan and cook gently for 10 minutes
+      until soft,
+  - text: Add the potatoes and garlic, turn up the heat to get some colour on the
+      potatoes and cook for 5 minutes, turning the potatoes until browned all over,
+  - text: Return the chorizo to the pan with the kale, reduce the heat and cook gently
+      for a further 5 minutes until well mixed and thoroughly heated through.
+  - text: Season and serve,

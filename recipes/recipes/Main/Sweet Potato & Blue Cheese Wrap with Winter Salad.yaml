@@ -1,0 +1,90 @@
+identifier: aa98a431-266c-491f-a1cc-b95ea8ab41df
+title: Sweet Potato & Blue Cheese Wrap with Winter Salad
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Cheese
+- Fermented
+- Salad
+equipment:
+- 2x Mixing Bowls
+- Baking Tray
+- Grater
+- Peeler
+- Pre-heated oven
+serves: 2
+prepTime: PT30M
+cookingTime: PT20M
+source:
+  type: described
+  description: Riverford
+ingredients:
+- group: Wraps
+  ingredients:
+  - quantity: '1'
+    ingredient: Sweet Potatoes
+  - quantity: 1 tbsp
+    ingredient: Oil
+    notes: For roasting
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+  - quantity: 50g
+    ingredient: Roquefort / Gorgonzola / Dolcelatte
+    notes: More, if you like
+  - quantity: 142 ml
+    ingredient: Sour Cream
+  - quantity: '4'
+    ingredient: Tortillas
+- group: Salad
+  ingredients:
+  - quantity: '1'
+    ingredient: Beetroot
+  - quantity: '1'
+    ingredient: Carrots
+  - quantity: '1'
+    ingredient: Apple
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: 50g
+    ingredient: Salad Leaves
+- group: Salad Dressing
+  ingredients:
+  - quantity: 1/2 tablespoon
+    ingredient: Dijon Mustard
+  - quantity: 1 tablespoon
+    ingredient: Cider Vinegar
+  - quantity: 2 tablespoons
+    ingredient: Oil
+steps:
+- title: Preparation
+  steps:
+  - text: "Pre-heat your oven to 200\xB0C."
+- title: Sweet Potatoes
+  steps:
+  - text: Peel & chop the sweet potatoes into thin discs about 1cm wide. Place into
+      a baking tray.
+  - text: Coat with some oil and salt and pepper.
+  - text: Roast for 20 minutes, turning halfway through.
+- title: Blue Cheese Dressing
+  steps:
+  - text: In a mixing bowl, crumble half of the blue cheese, then stir in the sour
+      cream.
+- title: Winter Salad
+  steps:
+  - text: Peel and cut the beetroot into matchsticks.
+  - text: Peel the carrot.
+  - text: Peel long thin ribbons from the carrot, rotating as you go until it becomes
+      difficult to peel any more.
+  - text: Thinly slice the apple, discarding the core.
+  - text: Peel and grate the garlic.
+  - text: In a bowl, mix the mustard, vinegar and 2 tablespoons of oil. Add the beetroot,
+      carrot, apple and enough garlic to taste. Add the salad leaves. Season and mix
+      to combine.
+- title: Serving
+  steps:
+  - text: When the sweet potato is nearly ready, wrap 4 tortillas in foil and pop
+      in the oven to heat up for a few minute.
+  - text: To serve, divide the sweet potatoes between the tortillas. Pile in some
+      winter salad and add a dollop of the blue cheese dressing. Fold the bottom and
+      sides in. Serve with any remaining winter salad on the side.

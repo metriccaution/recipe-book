@@ -1,0 +1,106 @@
+identifier: b7d7f958-bd12-4796-910c-d824b421b240
+title: Fish Biriyani
+section: Main
+created_at: '2024-09-27'
+tags:
+- Curry
+- Fish
+- Rice
+equipment:
+- Bowl
+- Casserole dish
+- Grill
+- Grill pan
+- Oven
+- Saucepan
+serves: 4
+prepTime: PT20M
+cookingTime: PT45M
+source:
+  type: described
+  description: One of Mum's recipe books.
+ingredients:
+- group: Fish
+  ingredients:
+  - quantity: 500g
+    ingredient: Skinned Cod Fillets
+    notes: Or equivalent
+  - quantity: 1/2 tablespoon
+    ingredient: Flavourless Oil
+- group: Marinade
+  ingredients:
+  - quantity: 3 tablespoons
+    ingredient: Sunflower Oil
+  - quantity: 2 tablespoons
+    ingredient: Lemon Juice
+  - quantity: 75g
+    ingredient: Spring Onions
+    notes: Chopped
+  - quantity: 1 Teaspoon
+    ingredient: Ground Anise
+  - quantity: A pinch
+    ingredient: Cayenne Pepper
+  - quantity: 1 Teaspoon
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: Crushed / chopped
+  - quantity: 1/2 Teaspoon
+    ingredient: Ginger
+    notes: Finely chopped, or ginger paste
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+- group: Rice
+  ingredients:
+  - quantity: 350g
+    ingredient: Brown Basmati Rice
+  - quantity: '2'
+    ingredient: Bay Leaves
+    notes: Torn in half
+  - quantity: 10cm
+    ingredient: Cinnamon Stick
+  - quantity: 15g
+    ingredient: Butter
+  - quantity: 2 tablespoons
+    ingredient: Fresh Coriander
+    notes: Chopped
+- group: Garnish
+  ingredients:
+  - quantity: Small Handful
+    ingredient: Fresh Coriander
+steps:
+- title: Marinade
+  steps:
+  - text: Mix all the marinade ingredients together, season with salt and pepper.
+  - text: Cut the fillets into 5cm cubes and put them in a shallow dish, add the marinade
+      and mix them gently together, coating the fish completely.
+  - text: Cover and leave in a cool place for 2 hours (or overnight in the fridge).
+- title: Fish
+  steps:
+  - text: Heat the oven to 150C and heat the grill to high.
+  - text: Line the grill pan with foil and brush with oil,
+  - text: Arrange the fish in the pan in a single layer.
+  - text: Strain the marinade (reserving the spring onions) and spoon over the fish.
+  - text: Grill for 6-7 minutes until the edges of the fish begin to brown.
+  - text: Turn off the grill, gather the corners of the foil to keep the fish warm.
+- title: Rice
+  steps:
+  - text: Rinse and drain the rice.
+  - text: Bring 600ml of water to the boil in a saucepan and add the bay leaves, cinnamon,
+      butter and salt.
+  - text: Add the rice and return to the boil for 3 minutes
+  - text: Reduce the heat and simmer for 8 minutes until all the water has been absorbed
+      (it's not cooked yet!).
+  - text: Take the pan off the heat and leave it uncovered for 4 minutes.
+  - text: Unwrap the fish, pour the cooking juices into the rice and stir them through.
+  - text: Place a few pieces of fish and the reserved spring onions in a single layer
+      in the base of the casserole dish.
+  - text: Sprinkle with coriander and cover with a layer of rice.
+  - text: Continue adding alternating layers (finishing with rice).
+  - text: 'Cover the dish and bake for 20-25 minutes. To cover:'
+    substeps:
+    - text: Soak a clean tea towel in water and wring it out.
+    - text: Place it over the rice then cover the casserole dish with a tight fitting
+        lid (padding with foil if needed).
+  - text: Garnish with coriander and server.

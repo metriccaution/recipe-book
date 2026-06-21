@@ -1,0 +1,65 @@
+identifier: 0bb4d59a-36db-4860-a3e9-c7c673397798
+title: Armenian Green Lentil, Garlic and Spinach Soup
+section: Main
+created_at: '2024-09-27'
+tags:
+- Lentil
+- Nuts
+- Onion
+- Soup
+- Tomato
+equipment: []
+serves: 4
+prepTime: PT15M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781862058842'
+  page: 93
+  description: Veggiestan
+ingredients:
+- ingredients:
+  - quantity: 300g
+    ingredient: Brown Lentils / Green Lentils
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: '1'
+    ingredient: Onions
+    notes: Chopped
+  - quantity: 8 cloves
+    ingredient: Garlic
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Paprika
+  - quantity: 1 tbsp
+    ingredient: Dillweed
+  - quantity: 1 litre
+    ingredient: Vegetable Stock
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+  - quantity: 300g
+    ingredient: Kale
+    notes: Roughly chopped
+  - quantity: '4'
+    ingredient: Tomatoes
+    notes: Chopped
+  - quantity: 100g
+    ingredient: Walnuts
+steps:
+- steps:
+  - text: Melt some butter in a soup pan, and fry the onion until it starts to brown
+  - text: Finely chop half the garlic and add this
+  - text: Add the herbs and spices
+  - text: Add the lentils
+  - text: Add the stock, stir well
+  - text: Simmer for 40 minutes, until the lentils are soft-ish
+  - text: Season the soup to taste, possibly adding more water
+  - text: Add the Kale, tomatoes, and most of the walnuts
+  - text: Cook for 5 minutes
+  - text: Slice and fry the remaining garlic with the remaining walnuts
+  - text: Serve the soup, garnishing with the garlic-nuts

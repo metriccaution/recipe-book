@@ -1,0 +1,80 @@
+identifier: 4ecd8f4b-81db-4e11-ad12-12328bb35615
+title: Red Lentil and Vegetable Dhal with Yellow Saffron Rice
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Celery
+- Curry
+- Lentil
+- Onion
+- Rice
+equipment:
+- 2x Pan
+- Frying pan
+- Hob
+- Small lid (slightly smaller than the frying pan)
+serves: 6
+prepTime: PT15M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781905795987'
+  description: "The Star Anise Caf\xE9 Cook Book"
+ingredients:
+- group: Dhal
+  ingredients:
+  - quantity: '2'
+    ingredient: Onions
+  - quantity: 2 Cloves
+    ingredient: Garlic
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: Red, small
+  - quantity: 3 stems
+    ingredient: Celery
+  - quantity: '2'
+    ingredient: Carrots
+  - quantity: 1/2
+    ingredient: Squash
+  - quantity: 200g
+    ingredient: Red Split Lentils
+  - quantity: 1 teaspoon
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 1 teaspoon
+    ingredient: Coriander Seeds
+    notes: Ground
+  - quantity: Handful
+    ingredient: Fresh Coriander
+    notes: to garnish
+- group: Saffron Rice
+  ingredients:
+  - quantity: 300g
+    ingredient: Brown Basmati Rice
+  - quantity: A small pinch
+    ingredient: Saffron
+  - quantity: 1/4 teaspoon
+    ingredient: Ground Turmeric
+  - quantity: Pinch
+    ingredient: Salt
+steps:
+- steps:
+  - text: Put the rice into a pan with twice the amount of water as grain, adding
+      the saffron, turmeric and a pinch of salt.
+  - text: Cook it over a medium heat until all the water has been absorbed.
+  - text: Put the red lentils into another pan with plenty of water (and perhaps a
+      bay leaf). Bring to the boil and allow to simmer until tender.
+  - text: Let the rice cool down slightly and then fork through it to separate the
+      grains.
+  - text: Cut the onion, carrots, celery and squash into thumbnail-sized pieces.
+  - text: Warm some oil in a pan and add the ground coriander and cumin, let the spices
+      froth for a few seconds.
+  - text: Add the garlic, chili and onions plus a pinch of salt.
+  - text: Cook them over a low heat until the onions become translucent.
+  - text: Layer the celery, carrot and squash over the onions and add a ladleful of
+      water. Place a small lid on the saucepan directly on top of the vegetables.
+  - text: Cook the vegetables over a low heat for 10-15 minutes until tender.
+  - text: Uncover, and add the cooked drained lentils.
+  - text: Warm it through and season with salt, and tamari/soy sauces.
+  - text: Spoon into shallow soup plates and garnish with fresh coriander.

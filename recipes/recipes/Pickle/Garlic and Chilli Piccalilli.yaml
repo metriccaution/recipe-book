@@ -1,0 +1,76 @@
+identifier: 0afd246d-4b47-4e36-b9df-0e66f6adb28c
+title: Garlic and Chilli Piccalilli
+section: Pickle
+created_at: '2024-09-27'
+tags:
+- Cauliflower
+- Courgette
+- Onion
+equipment: []
+prepTime: P1D
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781445499611'
+  description: Pickles & Preserves
+description: This recipe makes 1 litre, and lasts 4-6 weeks.
+ingredients:
+- ingredients:
+  - quantity: 350g
+    ingredient: Cauliflower
+    notes: Broken into small florets
+  - quantity: 350g
+    ingredient: Shallots
+    notes: Halved
+  - quantity: 225g
+    ingredient: Green Beans
+    notes: Cut into 2cm lengths
+  - quantity: 225g
+    ingredient: Courgettes
+    notes: Cut into 2cm chunks
+  - quantity: 225g
+    ingredient: Salt
+  - quantity: 1.7l
+    ingredient: Water
+  - quantity: 150g
+    ingredient: Caster Sugar
+  - quantity: 850ml
+    ingredient: Malt Vinegar
+  - quantity: 4cm
+    ingredient: Ginger
+    notes: Grated
+  - quantity: 5 cloves
+    ingredient: Garlic
+    notes: Finely chopped
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: Large, finely chopped, deseeded
+  - quantity: 1.5 tbsp
+    ingredient: Mustard Seeds
+  - quantity: 1.5 tbsp
+    ingredient: Coriander Seeds
+  - quantity: 4 tbsp
+    ingredient: Cornflour
+  - quantity: 4 tbsp
+    ingredient: Ground Turmeric
+  - quantity: 1 tbsp
+    ingredient: Mustard Powder
+steps:
+- steps:
+  - text: Mix the vegetables, salt, and water in a large bowl.
+  - text: Leave for 24 hours.
+  - text: Drain the vegetables, rinse, and drain again.
+  - text: Place the following in a large pan and simmer for 10-12 minutes, until the
+      vegetables are barely tender
+    substeps:
+    - text: Vegetables
+    - text: Sugar
+    - text: Ginger
+    - text: Garlic
+    - text: Chilli
+    - text: Mustard Seeds
+    - text: Coriander Seeds
+    - text: 700ml Vinegar
+  - text: Blend 150ml of vinegar with the cornflour, turmeric and mustard powder
+  - text: Stir into the vegetables, simmer until thickened
+  - text: Place into sterilized jars

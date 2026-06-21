@@ -1,0 +1,32 @@
+identifier: 604d32f8-b36f-4574-b5e3-540db77f9d0a
+title: Kimchi Dressing
+section: Component
+created_at: '2025-11-24'
+tags:
+- Fermented
+- Sauce
+- Tofu
+equipment: []
+prepTime: PT5M
+source:
+  type: book
+  isbn: '9781787335233'
+  page: 265
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: 60g
+    ingredient: Tofu
+    notes: Silken
+  - quantity: 3 tbsp
+    ingredient: Kimchi
+  - quantity: 2 tsp
+    ingredient: Miso
+  - quantity: 3 tbsp
+    ingredient: Apple Cider Vinegar
+  - quantity: 4 tbsp
+    ingredient: Olive Oil
+steps:
+- steps:
+  - text: Place all the ingredients in a blender and blitz until smooth.
+  - text: Store in an airtight container in the fridge for up to 2 weeks.

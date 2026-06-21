@@ -1,0 +1,57 @@
+identifier: ff904419-5271-4ffc-a366-f7888e4cbfc9
+title: Bear's Paw Tofu
+section: Main
+created_at: '2024-09-27'
+tags:
+- Deep Fried
+- Tofu
+equipment:
+- Hob
+- Wok
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: described
+  description: One of Mum's recipe books.
+ingredients:
+- ingredients:
+  - quantity: 450g
+    ingredient: Plain White Tofu
+  - quantity: 200ml
+    ingredient: Oil
+    notes: For deep frying
+  - quantity: 2 tablespoons
+    ingredient: Sichuanese Chilli Bean Paste
+  - quantity: 3 cloves
+    ingredient: Garlic
+    notes: Sliced
+  - quantity: 3 cm
+    ingredient: Ginger
+    notes: Sliced
+  - quantity: '3'
+    ingredient: Spring Onions
+    notes: Separate white & green parts
+  - quantity: 250ml
+    ingredient: Stock
+  - quantity: 1/2 teaspoon
+    ingredient: Caster Sugar
+  - quantity: 1 teaspoon
+    ingredient: Light Soy Sauce
+  - quantity: 1/2 teaspoon
+    ingredient: Potato Flour
+steps:
+- steps:
+  - text: Cut the tofu into 4-5cm squares or rectangles about 1cm thick.
+  - text: Heat the oil in a seasoned wok over a high flame to 180C to 190C.
+  - text: Fry the tofu slices in a few batches for a few minutes until golden, then
+      set aside.
+  - text: Pour all but 3 tablespoons of the oil into a heatproof container and reduce
+      the heat to medium.
+  - text: Add the chilli bean paste and stir-fry until the oil is red.
+  - text: Add the garlic, ginger and spring onion whites.
+  - text: Tip in the stock and tofu and bring to a boil.
+  - text: Reduce the heat slightly, season with the sugar and soy sauce.
+  - text: Simmer for three or four minutes.
+  - text: Add the spring onion greens and stir briefly.
+  - text: 'Add the potato flour mixture: scatter it into the centre of the work and
+      stir until the sauce has thickened.'

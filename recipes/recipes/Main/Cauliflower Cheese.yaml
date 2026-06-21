@@ -1,0 +1,64 @@
+identifier: 1f967e4b-ba31-474b-a415-2a42e718326f
+title: Cauliflower Cheese
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cauliflower
+- Cheese
+- Family Classics
+equipment:
+- Grill or oven
+- Hob
+- Saucepan - ideally with a steamer
+- Serving dish
+serves: 4
+prepTime: PT5M
+cookingTime: PT25M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- group: Cheese Sauce
+  ingredients:
+  - quantity: 50g
+    ingredient: Butter / Margarine
+  - quantity: 50g
+    ingredient: Wholemeal Flour
+  - quantity: 500ml
+    ingredient: Milk
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+    notes: to taste
+  - quantity: 1/2 teaspoon
+    ingredient: Mustard Powder
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+    notes: grated
+- group: Filling
+  ingredients:
+  - quantity: '1'
+    ingredient: Cauliflower
+    notes: Medium-sized
+  - quantity: 10g
+    ingredient: Fresh Wholemeal Breadcrumbs
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+    notes: grated
+steps:
+- title: Cheese Sauce
+  steps:
+  - text: Melt the butter in a saucepan,
+  - text: Off the heat, stir the flour into the butter,
+  - text: Stir in the mustard power and flour and cook for 1-2 minutes, stirring continuously,
+  - text: Slowly stir in the milk until it's evenly blended,
+  - text: Stir in the cheese,
+  - text: Bring to the boil then reduce heat and simmer for 2-3 minutes, season to
+      taste,
+- title: Filling
+  steps:
+  - text: Break the cauliflower into large florets, steam for 10-12 minutes until
+      just tender,
+  - text: Turn into an ovenproof dish and spoon over the sauce,
+  - text: Sprinkle with breadcrumbs and cheese,
+  - text: Place under a hot grill or into a hot oven until golden,

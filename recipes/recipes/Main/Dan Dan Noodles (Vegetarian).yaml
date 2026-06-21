@@ -1,0 +1,66 @@
+identifier: 7998a06e-9ad6-4914-b8ac-4e1c27dacc77
+title: Dan Dan Noodles (Vegetarian)
+section: Main
+created_at: '2024-09-27'
+tags:
+- Chinese
+- Mushroom
+equipment:
+- Hob
+- Wok
+serves: 2
+prepTime: PT30M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781408802526'
+  description: Every Grain of Rice
+description: A vegetarian conversion of the regular _Dan Dan Noodles_ recipe.
+ingredients:
+- group: Noodles
+  ingredients:
+  - quantity: '3'
+    ingredient: Sichuanese Dried Chillis
+    notes: Halved, seeds removed
+  - quantity: 0.5 tsp
+    ingredient: Sichuan Pepper
+  - quantity: 25g
+    ingredient: Sichuan Yai Cai / Tianjin Preserved Vegetable
+  - quantity: '1'
+    ingredient: Shiitake Mushrooms
+    notes: Large
+  - quantity: 2 tsp
+    ingredient: Soy Sauce
+  - quantity: 200g
+    ingredient: Wheat Noodles
+- group: Sauce
+  ingredients:
+  - quantity: 0.25tsp
+    ingredient: Sichuan Pepper
+    notes: Roasted ground
+  - quantity: 2 tbsp
+    ingredient: Sesame Paste
+  - quantity: 3 tbsp
+    ingredient: Light Soy Sauce
+  - quantity: 2 tbsp
+    ingredient: Dark Soy Sauce
+  - quantity: 4 tbsp
+    ingredient: Chilli Oil
+    notes: With chilli oil
+steps:
+- steps:
+  - text: Soak the dried shiitake mushroom in hot water for 30 minutes.
+    substeps:
+    - text: Slice off and discard the stalk.
+    - text: Finely chop the cap.
+  - text: Heat 1 tbsp cooking oil in a seasoned wok over a medium flame.
+  - text: Add the chillis and Sichuan pepper and sizzle until fragrant, taking care
+      not to burn them.
+  - text: Add the ya cai and the mushroom, stir fry until fragrant, seasoning with
+      3 tbsp soy sauce.
+  - text: When cooked (it should only take a couple of minutes), remove the mixture
+      from the wok and set aside.
+  - text: Place the sauce ingredients in a serving bowl and mix well.
+  - text: Cook the noodles, then drain and place in the serving bowl.
+  - text: Sprinkle over the mushroom mixture, give the noodles a good stir until the
+      sauce and meat are evenly distributed.

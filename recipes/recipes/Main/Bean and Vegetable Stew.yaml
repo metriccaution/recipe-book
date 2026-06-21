@@ -1,0 +1,94 @@
+identifier: 17d0f42b-f215-45b7-9388-071ac74e5d6a
+title: Bean and Vegetable Stew
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Celery
+- Cheese
+- Family Classics
+- Onion
+- Peppers
+- Preserved Beans
+- Stew
+equipment:
+- Bowl to make dumplings
+- Bowl to soak beans
+- Flameproof serving dish
+- Grill
+- Hob
+- Pan
+- Sieve
+serves: 5
+prepTime: PT30M
+cookingTime: PT1H20M
+source:
+  type: described
+  description: Family Circle
+ingredients:
+- group: Stew
+  ingredients:
+  - quantity: 400g can
+    ingredient: Butter Beans
+  - quantity: 400g can
+    ingredient: Black-eyed Beans
+  - quantity: '3'
+    ingredient: Carrots
+  - quantity: 2 sticks
+    ingredient: Celery
+  - quantity: '1'
+    ingredient: Green Pepper
+    notes: Small
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: 1 Clove
+    ingredient: Garlic
+  - quantity: 15g
+    ingredient: Butter / Margarine
+  - quantity: 1 tablespoon
+    ingredient: Sunflower Oil
+  - quantity: 750ml
+    ingredient: Stock
+  - quantity: '1'
+    ingredient: Bouquet Garni Sachet
+- group: Dumplings
+  ingredients:
+  - quantity: 115g
+    ingredient: Self Raising Flour
+  - quantity: 70g
+    ingredient: Cheddar Cheese
+    notes: grated
+  - quantity: 30g
+    ingredient: Shredded Suet
+  - quantity: 4 tablespoons
+    ingredient: Cold Water
+steps:
+- title: Preparation (Night Before)
+  steps:
+  - text: Wash beans and place them in a bowl of cold water overnight,
+- title: Preparation (Immediately Before)
+  steps:
+  - text: Peel and slice the carrots,
+  - text: Scrub, trim and chop celery,
+  - text: Cut peppers into thin rings (minus ends and seeds),
+  - text: Peel and finely chop onion,
+  - text: Peel & crush garlic,
+  - text: Drain the beans,
+- title: Stew
+  steps:
+  - text: Melt the butter in a saucepan with the oil, add the carrots, celery, peppers,
+      onion and garlic and fry gently for 2 minutes without browning.
+  - text: Add the beans, stock and bouquet garni sachet with pepper. Bring to the
+      boil then simmer gently for 75 minutes.
+- title: Dumplings
+  steps:
+  - text: While the stew's cooking sift the flour with a pinch of salt into a bowl.
+      Add the suet and 1.5oz of the cheese.
+  - text: Mix in 4 tablespoons of cold water one at a time. This should form a soft,
+      but not sticky dough.
+  - text: Kneed gently and form into 6 balls.
+  - text: 15 minutes before the stew's finished place the dumplings on the top and
+      cover. Simmer for 15 minutes.
+  - text: Discard the bouquet garni and put the stew into a flameproof serving dish.
+  - text: Sprinkle on the remaining cheese and place under a hot grill for 3 minutes
+      until the cheese has melted.

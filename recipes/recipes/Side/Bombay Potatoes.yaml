@@ -1,0 +1,73 @@
+identifier: f69d18ff-6f22-4a24-9f93-ed2b290d936f
+title: Bombay Potatoes
+section: Side
+created_at: '2024-09-27'
+tags:
+- Curry
+- Potato
+- Tomato
+equipment:
+- Food processor
+- Frying pan
+- Hob
+- Saucepan
+serves: 4
+prepTime: PT10M
+cookingTime: PT30M
+source:
+  type: url
+  url: https://www.jamieoliver.com/recipes/potato-recipes/bombay-potatoes
+  description: Jamie Oliver
+ingredients:
+- ingredients:
+  - quantity: 2 cm
+    ingredient: Ginger
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: '2'
+    ingredient: Whole Tomatoes
+  - quantity: 600 g
+    ingredient: Potatoes
+    notes: Cooked
+  - quantity: 3 tbsp
+    ingredient: Vegetable Oil
+    notes: To fry
+  - quantity: '8'
+    ingredient: Spring Onions
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: Red
+  - quantity: Handful
+    ingredient: Fresh Coriander
+  - quantity: 1 teaspoon
+    ingredient: Cumin Seeds
+  - quantity: 1 teaspoon
+    ingredient: Mustard Seeds
+  - quantity: 1 teaspoon
+    ingredient: Ground Turmeric
+  - quantity: 1 teaspoon
+    ingredient: Coriander Seeds
+  - quantity: 1 pinch
+    ingredient: Garam Masala
+  - quantity: 4 tablespoons
+    ingredient: Greek Yoghurt
+steps:
+- steps:
+  - text: Cook the potatoes.
+  - text: Peel the ginger and garlic, chop the tomatoes, then place in a blender and
+      blitz until smooth. Chop the potatoes into 5cm chunks.
+  - text: "Pour 2 tablespoons of vegetable oil into a large non-stick frying pan over\
+      \ a medium\u2013high heat."
+  - text: Add the potatoes and cook for 10 minutes, or until golden, gently squishing
+      them with a potato masher to increase the surface area and give you more crispy
+      bits.
+  - text: Trim and roughly chop the spring onions, and deseed and finely slice the
+      chilli (how much you use depends on how hot you like it!). Pick the coriander
+      leaves and reserve, then finely chop the stalks.
+  - text: Add the cumin and mustard seeds to the pan and cook for 1 minute, until
+      the cumin starts to darken.
+  - text: Add the spring onion, chilli and coriander stalks and cook for 2 minutes
+  - text: "Add the blitzed ginger mixture, the rest of the spices and a pinch of seasoning.\
+      \ Saut\xE9 for 4 to 5 minutes, or until fragrant."
+  - text: Serve the crispy Bombay potatoes with dollops of yoghurt, and the coriander
+      leaves scattered over.

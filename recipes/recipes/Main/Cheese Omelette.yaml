@@ -1,0 +1,33 @@
+identifier: 496b36de-51f3-471f-b87b-9888a95cffbe
+title: Cheese Omelette
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Eggs
+equipment: []
+serves: 1
+prepTime: PT5M
+cookingTime: PT5M
+source:
+  type: described
+  description: Me
+ingredients:
+- ingredients:
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 100g
+    ingredient: Cheddar Cheese
+  - quantity: 50ml
+    ingredient: Milk
+  - quantity: 1 tbsp
+    ingredient: Olive Oil
+steps:
+- steps:
+  - text: Preheat the grill
+  - text: Beat the eggs with the milk
+  - text: Heat a pan on a medium heat, add the eggs
+  - text: Stir until beginning to set, then stop
+  - text: Leave until omelette firms up to the desired consistency
+  - text: Add the cheese
+  - text: Once the omelette is set, put it under the grill

@@ -1,0 +1,33 @@
+identifier: b72cf6dd-56b6-4512-b306-2b7c222a43c3
+title: Buttered Carrots With Parsley
+section: Side
+created_at: '2024-09-27'
+tags:
+- Carrot
+equipment: []
+serves: 3
+prepTime: PT5M
+cookingTime: PT5M
+source:
+  type: described
+  description: Abel & Cole
+ingredients:
+- ingredients:
+  - quantity: 500g
+    ingredient: Carrots
+  - quantity: 1 handful
+    ingredient: Parsley
+  - quantity: 50g
+    ingredient: Butter
+steps:
+- steps:
+  - text: Bring a pan of salted water to the boil.
+  - text: Peel the carrots and slice them into rounds about 1cm thick.
+  - text: When the water is boiling, add the carrots.
+  - text: Simmer for 4-5 mins till the carrots are just tender.
+  - text: While they simmer, finely chop the parsley leaves and stalks.
+  - text: Drain the carrots and return them to the pan.
+  - text: Add 50g butter from the block and season with a pinch of salt and pepper.
+  - text: Toss the carrots with the butter till it's melted.
+  - text: Add the parsley to the pan and stir to coat.
+  - text: Serve immediately

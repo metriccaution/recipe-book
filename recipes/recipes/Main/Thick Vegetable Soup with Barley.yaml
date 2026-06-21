@@ -1,0 +1,44 @@
+identifier: 68f82655-63f6-433d-9561-ce03bbd786a1
+title: Thick Vegetable Soup with Barley
+section: Main
+created_at: '2025-11-02'
+tags:
+- Carrot
+- Onion
+- Potato
+- Soup
+equipment: []
+serves: 3
+prepTime: PT15M
+cookingTime: PT40M
+source:
+  type: described
+  description: The Superfoods Diet Book
+ingredients:
+- ingredients:
+  - quantity: 2tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onion
+    notes: large
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Finely chopped
+  - quantity: '2'
+    ingredient: Carrots
+    notes: Cleaned and sliced thinly
+  - quantity: '2'
+    ingredient: Potatoes
+    notes: Medium sized
+  - quantity: 2 tbsp
+    ingredient: Pot Barley
+    notes: Well washed
+  - quantity: 500ml
+    ingredient: Vegetable Stock
+steps:
+- steps:
+  - text: Heat the oil, then add the onion and garlic, and cook until translucent.
+  - text: Add the carrots, potatoes, and barley. Stir them about in the oil.
+  - text: After a few moments, add the stock, bring to the boil.
+  - text: Season with salt and pepper.
+  - text: Simmer for 30-40 minutes, until the barley's cooked.

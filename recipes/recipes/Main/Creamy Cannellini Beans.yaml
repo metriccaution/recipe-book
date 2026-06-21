@@ -1,0 +1,57 @@
+identifier: f1e5d574-f9f7-4bd5-8294-4228a6d0db49
+title: Creamy Cannellini Beans
+section: Main
+created_at: '2024-09-27'
+tags:
+- Broccoli
+- Coconut
+- Preserved Beans
+- Tomato
+equipment:
+- Hob
+- Saucepan
+- Serving dish
+serves: 2
+prepTime: PT10M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781909881839'
+  description: Veggie Comfort Food (National Trust)
+description: Add some noodles to the pot and this makes a fairly complete meal.
+ingredients:
+- ingredients:
+  - quantity: 2 tbsp
+    ingredient: Coconut Oil
+  - quantity: 1 tsp
+    ingredient: Ginger
+    notes: Finely Sliced
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 2 400g can
+    ingredient: Cannellini Beans
+  - quantity: '1'
+    ingredient: Broccoli Head
+  - quantity: 225 g
+    ingredient: Spinach
+  - quantity: 400ml
+    ingredient: Coconut Milk
+  - quantity: 2 tsp
+    ingredient: Tomato Puree
+  - quantity: 2 tsp
+    ingredient: Parsley
+    notes: Chopped
+  - quantity: 240 ml
+    ingredient: Water
+  - quantity: 1/2 tsp
+    ingredient: Ground Turmeric
+  - quantity: Pinch
+    ingredient: Cayenne Pepper
+steps:
+- steps:
+  - text: Heat the oil in a pan, add ginger, cook for a couple of minutes
+  - text: Add Garlic, cayenne, and turmeric, cook for a couple of minutes
+  - text: Add the cannellini beans, broccoli, and water
+  - text: Bring to a boil, simmer for 5 minutes, until broccoli is just tender
+  - text: Add spinach and coconut milk, cook until spinach wilts
+  - text: Stir in tomato puree, sprinkle with chopped parsley

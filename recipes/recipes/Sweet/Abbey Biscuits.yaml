@@ -1,0 +1,60 @@
+identifier: 365d2b36-94e0-459f-ae04-8872afdd71b4
+title: Abbey Biscuits
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Biscuit
+- Chocolate
+- Family Classics
+equipment:
+- Bowl
+- Optional - food processor
+- Oven
+serves: 16
+prepTime: PT20M
+cookingTime: PT20M
+source:
+  type: described
+  description: National Trust recipe book
+description: Makes 16 biscuits.
+ingredients:
+- group: Biscuits
+  ingredients:
+  - quantity: 100g
+    ingredient: Butter
+    notes: softened
+  - quantity: 100g
+    ingredient: Caster Sugar
+  - quantity: 1 teaspoon
+    ingredient: Golden Syrup
+  - quantity: 100g
+    ingredient: Self Raising Flour
+    notes: sifted
+  - quantity: 100g
+    ingredient: Porridge Oats
+  - quantity: 1/2 tablespoon
+    ingredient: Milk Powder
+    notes: full-cream
+  - quantity: 1/2 teaspoon
+    ingredient: Bicarbonate of Soda
+- group: Coating (Optional)
+  ingredients:
+  - quantity: 275g
+    ingredient: Milk Chocolate
+steps:
+- title: Biscuits
+  steps:
+  - text: Pre-heat oven to 150C. Grease two baking trays.
+  - text: Beat together the butter, sugar and syrup until light and fluffy. This takes
+      a lot of mixing!
+  - text: Add the other ingredients and work together.
+  - text: Form the mixture into balls weighing approximately 25g and place on the
+      baking tray, press them down slightly. It does help to weigh this as it's less
+      than you'd expect.
+  - text: Bake for 20 minutes until pale golden.
+  - text: Remove from the oven and leave to cool on the trays for a few minutes before
+      lifting onto a wire rack to cool completely.
+- title: Coating (Optional)
+  steps:
+  - text: Melt the chocolate in a narrow by deep container.
+  - text: Dip the biscuits into the chocolate so that half of each biscuit is covered.

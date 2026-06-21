@@ -1,0 +1,43 @@
+identifier: a52f340a-d661-4df5-9734-d2bd29b02b59
+title: White Bread
+section: Baking
+created_at: '2024-09-28'
+tags:
+- Bread
+equipment:
+- Loaf Tin
+- Mixing bowl
+- Oven
+prepTime: PT2H15M
+cookingTime: PT35M
+source:
+  type: book
+  isbn: '9780753724903'
+  page: 20
+  description: 100 Great Breads
+ingredients:
+- ingredients:
+  - quantity: 500g
+    ingredient: Plain Flour
+  - quantity: 10g
+    ingredient: Salt
+  - quantity: 60 ml
+    ingredient: Olive Oil
+  - quantity: 15g
+    ingredient: Yeast
+  - quantity: 270ml
+    ingredient: Water
+    notes: Warm
+steps:
+- steps:
+  - text: Mix all the ingredients in a large bowl, taking care not to put the yeast
+      on top of the salt.
+  - text: Knead well with your hands and knuckles.
+  - text: Leave for an hour.
+  - text: Oil a 450g loaf tin.
+  - text: Tip the dough out onto a lightly floured surface and mould into a sausage
+      shape.
+  - text: Put the dough into the tin, and leave to rise for 30 minutes - 1 hour.
+  - text: Preheat the oven to 230 C / mark 8.
+  - text: Dust the top of the dough with flour, bake for 35 minutes.
+  - text: Take out of the oven and turn the load out onto a wire rack to cool.

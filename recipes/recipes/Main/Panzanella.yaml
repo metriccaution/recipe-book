@@ -1,0 +1,54 @@
+identifier: e0b84013-0f04-4189-b708-6a17502e4750
+title: Panzanella
+section: Main
+created_at: '2026-03-20'
+tags:
+- Fermented
+- Olive
+- Peppers
+- Salad
+- Tomato
+equipment: []
+serves: 3
+prepTime: PT30M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9780752816777'
+  description: Cranks Recipe Book
+ingredients:
+- ingredients:
+  - quantity: '2'
+    ingredient: Ciabatta loaves
+  - quantity: 1kg
+    ingredient: Tomatoes
+  - quantity: 6 cloves
+    ingredient: Garlic
+  - quantity: 350 ml
+    ingredient: Olive Oil
+  - quantity: 4 tbsp
+    ingredient: Balsamic Vinegar
+  - quantity: '3'
+    ingredient: Red Peppers
+  - quantity: '3'
+    ingredient: Yellow Peppers
+  - quantity: '2'
+    ingredient: Fresh Chillies
+  - quantity: 100g
+    ingredient: Capers
+  - quantity: 250g
+    ingredient: Black Olives
+  - quantity: Handful
+    ingredient: Basil
+steps:
+- steps:
+  - text: Place the bread in a large bowl
+  - text: Skin the tomatoes, then halve, and de-seed into a sieve (to collect the
+      juice). Set the tomato halves to one side.
+  - text: Add the garlic, black pepper, olive oil, and balsamic vinegar to the juice
+      to make a dressing.
+  - text: Pour the dressing over the bread, and toss until its absorbed.
+  - text: Grill the peppers and chillis until charred.
+  - text: Cut the peppers into strips, and finely chop the chillis.
+  - text: Rinse off the capers.
+  - text: Combine the ingredients into a bowl, layering the salad.

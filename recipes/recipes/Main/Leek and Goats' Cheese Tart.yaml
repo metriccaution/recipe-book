@@ -1,0 +1,76 @@
+identifier: 2299dec0-12a1-4e26-97cd-84e043a6226b
+title: Leek and Goats' Cheese Tart
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Eggs
+- Leek
+- Pie
+equipment: []
+serves: 3
+prepTime: PT1H
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780563488187'
+  description: Delia's Vegetarian Collection
+ingredients:
+- group: Pastry
+  ingredients:
+  - quantity: 25g
+    ingredient: Firm Goat's Cheese
+  - quantity: 110g
+    ingredient: Plain Flour
+  - quantity: 50g
+    ingredient: Butter
+- group: Filling
+  ingredients:
+  - quantity: 625g
+    ingredient: Leeks
+  - quantity: 175g
+    ingredient: Firm Goat's Cheese
+  - quantity: 10g
+    ingredient: Butter
+  - quantity: '3'
+    ingredient: Eggs
+    notes: Large, beaten
+  - quantity: 220ml
+    ingredient: "Cr\xE8me Fra\xEEche"
+  - quantity: '4'
+    ingredient: Spring Onions
+steps:
+- title: Pastry
+  steps:
+  - text: Sift the flour and salt into a large bowl.
+  - text: Add the butter by rubbing it in with your fingertips.
+  - text: Crumble the goats cheese in, along with 2 tbsp of cold water.
+  - text: Mix the pastry together with a knife until it comes together, finishing
+      off with your hands, to form a smooth dough.
+  - text: Put the dough in the fridge for 30 minutes in a bag.
+  - text: Pre-heat the oven to 190C.
+- title: Filling
+  steps:
+  - text: Take off the leek greens, then slice the bodies into 1cm strips.
+  - text: Melt the butter, then add the leeks, with some salt. Cook gently for 15
+      minutes.
+  - text: Transfer the leeks into a sieve over a bowl, and press to drain.
+- title: Baking the Pastry
+  steps:
+  - text: Lightly grease a 19cm tin.
+  - text: Roll the pastry out into a circle, turning occasionally, until its large
+      enough to go up the sides of the tin.
+  - text: Ease the pastry into the tin, then press it firmly into the edges of the
+      tin. Trim the excess.
+  - text: Prick the base all over with a fork.
+  - text: Paint beaten egg over the base and sides.
+  - text: Bake the pastry for 25 minutes, checking occasionally that it isn't rising
+      up. Prick it with a fork if it is.
+- title: Assembly
+  steps:
+  - text: Crumble the goats cheese, and combine with the leeks.
+  - text: "Mix the beaten eggs with the Cr\xE8me Fra\xEEche / cream, lightly seasoning."
+  - text: Arrange the leek mixture in the pastry.
+  - text: Pour the egg mixture on top.
+  - text: Put back in the oven for 30-35 minutes, until its firm in the center.
+  - text: Allow to cool for 10 minutes before serving.

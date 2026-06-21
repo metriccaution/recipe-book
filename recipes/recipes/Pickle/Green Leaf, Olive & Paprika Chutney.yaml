@@ -1,0 +1,53 @@
+identifier: 57905bd1-dfd0-454b-9bab-08890067b523
+title: Green Leaf, Olive & Paprika Chutney
+section: Pickle
+created_at: '2024-09-27'
+tags:
+- Celery
+- Olive
+equipment: []
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9781445499611'
+  description: Pickles & Preserves
+description: This recipe makes 350g and lasts a couple of days.
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Spinach
+  - quantity: Handful
+    ingredient: Celery Leaves
+  - quantity: 3 tbsp
+    ingredient: Olive Oil
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+  - quantity: '8'
+    ingredient: Black Olives
+    notes: Stoned and finely chopped
+  - quantity: 1 handful
+    ingredient: Parsley
+    notes: Flat-leaf, finely chopped
+  - quantity: 1 tsp
+    ingredient: Smoked Paprika
+  - quantity: 15ml
+    ingredient: Lemon Juice
+steps:
+- steps:
+  - text: Prepare leaves
+    substeps:
+    - text: Steam spinach and celery leaves until tender
+    - text: Refresh leaves under cold water
+    - text: Squeeze excess water from leaves
+    - text: Chop to a pulp
+  - text: Prepare olives
+    substeps:
+    - text: Heat 2 tbsp of oil in a pan
+    - text: Add the garlic and cumin seeds, cook for 1-2 minutes, stirring regularly
+    - text: Add the olives, parsley, coriander and paprika
+  - text: Toss in the spinach and celery, cook for 10 minutes
+  - text: Season with salt and pepper
+  - text: Add remaining oil and lemon juice
+  - text: Mix well
+  - text: Once cold, transfer to an airtight container and store in the fridge

@@ -1,0 +1,56 @@
+identifier: 350d4864-ac12-4d4e-a02f-b0b7155011c0
+title: Bulgar Wheat Risotto
+section: Main
+created_at: '2024-09-27'
+tags:
+- Bulgar Wheat
+- Onion
+- Risotto
+equipment:
+- Hob
+- Non-stick pan
+serves: 2
+prepTime: PT10M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9780751300888'
+  description: Superfast Foods
+ingredients:
+- ingredients:
+  - quantity: 125g
+    ingredient: Butter
+  - quantity: '2'
+    ingredient: Onions
+    notes: medium, finely chopped
+  - quantity: 1 clove
+    ingredient: Garlic
+    notes: finely chopped
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: optional, to taste
+  - quantity: 250g
+    ingredient: Bulgar Wheat
+  - quantity: 450ml
+    ingredient: Vegetable Stock
+  - quantity: Pinch
+    ingredient: Salt / Black Pepper
+    notes: taste
+  - quantity: Pinch
+    ingredient: Peas
+    notes: optional
+  - quantity: 125ml
+    ingredient: Natural Yoghurt
+steps:
+- steps:
+  - text: "Melt the butter in a non-stick pan, and saut\xE9 one onion, garlic and\
+      \ pepper until they are just changing colour."
+  - text: Add the bulgar wheat and stir to cover it with the butter and onion mixture.
+  - text: Add sufficient stock to cover the bulgar wheat by about 2.5cm.
+  - text: Bring to the boil.
+  - text: Add the salt, cover the pan, lower the heat and cook for a further 10 minutes
+      stirring occasionally.
+  - text: By this point, the bulgar wheat should be cooked and the stock absorbed.
+      If it dries out during cooking, add more stock as required.
+  - text: Fry the other onion until almost crispy in olive oil.
+  - text: Serve the risotto with the onions and the yoghurt.

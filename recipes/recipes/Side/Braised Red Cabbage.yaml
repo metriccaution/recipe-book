@@ -1,0 +1,44 @@
+identifier: c6913d1c-364c-4fcb-b9e7-baa236b13f91
+title: Braised Red Cabbage
+section: Side
+created_at: '2024-12-23'
+tags:
+- Onion
+equipment: []
+serves: 6
+prepTime: PT15M
+cookingTime: PT1H30M
+source:
+  type: described
+  description: From one of the Christmas recipe selections.
+ingredients:
+- ingredients:
+  - quantity: 1kg
+    ingredient: Red Cabbage
+  - quantity: '2'
+    ingredient: Onions
+  - quantity: '2'
+    ingredient: Apple
+  - quantity: 10g
+    ingredient: Sugar
+  - quantity: '1'
+    ingredient: Bouquet Garni Sachet
+  - quantity: 30ml
+    ingredient: Water
+  - quantity: 30ml
+    ingredient: Red Wine Vinegar
+  - quantity: 30g
+    ingredient: Butter
+steps:
+- steps:
+  - text: Shred the cabbage finely, discarding any discoloured outside leaves and
+      coarse stems.
+  - text: Layer the cabbage in a 3.4-1 (6-pr) casserole with the onions, apples, sugar
+      and seasoning.
+  - text: Put the bouquet garni in the centre and pour the water and vinegar over.
+  - text: "Cover tightly and cook in the oven at 200\xB0C (400\xB0F) mark 6 for 1\
+      \ hour."
+  - text: Remove the lid and continue cooking for about 30 minutes, until the liquid
+      is evaporated.
+  - text: Add butter or margarine and mix with the cabbage at the end of the cooking
+      time.

@@ -1,0 +1,34 @@
+identifier: 93a151a5-2083-41af-b1ad-516c2b25bbd9
+title: Probiotic Bircher
+section: Main
+created_at: '2026-01-31'
+tags:
+- Breakfast
+- Fermented
+equipment: []
+serves: 1
+prepTime: PT8M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Apple
+  - quantity: 125 ml
+    ingredient: Kefir
+  - quantity: 60 ml
+    ingredient: Milk
+  - quantity: 2 tbsp
+    ingredient: Greek Yoghurt
+  - quantity: 1 tbsp
+    ingredient: Ground Cinnamon
+  - quantity: 60g
+    ingredient: Jumbo Oats
+  - quantity: 2 tbsp
+    ingredient: Mixed Seeds
+steps:
+- steps:
+  - text: Mix all ingredients in a bowl, cover and leave in the fridge for at least
+      2 hours.

@@ -1,0 +1,51 @@
+identifier: 5bbf2368-6f5d-4155-bb7a-582657b2429e
+title: Leek and Potato Soup
+section: Main
+created_at: '2024-09-27'
+tags:
+- Carrot
+- Celery
+- Leek
+- Onion
+- Potato
+- Soup
+equipment: []
+serves: 3
+prepTime: PT15M
+cookingTime: PT30M
+source:
+  type: url
+  url: https://www.jamieoliver.com/recipes/vegetables-recipes/leek-and-potato-soup/
+  description: Jamie Oliver
+ingredients:
+- ingredients:
+  - quantity: '2'
+    ingredient: Carrots
+  - quantity: 2 sticks
+    ingredient: Celery
+  - quantity: '2'
+    ingredient: Onions
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 400g
+    ingredient: Leeks
+  - quantity: 400g
+    ingredient: Potatoes
+  - quantity: 2l
+    ingredient: Vegetable Stock
+steps:
+- steps:
+  - text: Trim, peel and roughly slice the carrots and celery. Peel and roughly chop
+      the onions. Peel and finely slice the garlic.
+  - text: Cut the ends off the leeks, quarter them length-ways, wash them under running
+      water and cut them into 1cm slices.
+  - text: Heat 2 tablespoons of oil in a large pan on a high heat, add all the chopped
+      and sliced ingredients and cook with the lid ajar for 10 minutes, or until softened,
+      stirring regularly.
+  - text: Meanwhile, peel the potatoes and cut them into 1cm cubes.
+  - text: Put the stock cubes into a jug or pan, pour in 2 litres of boiling water
+      and stir to dissolve, then pour into the veg pan.
+  - text: Add the potatoes. Bring to the boil, then reduce the heat to low and simmer
+      for 10 minutes with the lid on, then remove from the heat.
+  - text: Season to taste with sea salt and black pepper, then either serve like this
+      or pulse until smooth using a stick blender or liquidizer.

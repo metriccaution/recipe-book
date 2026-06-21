@@ -1,0 +1,55 @@
+identifier: 86096669-026e-4e70-94d9-7faabddd2c15
+title: Mushroom and Brie Pasta
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Mushroom
+- Pasta
+- Tomato
+equipment: []
+serves: 2
+prepTime: PT10M
+cookingTime: PT20M
+source:
+  type: book
+  isbn: '9780954317973'
+  page: 164
+  description: Vegetarian Nosh For Students
+ingredients:
+- ingredients:
+  - quantity: 150g
+    ingredient: Dry Pasta
+  - quantity: 1 tbsp
+    ingredient: Oil
+  - quantity: 50ml
+    ingredient: Vegetable Stock
+  - quantity: '3'
+    ingredient: Spring Onions
+    notes: Chopped
+  - quantity: 2 cloves
+    ingredient: Garlic
+    notes: Finely chopped
+  - quantity: '8'
+    ingredient: Mushrooms
+    notes: Sliced
+  - quantity: 50g
+    ingredient: Sun-dried Tomatoes
+    notes: Sliced
+  - quantity: 1 tbsp
+    ingredient: Mustard
+  - quantity: 4 tbsp
+    ingredient: Double Cream
+  - quantity: 125g
+    ingredient: Brie
+    notes: Cut into slices
+steps:
+- steps:
+  - text: Put the pasta on to cook
+  - text: Heat the oil in a pan, fry the spring onions, garlic and mushrooms until
+      the mushrooms are soft
+  - text: Add the stock and summer until reduced
+  - text: Add the tomatoes, mustard, cream and cheese
+  - text: Cook until the brie melts
+  - text: Stir in the cooked pasta
+  - text: Season well

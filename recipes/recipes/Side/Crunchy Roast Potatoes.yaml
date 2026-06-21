@@ -1,0 +1,40 @@
+identifier: 66be833e-482f-4205-9664-d85935eea9bb
+title: Crunchy Roast Potatoes
+section: Side
+created_at: '2025-10-03'
+tags:
+- Potato
+equipment: []
+serves: 8
+prepTime: PT20M
+cookingTime: PT1H10M
+source:
+  type: described
+  description: Abel & Cole
+ingredients:
+- ingredients:
+  - quantity: 2kg
+    ingredient: Potatoes
+  - quantity: Handful
+    ingredient: Thyme
+  - quantity: 4 tbsp
+    ingredient: Vegetable Oil
+steps:
+- steps:
+  - text: Preheat the oven to 200C.
+  - text: Half-fill a large pan with water, add a pinch of salt, and bring to the
+      boil.
+  - text: Scrub & peel potatoes, chop into approximately 4cm chunks, and rinse under
+      cold water.
+  - text: Once the water is boiling, add the potatoes, and simmer for 5 minutes.
+  - text: Drain the potatoes, and pat them dry, giving them a bit of a shake so they
+      flake up at the edges.
+  - text: Allow the potatoes to dry on a clean towel for 10 minutes (don't allow this
+      to go on too long).
+  - text: Add the oil to a large roasting pan, and pre-heat it for 10 minutes.
+  - text: Add the potatoes to the pan and salt, turning the potatoes over to coat
+      them in oil, don't crowd them in the pan.
+  - text: Roast for 45 minutes, turning after 20 minutes.
+  - text: Pick the leaves from the thyme sprigs, and scatter over the potatoes.
+  - text: Return the potatoes to the oven for 10 minutes.
+  - text: Let cool slightly before serving.

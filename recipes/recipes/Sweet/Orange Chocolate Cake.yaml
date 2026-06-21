@@ -1,0 +1,63 @@
+identifier: 06273348-c683-4d3e-bdbe-e5f88069666f
+title: Orange Chocolate Cake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Cake
+- Chocolate
+- Eggs
+equipment:
+- Cake tin
+- Chocolate melting equipment
+- Greaseproof paper
+- Hand blender
+- Mixing bowl
+- Oven
+serves: 12
+prepTime: PT20M
+cookingTime: PT1H
+source:
+  type: book
+  isbn: '9780954317973'
+  description: Vegetarian Nosh For Students
+ingredients:
+- group: Cake
+  ingredients:
+  - quantity: '3'
+    ingredient: Oranges
+  - quantity: '3'
+    ingredient: Eggs
+  - quantity: 360g
+    ingredient: Sugar
+  - quantity: 190ml
+    ingredient: Sunflower Oil
+  - quantity: 100g
+    ingredient: Dark Chocolate
+  - quantity: 3 tablespoons
+    ingredient: Cocoa Powder
+  - quantity: 300g
+    ingredient: Self Raising Flour
+- group: Topping
+  ingredients:
+  - quantity: 200g
+    ingredient: Dark Chocolate
+  - quantity: 300ml
+    ingredient: Double Cream
+steps:
+- title: Cake
+  steps:
+  - text: Preheat the oven to 160C / gas mark 5,
+  - text: Grease a cake tin and line with greaseproof paper,
+  - text: Break up the chocolate and melt in a saucepan, once melted take off the
+      heat,
+  - text: Crate the rind from one orange & place in a mixing bowl,
+  - text: Peel the oranges and blend with the hand-blender,
+  - text: Beat the eggs and add to the oranges, then add the oil and sugar. Beat well,
+  - text: Add the (slightly cooled) chocolate and mex well,
+  - text: Stir in the flour and cocoa and mix well (don't beat),
+  - text: Pour the mix into the cake tin and bake for 50-55 minutes,
+- title: Topping
+  steps:
+  - text: Melt the chocolate,
+  - text: Add the cream and sir well,
+  - text: Let the mix cool slightly then spread on the cake,

@@ -1,0 +1,62 @@
+identifier: 778229a5-ad47-4d5c-9cd1-f5435a89147e
+title: Long Beans & Tomato Curry
+section: Main
+created_at: '2024-09-27'
+tags:
+- Curry
+- Family Classics
+- Nuts
+- Onion
+- Peanut
+- Tomato
+equipment:
+- Hob
+- Kettle
+- Pan with lid
+serves: 2
+prepTime: PT10M
+cookingTime: PT25M
+source:
+  type: book
+  isbn: '9780711202450'
+  page: 94
+  description: The Curry Cook Book
+ingredients:
+- ingredients:
+  - quantity: 250g
+    ingredient: Long Beans
+    notes: Chopped, can substitute french beans.
+  - quantity: 2 tablespoons
+    ingredient: Peanut Oil
+  - quantity: '6'
+    ingredient: Curry Leaves
+  - quantity: '1'
+    ingredient: Onions
+    notes: Medium sized, finely sliced
+  - quantity: 1/2 teaspoon
+    ingredient: Salt
+  - quantity: 1/4 teaspoon
+    ingredient: Black Pepper
+    notes: Ground
+  - quantity: 1 teaspoon
+    ingredient: Chilli Powder
+  - quantity: '1'
+    ingredient: Tomatoes
+    notes: Large sized, finely chopped.
+  - quantity: 2 teaspoons
+    ingredient: Garlic
+    notes: Finely chopped.
+  - quantity: 120ml
+    ingredient: Water
+    notes: Hot
+  - quantity: 1 teaspoon
+    ingredient: Sesame Oil
+steps:
+- steps:
+  - text: Heat oil in a saucepan,
+  - text: Add curry leaves, then onion. Stir till soft and golden.
+  - text: Add salt, pepper, chilli, tomato and garlic. Stir well for 2 minutes.
+  - text: Add water, lower heat, cover and simmer til oil comes to the surface.
+  - text: Raise heat and tir in the beans for 1 minute.
+  - text: Cover and simmer till cooked, crunchy but not mushy.
+  - text: Add sesame oil, stir and serve with rice and accompaniments.

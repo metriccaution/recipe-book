@@ -1,0 +1,47 @@
+identifier: 61bd4bc9-51c9-4075-98c7-fd71886d320f
+title: Satay Sauce
+section: Component
+created_at: '2024-09-27'
+tags:
+- Coconut
+- Nuts
+- Peanut
+- Sauce
+equipment:
+- Hob
+- Saucepan
+prepTime: PT5M
+cookingTime: PT5M
+source:
+  type: described
+  description: Naturally good food website
+ingredients:
+- ingredients:
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 3 cm
+    ingredient: Ginger
+  - quantity: 350g
+    ingredient: Peanut Butter
+  - quantity: 3 Tablespoons
+    ingredient: Soy Sauce
+  - quantity: 3 Tablespoons
+    ingredient: Coconut Milk
+    notes: Approximate, can use water instead
+  - quantity: 2 tbsp
+    ingredient: Flavourless Oil
+    notes: For frying
+  - quantity: '1'
+    ingredient: Fresh Chilli
+    notes: Optional
+  - quantity: 3 Tablespoons
+    ingredient: Lemon Juice
+    notes: Optional, to replace coconut milk
+steps:
+- steps:
+  - text: Gently fry a little chopped garlic and ginger in oil (and chilli, if you're
+      using it).
+  - text: Add the jar of peanut butter, soy sauce and 3 tablespoons of coconut milk,
+  - text: Mix well on a gentle heat - it will thicken as it warms and doesn't need
+      to boil,
+  - text: Add water until it is as thick as you want,

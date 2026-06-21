@@ -1,0 +1,73 @@
+identifier: 63129eab-308f-4aa5-ac94-59e5a976f260
+title: Stir-Fried Vegetables with Coriander Omelette
+section: Main
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Chestnuts
+- Complex
+- Eggs
+- Mushroom
+- Nuts
+- Peppers
+equipment: []
+prepTime: PT15M
+cookingTime: PT15M
+source:
+  type: book
+  isbn: '9781840384772'
+  description: 'Wok & Stir Fry: Fabulous fast food with Asian flavours'
+ingredients:
+- ingredients:
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: Handful
+    ingredient: Fresh Coriander
+    notes: Chopped
+  - quantity: 45ml
+    ingredient: Flavourless Oil
+  - quantity: 1 tbsp
+    ingredient: Cornflour
+  - quantity: 30ml
+    ingredient: Dry Sherry
+  - quantity: 15ml
+    ingredient: Sweet Chilli Sauce
+  - quantity: 120ml
+    ingredient: Vegetable Stock
+  - quantity: 1 tsp
+    ingredient: Ginger
+  - quantity: '6'
+    ingredient: Spring Onions
+    notes: Sliced
+  - quantity: 115g
+    ingredient: Mangetout
+  - quantity: '1'
+    ingredient: Yellow Pepper
+    notes: Seeded & sliced
+  - quantity: 115g
+    ingredient: Shiitake Mushrooms
+  - quantity: 115g can
+    ingredient: Canned Water Chestnuts
+    notes: Drained & rinsed
+  - quantity: 115g
+    ingredient: Beansprouts
+  - quantity: 1/2
+    ingredient: Chinese Cabbage
+    notes: Roughly shredded
+steps:
+- steps:
+  - text: Whisk the eggs, coriander, salt, pepper and 30ml of water in a small bowl
+  - text: Heat the pan, pour the mixture in, and coat the base with the mixture
+  - text: Cook until the edges are crisp
+  - text: Once the Omelette is cooked, turn onto a board to cool, then roll, and cut
+      into thin strips
+  - text: Wipe the pan clean
+  - text: Blend together the cornflour, sherry, chilli sauce and stock to make the
+      glaze, set aside
+  - text: Heat the wok
+  - text: Add the ginger and spring onions, cook for a few seconds, stirring
+  - text: Add the mangetout, sliced pepper, mushroom and water chestnuts
+  - text: Stir-fry for 3 minutes
+  - text: Add the beansprouts and Chinese cabbage, stir fry for 2 minutes
+  - text: Pour in the glaze and cook for 1 minute, until the glaze thickens
+  - text: Serve, topping with the Omelette

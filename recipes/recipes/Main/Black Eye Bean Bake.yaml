@@ -1,0 +1,60 @@
+identifier: 9ebb42b1-6027-4f03-bd72-f7c29588944a
+title: Black Eye Bean Bake
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Family Classics
+- Onion
+- Preserved Beans
+equipment:
+- Frying pan
+- Hob
+- Oven
+prepTime: PT10M
+cookingTime: PT1H30M
+source:
+  type: book
+  isbn: '9780006355366'
+  description: The Bean Book
+ingredients:
+- ingredients:
+  - quantity: 400g can
+    ingredient: Black Eye Beans
+  - quantity: '2'
+    ingredient: Onions
+    notes: large, peeled and sliced
+  - quantity: 3 cloves
+    ingredient: Garlic
+    notes: peeled and crushed
+  - quantity: 3 tablespoons
+    ingredient: Oil
+  - quantity: 1/2 teaspoon
+    ingredient: Thyme
+  - quantity: 1 teaspoon
+    ingredient: Marjoram
+  - quantity: 400ml
+    ingredient: Vegetable Stock
+  - quantity: To taste
+    ingredient: Salt
+  - quantity: To taste
+    ingredient: Black Pepper
+  - quantity: 50g
+    ingredient: Fresh Wholemeal Breadcrumbs
+    notes: topping
+  - quantity: 50g
+    ingredient: Cheddar Cheese
+    notes: grated
+steps:
+- steps:
+  - text: Heat oven to gas mark 4 / 180c / 350f,
+  - text: Fry onion and garlic in oil for 10 minutes or so until soft.
+  - text: Add rinsed and drained beans,herbs and water.
+  - text: Bring to the boil and simmer gently for 45 minutes or so until the beans
+      are tender.
+  - text: Mash the mixture (or briefly process in a food processor if you have one)
+      to an interesting texture.
+  - text: Season to taste.
+  - text: Spoon into a shallow baking dish.
+  - text: Sprinkle with breadcrumbs and cheese.
+  - text: Bake in oven for 30mins until the top is crunchy.

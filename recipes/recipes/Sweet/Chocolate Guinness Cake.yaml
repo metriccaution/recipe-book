@@ -1,0 +1,70 @@
+identifier: 496a2fd7-c808-48ca-8505-17a7524e8785
+title: Chocolate Guinness Cake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Alcohol
+- Cake
+- Cheese
+- Eggs
+- Family Classics
+equipment:
+- 23cm springform tin
+- Baking paper
+- Cooling rack
+- Hob
+- Large saucepan
+- Oven
+- Sieve
+- Whisk
+serves: 12
+prepTime: PT20M
+cookingTime: PT1H
+source:
+  type: url
+  url: https://www.nigella.com/recipes/chocolate-guinness-cake
+  description: Nigella Lawson
+description: This is a _big_ cake and could easily be halved.
+ingredients:
+- group: The Cake
+  ingredients:
+  - quantity: 250ml
+    ingredient: Guinness
+  - quantity: 250g
+    ingredient: Unsalted Butter
+  - quantity: 75g
+    ingredient: Cocoa Powder
+  - quantity: 400g
+    ingredient: Caster Sugar
+  - quantity: 142ml
+    ingredient: Sour Cream
+  - quantity: '2'
+    ingredient: Eggs
+  - quantity: 1 tablespoon
+    ingredient: Vanilla Extract
+  - quantity: 275g
+    ingredient: Plain Flour
+  - quantity: 2.5 teaspoons
+    ingredient: Bicarbonate of Soda
+- group: The Topping
+  ingredients:
+  - quantity: 300g
+    ingredient: Philadelphia Cream Cheese
+  - quantity: 150g
+    ingredient: Icing Sugar
+  - quantity: 125ml
+    ingredient: Double Cream
+steps:
+- steps:
+  - text: Preheat the oven to 180C, butter and line a 23cm springform tin,
+  - text: Pour the Guinness into a large wide saucepan, add the butter - in spoons
+      or slices - and heat until the butter's melted, at which point whisk in the
+      cocoa and sugar.
+  - text: Beat the sour cream with the eggs separately and vanilla .
+  - text: Pour the egg mixture into the pan.
+  - text: Whisk in the flour and bicarbonate of soda.
+  - text: Pour the cake batter into the greased and lined tin and bake for 45-60 minutes.
+  - text: Leave to cool completely in the tin or on a cooling rack (it's a damp cake).
+  - text: Lightly whip the cream cheese until smooth, sieve in the icing sugar then
+      whip both together.
+  - text: Once the cake is cold, sit it on a flat platter or cake stand and ice it.

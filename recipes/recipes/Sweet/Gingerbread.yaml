@@ -1,0 +1,54 @@
+identifier: fd79f62d-c914-4f43-96da-3f7e3aaa7c89
+title: Gingerbread
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Biscuit
+- Eggs
+equipment:
+- Baking tray
+- Bowl
+- Hob
+- Oven
+- Saucepan
+prepTime: PT15M
+cookingTime: PT10M
+source:
+  type: url
+  url: https://www.bbcgoodfood.com/recipes/gingerbread-bunting
+  description: BBC
+description: Makes 16 biscuits.
+ingredients:
+- ingredients:
+  - quantity: 175g
+    ingredient: Dark Muscovado Sugar
+  - quantity: 85g
+    ingredient: Golden Syrup
+  - quantity: 100g
+    ingredient: Butter
+  - quantity: 350g
+    ingredient: Wholemeal Flour
+  - quantity: 1 teaspoon
+    ingredient: Bicarbonate of Soda
+  - quantity: 1 tablespoon
+    ingredient: Ground Ginger
+  - quantity: 2 teaspoon
+    ingredient: Ground Cinnamon
+  - quantity: '1'
+    ingredient: Eggs
+    notes: lightly beaten
+  - quantity: 1/2 teaspoon
+    ingredient: Black Pepper
+    notes: 5 grinds
+  - quantity: pinch
+    ingredient: Salt
+steps:
+- steps:
+  - text: Pre-heat the oven to 200C/gas6 and line the baking tray.
+  - text: Put the flour, bicarbonate of soda and spices into a bowl. Then add the
+      warm syrup mixture and the egg. Stir to combine.
+  - text: Put the sugar, syrup, butter and a pinch of salt into a saucepan. Bubble
+      for 1-2 minutes while mixing.
+  - text: Dust the work surface with a little flour, then roll the dough out.
+  - text: Cut into desired shapes,
+  - text: Place shapes onto a baking tray and cook for 10-12 minutes,

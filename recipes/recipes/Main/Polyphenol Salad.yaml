@@ -1,0 +1,62 @@
+identifier: 3321ada7-2c6b-4979-a08a-2517dc59f02e
+title: Polyphenol Salad
+section: Main
+created_at: '2025-11-24'
+tags:
+- Carrot
+- Cauliflower
+- Fermented
+- Salad
+- Tofu
+equipment: []
+serves: 2
+prepTime: PT20M
+cookingTime: PT30M
+source:
+  type: book
+  isbn: '9781787335233'
+  page: 136
+  description: The Food For Life Cookbook
+description: Soaking the radicchio in ice water for 30 minutes will reduce its bitterness.
+ingredients:
+- group: Dressing
+  ingredients:
+  - quantity: 30g
+    ingredient: Tofu
+    notes: Silken
+  - quantity: 2 tbsp
+    ingredient: Kimchi
+  - quantity: 1 tsp
+    ingredient: Miso
+  - quantity: 2 tbsp
+    ingredient: Apple Cider Vinegar
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+- group: Salad
+  ingredients:
+  - quantity: '3'
+    ingredient: Carrots
+    notes: peeled, halved and cut into 2.5cm pieces
+  - quantity: 1/2
+    ingredient: Red Cabbage
+    notes: core removed and sliced into thin wedges
+  - quantity: 1/2
+    ingredient: Cauliflower
+    notes: cut into large chunks, stalk included
+  - quantity: 3 tbsp
+    ingredient: Olive Oil
+  - quantity: 1/2 head
+    ingredient: Radicchio
+  - quantity: 2 tbsp
+    ingredient: Pumpkin Seeds
+steps:
+- steps:
+  - text: Place all the dressing ingredients in a blender and blitz until smooth.
+  - text: "Preheat the oven to 200\xB0C/180\xB0C fan/400\xB0F/gas 6 and line a baking\
+      \ tray with baking parchment."
+  - text: Lay the carrots, cabbage and cauliflower on the tray, drizzle the olive
+      oil all over.
+  - text: Season and roast in the oven for 30 minutes, tossing halfway through.
+  - text: When ready, allow to cool slightly and transfer to a large bowl with the
+      radicchio, kimchi dressing and pumpkin seeds. Toss to coat, season one last
+      time and serve

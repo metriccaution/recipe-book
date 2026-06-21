@@ -1,0 +1,55 @@
+identifier: 56b5c55c-f083-4eb2-a07a-a5ec310f422f
+title: Greek Salad
+section: Main
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Cucumber
+- Olive
+- Salad
+- Tomato
+equipment: []
+serves: 3
+prepTime: PT20M
+source:
+  type: book
+  isbn: '9781909881839'
+  description: Veggie Comfort Food (National Trust)
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Lettuce
+    notes: Large
+  - quantity: Handful
+    ingredient: Rocket Leaves
+  - quantity: '4'
+    ingredient: Tomatoes
+    notes: Large, Halved, cut into segments
+  - quantity: '1'
+    ingredient: Cucumbers
+    notes: Quartered and sliced
+  - quantity: 110g
+    ingredient: Black Olives
+  - quantity: 1 tbsp
+    ingredient: Capers
+  - quantity: 110g
+    ingredient: Feta Cheese
+    notes: Cut into 1cm cubes
+  - quantity: Handful
+    ingredient: Basil
+  - quantity: 1 tbsp
+    ingredient: White Wine Vinegar
+  - quantity: 1 tbsp
+    ingredient: Mustard
+  - quantity: 4 tbsp
+    ingredient: Olive Oil
+steps:
+- steps:
+  - text: Tear the lettuce into bite-sized pieces into a large salad bowl, add the
+      rocket
+  - text: Add the tomatoes, cucumbers, olives, capers and feta
+  - text: Mix gently
+  - text: Tear the basil into the salad
+  - text: Season with salt and pepper
+  - text: Whisk together the vinegar, mustard and oil
+  - text: Pour the dressing over the salad

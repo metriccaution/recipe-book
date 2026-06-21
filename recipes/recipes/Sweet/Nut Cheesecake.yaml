@@ -1,0 +1,56 @@
+identifier: d4ef3de1-724f-4d24-b2a9-b4a67acc4ef9
+title: Nut Cheesecake
+section: Sweet
+created_at: '2024-09-27'
+tags:
+- Cheese
+- Chocolate
+- Nuts
+equipment:
+- 7 inch flan ring
+- Equipment to crush biscuits (I'd advise a bag & rowling pin)
+- Equipment to whip cream (bowl & whisk or machine)
+prepTime: PT15M
+source:
+  type: described
+  description: Home and Freezer Digest / Sonia Norgan, Mount Lodge Hotel
+ingredients:
+- group: Cheesecake
+  ingredients:
+  - quantity: 50g
+    ingredient: Butter
+  - quantity: 100g
+    ingredient: Digestive Biscuits
+    notes: crushed
+  - quantity: 25g
+    ingredient: Brown Sugar
+  - quantity: 150ml
+    ingredient: Double Cream
+    notes: whipped
+  - quantity: 125g
+    ingredient: Hazelnut Yoghurt
+  - quantity: 75g
+    ingredient: Cream Cheese
+  - quantity: 50g
+    ingredient: Caster Sugar
+- group: To Finish
+  ingredients:
+  - quantity: 150ml
+    ingredient: Double Cream
+    notes: whipped
+  - quantity: 50g
+    ingredient: Hazelnuts
+    notes: chopped finely
+  - quantity: '1'
+    ingredient: Chocolate Flake
+    notes: crumbled
+steps:
+- steps:
+  - text: Melt butter, stir in biscuits and brown sugar.
+  - text: Press into a 7 inch flan ring.
+  - text: Leave in a fridge to chill.
+  - text: Mix cream and yoghurt together.
+  - text: Cream together cheese and sugar.
+  - text: Gradually add cream and yoghurt to cheese mixture.
+  - text: Pile on the biscuit base and level.
+  - text: Leave to set in the fridge.

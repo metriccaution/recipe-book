@@ -1,0 +1,42 @@
+identifier: e2056f10-f450-48d5-a060-1493093ff8ab
+title: Chilli Pickled Garlic
+section: Pickle
+created_at: '2024-09-27'
+tags:
+- Fermented
+equipment: []
+prepTime: PT15M
+cookingTime: PT10M
+source:
+  type: book
+  isbn: '9781445499611'
+  description: Pickles & Preserves
+description: This recipe makes 1 litre, and lasts 2-3 weeks.
+ingredients:
+- ingredients:
+  - quantity: 500ml
+    ingredient: Cider Vinegar
+  - quantity: 5 tbsp
+    ingredient: Water
+  - quantity: 1 tbsp
+    ingredient: Salt
+  - quantity: 70 g
+    ingredient: Granulated Sugar
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+  - quantity: 1 tsp
+    ingredient: Dried Chillis
+    notes: Crushed
+  - quantity: 13 Bulbs
+    ingredient: Garlic
+    notes: Peeled
+steps:
+- steps:
+  - text: Pour the vinegar, salt, sugar and water into a saucepan, and boil until
+      solids dissolve
+  - text: Reduce heat, add coriander seeds and chillis, simmer for 5 minutes
+  - text: Add garlic cloves, and boil for 1 minute
+  - text: Strain into a jug
+  - text: Pack the garlic and spices into sterilized jars, pour over the vinegar mixture,
+      and leave to cool
+  - text: Seal and store in a cool, dark place

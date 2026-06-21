@@ -1,0 +1,55 @@
+identifier: 9ba32655-8f21-498c-b0c1-e49eed1e6388
+title: Mushroom Stroganoff with Butter Bean Mash
+section: Main
+created_at: '2024-09-27'
+tags:
+- Chestnuts
+- Fermented
+- Mushroom
+- Nuts
+- Onion
+- Preserved Beans
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT45M
+source:
+  type: book
+  isbn: '9781787335233'
+  page: 152
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: 2 x 400g can
+    ingredient: Butter Beans
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+  - quantity: '1'
+    ingredient: Onions
+  - quantity: 3 cloves
+    ingredient: Garlic
+  - quantity: 700g
+    ingredient: Mushrooms
+  - quantity: 1.5 tsp
+    ingredient: Dijon Mustard
+  - quantity: 1 tsp
+    ingredient: Paprika
+  - quantity: 180g
+    ingredient: Chestnuts
+  - quantity: 200g
+    ingredient: Baby Spinach
+  - quantity: 85ml
+    ingredient: Kefir
+steps:
+- steps:
+  - text: Melt some butter in a soup pan, and fry the onion until it starts to brown
+  - text: Finely chop half the garlic and add this
+  - text: Add the herbs and spices
+  - text: Add the lentils
+  - text: Add the stock, stir well
+  - text: Simmer for 40 minutes, until the lentils are soft-ish
+  - text: Season the soup to taste, possibly adding more water
+  - text: Add the Kale, tomatoes, and most of the walnuts
+  - text: Cook for 5 minutes
+  - text: Slice and fry the remaining garlic with the remaining walnuts
+  - text: Serve the soup, garnishing with the garlic-nuts

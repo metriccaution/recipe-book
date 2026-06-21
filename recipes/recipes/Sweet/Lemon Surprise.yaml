@@ -1,0 +1,45 @@
+identifier: 8d8dd602-bb2f-4672-86ff-9ab45b432434
+title: Lemon Surprise
+section: Sweet
+created_at: '2026-05-18'
+tags:
+- Eggs
+equipment: []
+serves: 5
+prepTime: PT30M
+cookingTime: PT50M
+source:
+  type: described
+  description: One of Mum's cookbooks - Lakeland Plastics 32 Recipes.
+ingredients:
+- ingredients:
+  - quantity: 225g
+    ingredient: Caster Sugar
+  - quantity: '2'
+    ingredient: Lemons
+    notes: Large
+  - quantity: 50g
+    ingredient: Self Raising Flour
+  - quantity: 100g
+    ingredient: Butter
+    notes: Softened
+  - quantity: '4'
+    ingredient: Eggs
+  - quantity: 275ml
+    ingredient: Milk
+steps:
+- steps:
+  - text: "Pre-heat the oven to 325\xB0F, 170\xB0C or gas 3"
+  - text: Cream the butter and sugar until fight and fluffy.
+  - text: Separate the eggs.
+  - text: Add the yolks, one at a time, to the creamed mix, beating well.
+  - text: Fold in the grated zest and juice of the lemons, followed by the flour.
+  - text: Mix in ine milk - this will probably make your mixture curdle, don't worry
+      this will be resolved in the cooking.
+  - text: Whisk the egg whites in a clean, grease-free bow! until stiff.
+  - text: Gently, but thoroughly, combine the whites into the sponge mixture.
+  - text: Pour into a baking dish, (a dish which allows the pudding to be more spread
+      out and shallow, rather than a smaller, deeper dish).
+  - text: "Bake in a bain-marie in a pre-heated oven, 325\xB0F, 170\xB0C or gas 3\
+      \ for 50 minutes."
+  - text: Allow to cool for about 20 minutes before serving with cream or ice cream.
