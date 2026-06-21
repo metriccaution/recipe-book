@@ -1,5 +1,7 @@
 set -e
 
+# A "full" build of the recipe book, exporting slices of data, building the PDF, and generating the static site
+
 echo "Testing data"
 ./test.sh > /dev/null
 
