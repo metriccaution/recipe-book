@@ -23,18 +23,24 @@ ingredients:
     ingredient: Olive Oil
 steps:
 - steps:
-  - text: Fill your kettle and boil it. Finely chop the hazelnuts. Snap the woody
-      ends off the asparagus spears-if you bend them, they should snap at the right
-      point.
+  - text: Fill your kettle and boil it.
+  - text: Finely chop the hazelnuts.
+  - text: Snap the woody ends off the asparagus spears-if you bend them, they should
+      snap at the right point.
   - text: Warm a pan over a medium heat. When the pan is hot, scatter in the chopped
-      hazelnuts. Toast them in the dry pan for 2-4 mins, tossing occasionally, till
-      golden and nutty smelling. Tip the toasted hazelnuts into a bowl and set aside.
+      hazelnuts.
+  - text: Toast them in the dry pan for 2-4 mins, tossing occasionally, till golden
+      and nutty smelling.
+  - text: Tip the toasted hazelnuts into a bowl and set aside.
   - text: Give the pan you used to cook a hazelnuts a quick wipe, then pour in the
       hot water from the kettle. Pop the pan back on the hob and bring the water to
-      the boil. When the water is boiling. add the asparagus. Simmer the asparagus
-      for 3-4 mins, till tender and bright green. Drain
+      the boil.
+  - text: When the water is boiling. add the asparagus.
+  - text: Simmer the asparagus for 3-4 mins, till tender and bright green.
+  - text: Drain.
   - text: While the asparagus is cooking, squeeze the lemon juice into the bowl with
-      the hazelnuts. Pour in 1 tbsp olive oil and season with a pinch of salt and
-      pepper. Whisk with a fork to combine.
-  - text: Transfer the cooked asparagus to a warm serving dish. Spoon over the hazelnut
-      and lemon dressing and serve.
+      the hazelnuts.
+  - text: Pour in 1 tbsp olive oil and season with a pinch of salt and pepper. Whisk
+      with a fork to combine.
+  - text: Transfer the cooked asparagus to a warm serving dish.
+  - text: Spoon over the hazelnut and lemon dressing and serve.

@@ -1,0 +1,36 @@
+identifier: 4373497d-3ecf-4355-b532-792ec9cd6d37
+title: Vegan Caesar Dressing
+section: Component
+created_at: '2026-06-22'
+tags:
+- Christmas
+- Nuts
+equipment:
+- Blender
+prepTime: PT5M
+source:
+  type: book
+  isbn: '9781787335233'
+  description: The Food For Life Cookbook
+ingredients:
+- ingredients:
+  - quantity: 35g
+    ingredient: Cashew Nuts
+  - quantity: 1 clove
+    ingredient: Garlic
+  - quantity: 1 tbsp
+    ingredient: Capers
+    notes: Plus a bit of brine
+  - quantity: 2 tsp
+    ingredient: Dijon Mustard
+  - quantity: 1 tbsp
+    ingredient: Nutritional Yeast
+  - quantity: 1/2
+    ingredient: Lemon
+    notes: Zest and juice
+  - quantity: 2 tbsp
+    ingredient: Olive Oil
+steps:
+- steps:
+  - text: Put the ingredients into a blender with 3 tablespoons of water, a pinch
+      of salt and pepper and blitz until smooth.

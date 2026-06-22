@@ -61,6 +61,18 @@ def test_uuids_unique():
     assert len(duplicate_ids) == 0
 
 
+def test_slugs_unique():
+    slugs: dict[str, list[str]] = {}
+
+    for recipe in _repo.recipes:
+        if recipe.slug not in slugs:
+            slugs[recipe.slug] = []
+        slugs[recipe.slug].append(recipe.title)
+
+    duplicate_slugs = [v for v in slugs.values() if len(v) > 1]
+    assert len(duplicate_slugs) == 0
+
+
 @pytest.mark.parametrize(
     "search_string,tag,exclusions",
     [

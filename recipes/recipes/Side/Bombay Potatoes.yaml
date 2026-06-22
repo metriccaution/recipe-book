@@ -55,19 +55,20 @@ steps:
 - steps:
   - text: Cook the potatoes.
   - text: Peel the ginger and garlic, chop the tomatoes, then place in a blender and
-      blitz until smooth. Chop the potatoes into 5cm chunks.
+      blitz until smooth.
+  - text: Chop the potatoes into 5cm chunks.
   - text: "Pour 2 tablespoons of vegetable oil into a large non-stick frying pan over\
       \ a medium\u2013high heat."
   - text: Add the potatoes and cook for 10 minutes, or until golden, gently squishing
       them with a potato masher to increase the surface area and give you more crispy
       bits.
   - text: Trim and roughly chop the spring onions, and deseed and finely slice the
-      chilli (how much you use depends on how hot you like it!). Pick the coriander
-      leaves and reserve, then finely chop the stalks.
+      chilli (how much you use depends on how hot you like it!).
+  - text: Pick the coriander leaves and reserve, then finely chop the stalks.
   - text: Add the cumin and mustard seeds to the pan and cook for 1 minute, until
       the cumin starts to darken.
   - text: Add the spring onion, chilli and coriander stalks and cook for 2 minutes
-  - text: "Add the blitzed ginger mixture, the rest of the spices and a pinch of seasoning.\
-      \ Saut\xE9 for 4 to 5 minutes, or until fragrant."
+  - text: Add the blitzed ginger mixture, the rest of the spices and a pinch of seasoning.
+  - text: "Saut\xE9 for 4 to 5 minutes, or until fragrant."
   - text: Serve the crispy Bombay potatoes with dollops of yoghurt, and the coriander
       leaves scattered over.

@@ -33,8 +33,7 @@ steps:
 - steps:
   - text: Shred the cabbage finely, discarding any discoloured outside leaves and
       coarse stems.
-  - text: Layer the cabbage in a 3.4-1 (6-pr) casserole with the onions, apples, sugar
-      and seasoning.
+  - text: Layer the cabbage in a casserole with the onions, apples, sugar and seasoning.
   - text: Put the bouquet garni in the centre and pour the water and vinegar over.
   - text: "Cover tightly and cook in the oven at 200\xB0C (400\xB0F) mark 6 for 1\
       \ hour."
