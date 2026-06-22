@@ -12,7 +12,7 @@ import { siteUrl } from '../utils.ts';
 <script define:vars={{ base: import.meta.env.BASE_URL }}>
   const basePath = base.replace(/\/$/, '');
   import(basePath + '/pagefind/pagefind-ui.js').then(() => {
-    new window.PagefindUI({ element: '#search', showSubResults: false });
+    new window.PagefindUI({ element: '#search', showSubResults: false, bundlePath: basePath + '/pagefind/' });
   });
 </script>
 
