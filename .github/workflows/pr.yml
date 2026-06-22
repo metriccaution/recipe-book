@@ -1,0 +1,33 @@
+name: PR checks
+
+on:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-caching: true
+
+      - name: Lint
+        run: |
+          uv run ruff check --select I .
+          uv run ruff check .
+          uv run ruff format --check
+
+      - name: Type-check
+        run: uv run pyright housekeeping/
+
+      - name: Unit tests
+        run: uv run pytest --ignore=housekeeping/recipes_tests
+
+      - name: Normalise data
+        run: uv run python -m housekeeping normalise
+
+      - name: Data integrity tests
+        run: uv run pytest housekeeping/recipes_tests
