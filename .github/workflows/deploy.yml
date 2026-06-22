@@ -40,6 +40,7 @@ jobs:
 
       - name: Build site
         run: |
+          mkdir -p site/public
           cp exported/full/repo.json site/public/repo.json
           cp -r ./exported/json_ld site/public/
           cp ./book/recipes.pdf site/public/cookbook.pdf
