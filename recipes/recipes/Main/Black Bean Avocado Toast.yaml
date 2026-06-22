@@ -31,13 +31,11 @@ ingredients:
     ingredient: Olive Oil
 steps:
 - steps:
-  - text: Cut each avocado in half, scoop out the flesh and chop roughly, then add
-      the lime zest and juice and mix well. Do this as soon as possible to prevent
-      the avocado from browning.
+  - text: Cut each avocado in half, scoop out the flesh and chop roughly.
+  - text: Add the lime zest and juice and mix well.
   - text: In a separate bowl, mash half of the black beans until they are mostly broken
       down.
-  - text: Add the remaining beans, coriander, pumpkin seeds, chilli flakes (if using),
-      olive oil and avocado to the bowl and mix until well combined.
+  - text: Add the remaining beans, coriander, pumpkin seeds, chilli flakes, olive
+      oil and avocado to the bowl and mix until well combined.
   - text: Season with salt and pepper.
-  - text: Toast the bread and then top with the smashed avocado. (The remaining avocado
-      will keep in the fridge for up to 3 days if covered).
+  - text: Toast the bread and then top with the smashed avocado.

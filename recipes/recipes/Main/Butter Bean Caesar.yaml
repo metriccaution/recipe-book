@@ -53,7 +53,9 @@ steps:
   - text: Put the dressing ingredients into a blender with 3 tablespoons of water,
       a pinch of salt and pepper and blitz until smooth.
   - text: Put the butter beans onto the tray, toss with the olive oil, season with
-      salt and pepper and spread out in a single layer. Roast for 15 minutes.
+      salt and pepper and spread out in a single layer.
+  - text: Roast the beans for 15 minutes.
+  - text: Chop the baby gem, rocket, and artichokes (remove any tough pieces of artichoke).
   - text: Place the baby gem, rocket and artichokes in a large bowl with a pinch of
       salt and pepper and toss with half the dressing.
   - text: Divide between two plates and top with the butter beans.
