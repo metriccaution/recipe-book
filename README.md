@@ -2,6 +2,10 @@
 
 My collection of recipes, a mix of stuff in my regular rotation, special occasion stuff, and some old favourites from my childhood.
 
+[Online recipe listing](https://metriccaution.github.io/recipe-book/)
+
+[Downloadable recipe PDF](https://metriccaution.github.io/recipe-book/cookbook.pdf)
+
 ## Data
 
 - Data's stored as YAML files in `/recipes/`
