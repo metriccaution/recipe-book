@@ -1,0 +1,75 @@
+identifier: 2ef7e902-454d-482e-858e-81efc22122f0
+title: Veggie Pasanda Traybake
+section: Main
+created_at: '2026-07-11'
+tags:
+- Almond
+- Broccoli
+- Carrot
+- Cauliflower
+- Coconut
+- Nuts
+equipment: []
+serves: 4
+prepTime: PT20M
+cookingTime: PT50M
+source:
+  type: described
+  description: Riverford
+ingredients:
+- ingredients:
+  - quantity: '1'
+    ingredient: Cauliflower
+  - quantity: 500g
+    ingredient: Carrots
+  - quantity: 200g
+    ingredient: Broccoli
+  - quantity: 400ml Can
+    ingredient: Coconut Milk
+  - quantity: 75g
+    ingredient: Ground Almonds
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 1 tsp
+    ingredient: Ginger
+  - quantity: 250g
+    ingredient: White Rice
+  - quantity: 20g
+    ingredient: Flaked Almonds
+  - quantity: 1 tbsp
+    ingredient: Curry Powder
+  - quantity: 2 tsp
+    ingredient: Cumin Seeds
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+  - quantity: 1 tsp
+    ingredient: Cardamom Pods
+  - quantity: 1 tsp
+    ingredient: Ground Turmeric
+steps:
+- title: Roast the Veg
+  steps:
+  - text: "Preheat your oven to 190\xB0C fan."
+  - text: Cut the cauliflower and broccoli into florets
+  - text: Peel and chop the carrots into 3cm chunks
+  - text: Put the veg in a large roasting tin, and drizzle with olive oil, salt, and
+      pepper
+  - text: Roast in the oven for 25-30 minutes, until just starting to char
+- title: Sauce
+  steps:
+  - text: Grind the spices and mix
+  - text: Peel and grate the garlic
+  - text: Heat the coconut milk, ground almonds in a saucepan
+  - text: Leave to simmer and thicken
+- title: Assemble the Curry
+  steps:
+  - text: Remove the roasting tin from the oven
+  - text: Pour over the sauce, and mix well
+  - text: Return to the oven for 15 minutes, until it starts to brown
+- title: Rice
+  steps:
+  - text: Add the rice and 500ml of water to a pan
+  - text: Bring to a simmer, and boil for 10-12 minutes
+- title: Serve
+  steps:
+  - text: Serve the rice and curry together, sprinkled with the flaked almonds
