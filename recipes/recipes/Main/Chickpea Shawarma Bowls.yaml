@@ -1,0 +1,91 @@
+identifier: 6702e1cb-4855-4da7-9c36-a9c8334b7b93
+title: Chickpea Shawarma Bowls
+section: Main
+created_at: '2026-09-25'
+tags:
+- Chickpea
+- Cucumber
+- Olive
+- Onion
+- Preserved Beans
+equipment: []
+serves: 4
+prepTime: PT10M
+cookingTime: PT25M
+source:
+  type: described
+  description: Riverford
+ingredients:
+- group: Roast Chickpeas
+  ingredients:
+  - quantity: 2 x 400g can
+    ingredient: Chickpeas
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Smoked Paprika
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+    notes: Ground
+- group: Quick-Pickled Onion
+  ingredients:
+  - quantity: '1'
+    ingredient: Red Onion
+  - quantity: 1 tbsp
+    ingredient: Red Wine Vinegar
+- group: Salad
+  ingredients:
+  - quantity: '0.5'
+    ingredient: Cucumbers
+  - quantity: 200g
+    ingredient: Cherry Tomatoes
+  - quantity: 60g
+    ingredient: Green Olives
+  - quantity: 10g
+    ingredient: Parsley
+  - quantity: 250ml
+    ingredient: Vegetable Stock
+  - quantity: 200g
+    ingredient: Couscous
+- group: Garlic Sauce
+  ingredients:
+  - quantity: 2 cloves
+    ingredient: Garlic
+  - quantity: 150g
+    ingredient: Natural Yoghurt
+  - quantity: '1'
+    ingredient: Lemon
+- group: To Serve
+  ingredients:
+  - quantity: '8'
+    ingredient: Flatbread
+steps:
+- title: Roast Chickpeas
+  steps:
+  - text: Pre-heat oven to 200C (fan).
+  - text: Drain the chickpeas, and toss them with 1tbsp of olive oil, ground cumin,
+      smoked paprika, ground coriander, salt, and pepper.
+  - text: Spread evenly onto a tray.
+  - text: Roast for 25 minutes.
+- title: Quick Pickled Onions
+  steps:
+  - text: Finely slice the onion.
+  - text: Put in a bowl with vinegar, and salt.
+  - text: Keep mixing as you prepare the other components.
+- title: Salad
+  steps:
+  - text: Dice the cucumber.
+  - text: Halve the cherry tomatoes.
+  - text: Rough-chop the olives.
+  - text: Rough-chop the parsley.
+  - text: Combine.
+  - text: Make 250ml of boiling stock.
+  - text: Pour the stock over the couscous, mix well, and leave for 5 minutes.
+- title: Garlic Sauce
+  steps:
+  - text: Finely chop the garlic, mix it with the yoghurt, and the lemon.
+- title: Serve
+  steps:
+  - text: Warm the flatbread.
+  - text: Serve combined ingredients, wrap in flatbread.

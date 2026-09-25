@@ -1,0 +1,101 @@
+identifier: fe4b777a-a83c-4711-938a-7b462fd626e6
+title: Veggie Korma & Crushed Bombay Potatoes
+section: Main
+created_at: '2026-09-25'
+tags:
+- Broccoli
+- Curry
+- Onion
+- Peppers
+- Potato
+- Tomato
+equipment: []
+serves: 4
+prepTime: PT55M
+cookingTime: PT20M
+source:
+  type: described
+  description: Riverford
+ingredients:
+- ingredients:
+  - quantity: 1kg
+    ingredient: Potatoes
+  - quantity: '1'
+    ingredient: Red Onions
+    notes: Finely sliced
+  - quantity: 4 cloves
+    ingredient: Garlic
+    notes: Chopped
+  - quantity: 20g
+    ingredient: Ginger
+    notes: Chopped
+  - quantity: '2'
+    ingredient: Red Peppers
+    notes: Roughly chopped
+  - quantity: 250g
+    ingredient: Green Beans
+    notes: Halved
+  - quantity: 200g
+    ingredient: Broccoli
+    notes: Cut into even florets
+  - quantity: 18g
+    ingredient: Tomato Puree
+  - quantity: 1 tsp
+    ingredient: Cumin Seeds
+    notes: Ground
+  - quantity: 500ml
+    ingredient: Vegetable Stock
+  - quantity: 125ml
+    ingredient: Double Cream
+  - quantity: 0.5 tsp
+    ingredient: Caraway Seeds
+    notes: Whole
+  - quantity: 10g
+    ingredient: Fresh Coriander
+  - quantity: '1'
+    ingredient: Lemon
+  - quantity: 80g
+    ingredient: Mango Chutney
+  - quantity: 1 tbsp
+    ingredient: Curry Powder
+  - quantity: 1 tsp
+    ingredient: Coriander Seeds
+    notes: Ground
+  - quantity: 1 tsp
+    ingredient: Cardamom Pods
+  - quantity: 1 tsp
+    ingredient: Ground Turmeric
+  - quantity: 1 tsp
+    ingredient: Garam Masala
+  - quantity: 1 tsp
+    ingredient: Mustard Seeds
+    notes: Whole
+steps:
+- title: Potatoes
+  steps:
+  - text: Scrub the potatoes.
+  - text: Transfer to a large saucepan, and cover with water, bring to a boil.
+  - text: Simmer for 20-25 minutes.
+  - text: Drain and cool.
+  - text: Break up into bite-sized pieces.
+  - text: Heat 2 tbsp of oil on a large saucepan (ideally the one used to boil the
+      potatoes). Add the caraway seeds, garam masala, mustard seeds, 2 cloves of chopped
+      garlic, and half the chopped ginger.
+  - text: Heat until the mustard seeds begin to pop.
+  - text: Add the potatoes, and stir vigorously - just to combine.
+- title: Korma
+  steps:
+  - text: Fry the onion in a large saucepan, until starting to soften.
+  - text: Add half the chopped garlic and ginger, cook for 2-3 minutes.
+  - text: Add the tomato puree, ground cumin, curry powder, ground coriander, cardamom,
+      turmeric and cook for 1 minute.
+  - text: Add the peppers, cook for 2 minutes.
+  - text: Add the stock, simmer for 10 minutes.
+  - text: Add the beans, broccoli, and cream, simmer for 5 minutes, until it starts
+      to thicken.
+- title: Combine
+  steps:
+  - text: Pre-heat the oven to 180C.
+  - text: Combine the korma and the potatoes in a large baking dish.
+  - text: Bake for 15-20 minutes.
+  - text: Serve with fresh, copped coriander, lemon wedges and chutney.
