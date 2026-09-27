@@ -12,14 +12,13 @@ cookingTime: PT45M
 source:
   type: described
   description: Lakeland Plastics 32 Recipes
-description: The original recipe came from the inimitable Sharrow Bay Hotel, in the
-  Lake District.
+description: The original recipe came from the Sharrow Bay Hotel, in the Lake District.
 ingredients:
 - group: Pudding
   ingredients:
   - quantity: 50g
     ingredient: Butter
-  - quantity: 15g
+  - quantity: 175g
     ingredient: Caster Sugar
   - quantity: '1'
     ingredient: Egg
