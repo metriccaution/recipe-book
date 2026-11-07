@@ -18,25 +18,25 @@ source:
   description: Cranks Recipe Book
 ingredients:
 - ingredients:
-  - quantity: '2'
+  - quantity: '1'
     ingredient: Ciabatta loaves
-  - quantity: 1kg
+  - quantity: 500g
     ingredient: Tomatoes
   - quantity: 6 cloves
     ingredient: Garlic
   - quantity: 350 ml
     ingredient: Olive Oil
-  - quantity: 4 tbsp
+  - quantity: 2 tbsp
     ingredient: Balsamic Vinegar
-  - quantity: '3'
-    ingredient: Red Peppers
-  - quantity: '3'
-    ingredient: Yellow Peppers
   - quantity: '2'
+    ingredient: Red Peppers
+  - quantity: '1'
+    ingredient: Yellow Peppers
+  - quantity: '1'
     ingredient: Fresh Chillies
-  - quantity: 100g
+  - quantity: 50g
     ingredient: Capers
-  - quantity: 250g
+  - quantity: 150g
     ingredient: Black Olives
   - quantity: Handful
     ingredient: Basil
